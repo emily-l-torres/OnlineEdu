@@ -17,7 +17,7 @@ To analyze each section of data, I segmented the data utilizing the following:
 ### Counts of All Age Groups
 ![Distribution of Age Groups Based on Demographic Data](assets/images/age_groups_count.png)
 
-# Age Group Counts Summary
+### Age Group Counts Summary
 | Age Group | Count |
 | ------------- | ------------- |
 | 18-24  | 440  |
