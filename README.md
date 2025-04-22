@@ -14,7 +14,7 @@ To analyze each section of data, I segmented the data utilizing the following:
 - Platform Engagement: Age Group (Demographic Data)
 
 ## Event Attendance
-### Age Groups
+### Counts of All Age Groups
 ![Distribution of Age Groups Based on Demographic Data](assets/images/age_groups_count.png)
 
 | Age Group | Count |
@@ -83,7 +83,6 @@ To analyze each section of data, I segmented the data utilizing the following:
     - Approximately 43.1% of learners ages 25-34 attended OnlineEdu events between October and December 2024.
     - Approximately 53.1% of learners ages 35-50 attended OnlineEdu events between October and December 2024.
     - Approximately 64.9% of learners ages 50+ attended OnlineEdu events between October and December 2024.
-
 - Student Event Attendance Motivation:
     - 18-24 Learners Preferred Events Based on Attendance: 
         - Academic, Social, Career
@@ -105,12 +104,10 @@ To analyze each section of data, I segmented the data utilizing the following:
         - Initial Resume Writing, Cover Letter Workshops, Mock Interview Practice, etc. (geared toward those who are at the beginning of career)
         - Resume Reviews, Cover Letter Revision Workshops, Mock Interview Practice, etc. (geared toward those who are in the middle of their career or want to shift career fields)
         - General: Recruiting Events, Expert Panels, Career Fairs
-
 - Capitalize on Academic event presence.
     - Perform a more in-depth analysis on the kinds of events each age group is attending and utilize those findings to help improve strategy across all age groups.
         - Examples:
             - Hosting more Transfer Tuesdays with other universities, University Information Sessions, etc.
-
 - Engage the 50+ learner community to attend social events based on their interests.
     - Conduct a survey of interest among this demographic and utilize these results to help formulate social events that could draw in more learners to attend events.
         - Examples:
@@ -169,6 +166,7 @@ To analyze each section of data, I segmented the data utilizing the following:
 
 ![Distribution of Class Attendance By Region](assets/images/avg_class_region_attendance.png)
 
+### Regional Class Attendance Summary
 | Region    | Total Students | Avg. Regional Class Attendance (%) |
 |-----------|----------------|-----------------------------------|
 | West      | 260            | 59.1                              |
@@ -176,13 +174,13 @@ To analyze each section of data, I segmented the data utilizing the following:
 | Midwest   | 359            | 63.7                              |
 | Northeast | 205            | 69.0                              |
 
+### Northeast and West Zip Codes
 | Region    | States | Zip Codes                                                                                                                                                                                                 |
 |-----------|--------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Northeast | MA, NY, NJ, NH, ME, PA, CT | 10009, 10025, 10029, 10032, 10033, 1013, 1028, 1040, 10451, 10452, 10453, 10454, 10455, 10456, 10458, 10459, 10462, 10466, 10468, 10469, 10552, 10705, 10980, 1107, 1108, 11106, 11208, 11210, 11213, 11216, 11218, 11222, 11226, 11234, 11236, 11368, 11372, 11385, 11421, 11435, 1151, 11520, 11550, 11580, 11692, 11727, 12198, 13069, 13357, 13501, 13679, 13901, 14213, 14609, 14613, 1510, 15110, 15132, 15146, 15148, 15219, 15221, 15461, 15904, 1602, 16335, 16701, 16841, 16915, 17025, 17046, 17055, 17061, 17068, 17113, 17314, 17340, 17364, 17403, 17404, 17527, 17562, 17601, 17602, 17603, 17701, 17745, 17851, 17922, 17948, 18015, 18102, 18202, 18370, 18505, 18510, 1854, 18612, 18655, 18702, 18708, 19007, 1902, 19026, 19079, 19111, 19116, 19121, 19124, 19126, 19131, 19132, 19133, 19134, 19138, 19143, 19144, 19355, 19604, 19605, 19606, 1970, 2062, 2072, 2118, 2119, 2124, 2129, 2136, 2151, 2301, 2322, 2368, 2767, 3878, 4055, 4654, 6010, 6042, 6105, 6114, 6118, 6260, 6320, 6340, 6405, 6492, 6516, 6518, 6704, 6854, 6902, 7017, 7018, 7062, 7083, 7088, 7093, 7095, 7107, 7203, 7304, 7305, 7410, 7504, 7644, 7801, 8016, 8021, 8080, 8094, 8104, 8109, 8302, 8332, 8349, 8401, 8611, 8618, 8690, 8865, 8884 |
 | West      | UT, WA, AK, NV, NM, ID, HI, CO, CA, AZ, OR, WY | 38135, 80010, 80012, 80013, 80016, 80022, 80023, 80031, 80204, 80205, 80239, 80301, 80631, 80817, 80903, 80904, 80915, 80924, 81089, 81240, 81403, 82054, 83221, 83642, 83683, 83702, 83714, 84005, 84096, 84104, 84107,
 
 ### Class Registration Status By Region (Sample Records)
-
 | Registration Status | Region     | Count  |
 |---------------------|------------|--------|
 | Registered          | West       | 1030   |
@@ -293,6 +291,7 @@ To analyze each section of data, I segmented the data utilizing the following:
 | West       | Suburban/Mid-Sized Cities | 1.98%   | 10.89%           | 20.79%              | 58.42%        | 7.92%        |
 | West       | Urban Core             | 4.67%      | 11.21%           | 13.09%              | 62.62%        | 8.41%        |
 
+### Registration by Region and Zone Summary
 | Region     | Zone                    | % Registered | % Other Status |
 |------------|-------------------------|---------------|----------------|
 | Northeast  | Suburban/Mid-Sized Cities | 81.25%       | 18.75%         |
@@ -349,6 +348,7 @@ To analyze each section of data, I segmented the data utilizing the following:
 ### How Different Age Groups Found OnlineEdu
 ![Distribution of Avg Messages By Age Group](assets/images/find_onlineedu.png)
 
+### OnlineEdu's Top 5 Communication Methods
 | Rank | Method        |
 |------|---------------|
 | 1    | Facebook      |
@@ -375,8 +375,8 @@ To analyze each section of data, I segmented the data utilizing the following:
     - 50+ Learners:
         - Average Messages Sent: 10.41
         - Average Connections: 53.41
-#### Avg Messages Sent Ranked
 
+#### Avg Messages Sent Ranked
 | Rank | Age Group |
 |------|-----------|
 | 1    | 35–50     |
@@ -385,7 +385,6 @@ To analyze each section of data, I segmented the data utilizing the following:
 | 4    | 18–24     |
 
 #### Avg Portal Connections Ranked
-
 | Rank | Age Group |
 |------|-----------|
 | 1    | 35–50     |
