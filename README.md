@@ -1,6 +1,6 @@
-# OnlineEdu
+# OnlineEdu*
 
-This is a business case utilizing various datasets from OnlineEdu* to analyze the different trends and changes for three unique aspects: Event Attendance, Class Performance, and Platform Engagement. There is an accompanying Google Slideshow with my analysis along with the code and Excel files within this repository.
+This is a business case utilizing various datasets from OnlineEdu to analyze the different trends and changes for three unique aspects: Event Attendance, Class Performance, and Platform Engagement. There is an accompanying Google Slideshow with my analysis along with the code and Excel files within this repository.
 
 The following datasets were supplied to me for this analysis:
 - Demographic Data
