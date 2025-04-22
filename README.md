@@ -9,9 +9,9 @@ The following datasets were supplied to me for this analysis:
 - Platform Engagement Data
 
 To analyze each section of data, I segmented the data utilizing the following:
-- Event Attendance: Age Group
+- Event Attendance: Age Group (Demographic Data)
 - Class Performance: Geographic Location
-- Platform Engagement: Age Group
+- Platform Engagement: Age Group (Demographic Data)
 
 ## Event Attendance
 ### Age Groups
