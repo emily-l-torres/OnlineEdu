@@ -14,7 +14,7 @@ To analyze each section of data, I segmented the data utilizing the following:
 - Platform Engagement: Age Group (Demographic Data)
 
 ## Event Attendance
-### Counts of All Age Groups
+### Counts of All Age Groups Visualization
 ![Distribution of Age Groups Based on Demographic Data](assets/images/age_groups_count.png)
 
 ### Age Group Counts Summary
@@ -44,6 +44,7 @@ To analyze each section of data, I segmented the data utilizing the following:
 | Social         | 233              |
 | **Total**      | **766**          |
 
+### Event Participation Age Group Distribution Visualization
 ![Distribution of Attendance Count Based on Event Category](assets/images/event_participation_by_age_group.png)
 
 #### Age Group: 18-24
@@ -125,6 +126,7 @@ To analyze each section of data, I segmented the data utilizing the following:
 | Add/Drop            | 24    |
 | **Total**           | **1713** |
 
+### Student Class Registration Status Visualization
 ![Distribution of Student Class Registration Status](assets/images/student_registration_status.png)
 
 ### Class Attendance by State (Sample Records)
@@ -136,6 +138,7 @@ To analyze each section of data, I segmented the data utilizing the following:
 | AZ     | 64.0                       | 38             |
 | CA     | 62.2                       | 137            |
 
+### Class Attendance by State Visualization
 ![Distribution of Student Class Registration Status](assets/images/state_attendance.png)
 
 #### 🟢 States with the Highest Class Attendance
@@ -165,6 +168,7 @@ To analyze each section of data, I segmented the data utilizing the following:
 | NE     | 100.0                      | 1              | Midwest |
 | ND     | 57.8                       | 4              | Midwest |
 
+### Class Attendance By Region Visualization
 ![Distribution of Class Attendance By Region](assets/images/avg_class_region_attendance.png)
 
 ### Regional Class Attendance Summary
@@ -188,6 +192,7 @@ To analyze each section of data, I segmented the data utilizing the following:
 | Registered          | Northeast  | 1030   |
 | Add/Drop            | West       | 24     |
 
+### Class Registration Status By Region Visualization
 ![Distribution of Class Registration By Region](assets/images/registration_in_ne_&_west.png)
 
 ### Class Registration Status By Region Totals
@@ -246,9 +251,10 @@ To analyze each section of data, I segmented the data utilizing the following:
 | 802            | 4              | 0        | 0             | 1                | 3          | 0         | West   | Urban Core       |
 | 803            | 1              | 0        | 0             | 0                | 1          | 0         | West   | Urban Core       |
 
-### Class Registration By Zone
+### Class Registration By Zone Visualization
 ![Distribution of Class Registration By Zone](assets/images/northeast_vs_west_zones.png)
 
+### Distribution of Students Across Zones Summary
 | Region           | Zone                     | Total Students | % of Total Regional Learners |
 |------------------|--------------------------|----------------|-------------------------------|
 | Northeast Region | Rural/Outer Areas        | 54             | 26.3%                         |
@@ -260,7 +266,7 @@ To analyze each section of data, I segmented the data utilizing the following:
 | West Region      | Urban Core               | 107            | 41.2%                         |
 | **West Region Total**      |                  | **260**        | **100%**                      |
 
-#### Northeast Region
+#### Northeast Region Students Based on Zone & Registration Status
 | Zone                   | Total Students | % of Add/Drop | % of Did Not Start | % of Provisional Drop | % of Registered | % of Withdrawn |
 |------------------------|----------------|----------------|---------------------|------------------------|------------------|----------------|
 | Rural/Outer Areas      | 54             | 1.85%          | 5.56%               | 9.26%                  | 74.07%           | 9.26%          |
@@ -268,7 +274,7 @@ To analyze each section of data, I segmented the data utilizing the following:
 | Urban Core             | 135            | 0.74%          | 9.63%               | 11.11%                 | 71.85%           | 6.67%          |
 | **Total**              | **205**        | **Avg Regional Percentage** | **2.95%** | **7.15%** | **8.87%** | **75.73%** | **5.31%** |
 
-#### West Region
+#### West Region Students Based on Zone & Registration Status
 | Zone                   | Total Students | % of Add/Drop | % of Did Not Start | % of Provisional Drop | % of Registered | % of Withdrawn |
 |------------------------|----------------|----------------|---------------------|------------------------|------------------|----------------|
 | Rural/Outer Areas      | 52             | 3.85%          | 3.85%               | 17.31%                 | 61.54%           | 13.46%         |
@@ -326,7 +332,7 @@ To analyze each section of data, I segmented the data utilizing the following:
     - Survey students about their online learning experience to identify barriers to engagement and gather insights on how to improve participation and course effectiveness.
 
 ## Platform Engagement
-### Age vs. Average Average Messages Sent per Week
+### Age vs. Average Average Messages Sent per Week Summary
 | Age Group | Avg Messages Sent per Week |
 |-----------|-----------------------------|
 | 18–24     | 9.36                        |
@@ -334,9 +340,10 @@ To analyze each section of data, I segmented the data utilizing the following:
 | 35–50     | 10.63                       |
 | 50+       | 10.41                       |
 
+### Age vs. Average Average Messages Sent per Week Visualization
 ![Distribution of Avg Messages By Age Group](assets/images/avg_messages.png)
 
-### Age vs. Average Portal Connections per Week
+### Age vs. Average Portal Connections per Week Summary
 | Age Group | Avg Portal Connections per Week |
 |-----------|----------------------------------|
 | 18–24     | 41.47                            |
@@ -344,9 +351,10 @@ To analyze each section of data, I segmented the data utilizing the following:
 | 35–50     | 54.61                            |
 | 50+       | 53.41                            |
 
+### Age vs. Average Portal Connections per Week Visualization
 ![Distribution of Avg Messages By Age Group](assets/images/avg_connections.png)
 
-### How Different Age Groups Found OnlineEdu
+### How Different Age Groups Found OnlineEdu Visualization
 ![Distribution of Avg Messages By Age Group](assets/images/find_onlineedu.png)
 
 ### OnlineEdu's Top 5 Communication Methods
