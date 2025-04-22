@@ -14,6 +14,7 @@ To analyze each section of data, I segmented the data utilizing the following:
 - Platform Engagement: Age Group
 
 ## Event Attendance
+![Distribution of Age Groups Based on Demographic Data](assets/images/age_groups_count.png)
 
 ## Class Performance
 
