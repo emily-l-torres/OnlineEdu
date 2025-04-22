@@ -326,5 +326,87 @@ To analyze each section of data, I segmented the data utilizing the following:
     - Survey students about their online learning experience to identify barriers to engagement and gather insights on how to improve participation and course effectiveness.
 
 ## Platform Engagement
+### Age vs. Average Average Messages Sent per Week
+| Age Group | Avg Messages Sent per Week |
+|-----------|-----------------------------|
+| 18–24     | 9.36                        |
+| 25–34     | 9.49                        |
+| 35–50     | 10.63                       |
+| 50+       | 10.41                       |
 
-*OnlineEdu is a fake name used in order to protect the identity of this sample company data.
+![Distribution of Avg Messages By Age Group](assets/images/avg_messages.png)
+
+### Age vs. Average Portal Connections per Week
+| Age Group | Avg Portal Connections per Week |
+|-----------|----------------------------------|
+| 18–24     | 41.47                            |
+| 25–34     | 48.65                            |
+| 35–50     | 54.61                            |
+| 50+       | 53.41                            |
+
+![Distribution of Avg Messages By Age Group](assets/images/avg_connections.png)
+
+### How Different Age Groups Found OnlineEdu
+![Distribution of Avg Messages By Age Group](assets/images/find_onlineedu.png)
+
+| Rank | Method        |
+|------|---------------|
+| 1    | Facebook      |
+| 2    | Instagram     |
+| 3    | TikTok        |
+| 4    | YouTube       |
+| 5    | Word of Mouth |
+
+### Analysis Insights
+- OnlineEdu Portal is being used the most by groups 35+ based on the average of the average messages sent and connections per week.
+- Age groups 18-24 and 25-34 are not utilizing the message feature in OnlineEdu Portal as much as age groups 35+.
+    - Likely due to having other means of communicating with other students and faculty/staff like email, text message, and social media.
+- Increased weekly average Portal connections = Increased weekly average messages sent
+- Overall Student OnlineEdu Portal Weekly Interactions:
+    - 18-24 Learners: 
+        - Average Messages Sent: 9.36
+        - Average Connections: 41.47
+    - 25-34 Learners:
+        - Average Messages Sent: 9.49
+        - Average Connections: 48.65
+    - 35-50 Learners:
+        - Average Messages Sent: 10.63
+        - Average Connections: 54.61
+    - 50+ Learners:
+        - Average Messages Sent: 10.41
+        - Average Connections: 53.41
+#### Avg Messages Sent Ranked
+
+| Rank | Age Group |
+|------|-----------|
+| 1    | 35–50     |
+| 2    | 50+       |
+| 3    | 25–34     |
+| 4    | 18–24     |
+
+#### Avg Portal Connections Ranked
+
+| Rank | Age Group |
+|------|-----------|
+| 1    | 35–50     |
+| 2    | 50+       |
+| 3    | 25–34     |
+| 4    | 18–24     |
+
+### OnlineEdu’s Strengths - Platform Engagement
+- OnlineEdu Portal is being primarily utilized by older learners (35+).
+- The most effective means of spreading the word about OnlineEdu occurs on social media and word of mouth.
+- Users across all age groups are actively building networks and engaging in meaningful interactions, beyond just sending messages.
+
+### Actionable Insights
+- Promote OnlineEdu Portal to younger age groups.
+    - Promote the OnlineEdu Portal platform on social media (will help with Word of Mouth as well!)
+        - Example: Use trending TikTok audios and general internet trends
+    - Host information sessions displaying the multitude of uses for OnlineEdu Portal.
+- Capitalize on the engagement of older groups.
+    - Promote the opportunity for leadership positions on the platform.
+        - Examples: Allow the opportunity for older members to host panels and virtual events to connect with younger learners on an academic and career level (Q&As, Study Groups, etc.)
+- Conduct an analysis on what features are being utilized the most vs least across OnlineEdu Portal
+    - Identifying the most and least utilized features will help guide improvements to the platform, which is likely to boost overall engagement.
+
+*Disclaimer: OnlineEdu is a fake name used in order to protect the identity of this sample company data.
