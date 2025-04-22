@@ -272,7 +272,9 @@ To analyze each section of data, I segmented the data utilizing the following:
 | Rural/Outer Areas      | 54             | 1.85%          | 5.56%               | 9.26%                  | 74.07%           | 9.26%          |
 | Suburban/Mid-Sized Cities | 16         | 6.25%          | 6.25%               | 6.25%                  | 81.25%           | 0.00%          |
 | Urban Core             | 135            | 0.74%          | 9.63%               | 11.11%                 | 71.85%           | 6.67%          |
-| **Total**              | **205**        | **Avg Regional Percentage** | **2.95%** | **7.15%** | **8.87%** | **75.73%** | **5.31%** |
+| **Total**              | **205**        |                 |                    |                         |                |                |
+
+**Avg Regional Percentage** | **2.95%** | **7.15%** | **8.87%** | **75.73%** | **5.31%** |
 
 #### West Region Students Based on Zone & Registration Status
 | Zone                   | Total Students | % of Add/Drop | % of Did Not Start | % of Provisional Drop | % of Registered | % of Withdrawn |
@@ -280,7 +282,9 @@ To analyze each section of data, I segmented the data utilizing the following:
 | Rural/Outer Areas      | 52             | 3.85%          | 3.85%               | 17.31%                 | 61.54%           | 13.46%         |
 | Suburban/Mid-Sized Cities | 101         | 1.98%          | 10.89%              | 20.79%                 | 58.42%           | 7.92%          |
 | Urban Core             | 107            | 4.67%          | 11.21%              | 13.09%                 | 62.62%           | 8.41%          |
-| **Total**              | **260**        | **Avg Regional Percentage** | **3.5%** | **8.65%** | **17.06%** | **60.86%** | **9.93%** |
+| **Total**              | **260**        |                 |                    |                         |                |                |
+
+| **Avg Regional Percentage** | **3.5%** | **8.65%** | **17.06%** | **60.86%** | **9.93%** |
 
 #### Northeast and West Regional Zone Registration Status Comparison
 | Region     | Avg % Add/Drop | Avg % Did Not Start | Avg % Provisional Drop | Avg % Registered | Avg % Withdrawn |
