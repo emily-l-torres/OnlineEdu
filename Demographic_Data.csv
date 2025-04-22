@@ -1,0 +1,1714 @@
+user_id,term_number,hear_about_onlineedu,gender,age,race,hispanic,high_school_grad,ged_received,first_gen_college?,past_college_enrollment,zipcode,city,state,veteran_status,registration_status,Lifetime Credits Completed,Lifetime Credits Attempted,Lifetime GPA
+5,4,other,female,46,white,no,yes,no,neither,no,46635,South Bend,IN,not veteran,Add/Drop,9,13,1.5
+7,4,facebook,male,39,white,no,yes,no,attended,no,83221,Blackfoot,ID,veteran,Add/Drop,21,33,2.3
+8,5,dontknow,female,26,black,no,yes,no,attended,no,97203,Portland,OR,not veteran,Add/Drop,45,45,2.7
+28,2,instagram,female,29,mixed,yes,yes,no,attended,no,85381,Peoria,AZ,not veteran,Add/Drop,9,9,4.0
+34,6,dontknow,female,23,mixed,yes,yes,no,attended,yes,89149,Las Vegas,NV,not veteran,Add/Drop,47,47,3.4
+76,3,facebook,female,23,mixed,no,yes,no,neither,yes,38382,Trenton,TN,not veteran,Add/Drop,18,18,3.7
+96,4,instagram,female,25,black,no,yes,no,neither,no,30296,Riverdale,GA,not veteran,Add/Drop,17,29,1.7
+115,3,tiktok,female,21,black,no,yes,no,neither,no,30034,Decatur,GA,not veteran,Add/Drop,0,9,0.0
+216,4,tiktok,male,20,white,yes,yes,no,neither,yes,84119,West Valley City,UT,not veteran,Add/Drop,53,53,3.1
+222,8,dontknow,female,24,mixed,yes,yes,no,attended,yes,01108,Springfield,MA,not veteran,Add/Drop,60,60,3.4
+255,5,facebook,female,24,white,no,yes,no,attended,no,04055,Naples,ME,not veteran,Add/Drop,39,43,2.3
+271,3,wordOfMouth,female,23,white,no,yes,no,neither,no,77058,Houston,TX,not veteran,Add/Drop,9,21,2.0
+273,2,facebook,male,22,mixed,no,yes,no,attended,no,30542,Flowery Branch,GA,not veteran,Add/Drop,0,9,0.0
+313,2,facebook,male,26,white,yes,yes,no,attended,yes,32901,Melbourne,FL,not veteran,Add/Drop,1,10,0.0
+315,2,internetSearch,female,28,black,yes,yes,no,attended,no,32940,Melbourne,FL,not veteran,Add/Drop,9,9,1.6
+323,3,instagram,female,27,black,no,yes,no,attended,no,07305,Jersey City,NJ,not veteran,Add/Drop,9,21,1.5
+343,2,instagram,female,28,mixed,no,yes,no,neither,yes,92262,Palm Springs,CA,not veteran,Add/Drop,13,17,2.2
+372,2,facebook,female,26,white,no,yes,no,neither,yes,80016,Aurora,CO,not veteran,Add/Drop,5,9,1.7
+426,3,instagram,female,26,white,no,yes,no,attended,no,62960,Metropolis,IL,not veteran,Add/Drop,9,9,3.9
+522,4,facebook,female,25,white,no,yes,no,attended,no,39474,Prentiss,MS,not veteran,Add/Drop,21,21,2.9
+534,3,instagram,female,19,black,no,yes,no,neither,no,93927,Greenfield,CA,not veteran,Add/Drop,13,17,2.1
+535,2,tiktok,female,27,white,no,yes,no,attended,yes,49441,Muskegon,MI,not veteran,Add/Drop,13,13,3.0
+560,3,other,female,53,white,no,yes,no,neither,yes,45356,Piqua,OH,not veteran,Add/Drop,14,14,3.2
+643,4,instagram,female,21,black,no,yes,no,attended,yes,95472,Sebastopol,CA,not veteran,Add/Drop,9,21,2.2
+3,4,tiktok,male,22,black,no,yes,no,neither,yes,55443,Brooklyn Park,MN,not veteran,Did Not Start,0,0,
+6,5,instagram,male,25,black,no,yes,no,attended,no,44320,Akron,OH,not veteran,Did Not Start,0,0,
+9,4,tiktok,female,22,white,no,yes,no,attended,yes,40350,Mount Vernon,OH,not veteran,Did Not Start,13,29,1.2
+30,1,facebook,female,29,white,no,no,yes,attended,yes,98229,Bellingham,WA,not veteran,Did Not Start,0,0,
+38,1,facebook,female,19,white,no,yes,no,attended,no,31320,Midway,GA,not veteran,Did Not Start,0,0,
+39,1,instagram,female,44,black,no,yes,no,neither,no,48219,Detroit,MI,not veteran,Did Not Start,0,0,
+44,4,facebook,female,34,black,no,yes,no,neither,yes,48228,Detroit,MI,not veteran,Did Not Start,0,0,
+67,1,instagram,female,32,black,no,yes,no,neither,no,30189,Woodstock,GA,not veteran,Did Not Start,0,0,
+68,2,facebook,female,27,white,no,yes,no,attended,no,29055,Great Falls,SC,not veteran,Did Not Start,9,9,2.4
+73,1,facebook,female,30,black,no,yes,no,neither,yes,43207,Columbus,OH,not veteran,Did Not Start,0,0,
+75,8,dontknow,female,31,white,no,yes,no,attended,no,77840,College Station,TX,not veteran,Did Not Start,31,31,3.3
+81,11,dontknow,male,21,white,no,yes,no,neither,no,76244,Keller,TX,not veteran,Did Not Start,0,0,
+100,2,other,male,30,americanIndian,no,yes,no,neither,no,55109,Maplewood,MN,not veteran,Did Not Start,9,9,2.0
+113,4,facebook,male,26,white,no,yes,no,attended,no,04062,Windham,ME,not veteran,Did Not Start,0,9,0.0
+129,1,instagram,female,24,white,no,yes,no,neither,yes,66046,Lawrence,KS,not veteran,Did Not Start,0,0,
+131,2,instagram,male,21,black,no,yes,no,attended,yes,76240,Gainesville,TX,not veteran,Did Not Start,1,9,0.3
+136,1,internetSearch,female,29,black,no,yes,no,neither,yes,31637,Lenox,GA,not veteran,Did Not Start,0,0,
+137,1,snapchat,female,20,white,no,yes,no,attended,no,71104,Shreveport,LA,not veteran,Did Not Start,0,0,
+139,3,tiktok,female,24,black,no,yes,no,neither,yes,30253,Mcdonough,GA,not veteran,Did Not Start,21,21,3.0
+148,1,tiktok,female,19,white,no,yes,no,attended,no,30510,Alto,GA,not veteran,Did Not Start,0,0,
+165,5,tiktok,female,24,black,no,yes,no,attended,yes,39305,Meridian,MS,not veteran,Did Not Start,17,31,2.4
+175,4,tiktok,female,34,black,no,no,yes,neither,no,30096,Duluth,GA,not veteran,Did Not Start,9,21,2.2
+185,2,instagram,male,22,white,no,yes,no,attended,yes,02134,Allston,MA,not veteran,Did Not Start,0,9,0.0
+187,3,instagram,male,20,black,no,yes,no,attended,yes,33971,Lehigh Acres,FL,not veteran,Did Not Start,21,21,4.0
+194,2,facebook,female,25,black,no,yes,no,attended,yes,38116,Memphis,TN,veteran,Did Not Start,0,9,
+197,1,internetSearch,no-binary,20,white,no,no,yes,attended,no,74401,Muskogee,OK,not veteran,Did Not Start,0,0,
+198,3,google,female,27,black,no,yes,no,neither,yes,45324,Fairborn,OH,not veteran,Did Not Start,0,0,
+200,1,facebook,female,28,mixed,no,yes,no,attended,no,77318,Willis,TX,not veteran,Did Not Start,0,0,
+209,3,instagram,female,27,black,no,yes,no,attended,no,43512,Defiance,OH,not veteran,Did Not Start,0,9,0.0
+234,3,tiktok,female,24,white,no,yes,no,attended,no,49274,Reading,MI,not veteran,Did Not Start,9,18,1.3
+253,2,tiktok,male,29,white,yes,yes,no,attended,no,78539,Edinburg,TX,not veteran,Did Not Start,0,9,
+261,1,instagram,male,35,black,no,yes,no,attended,no,91001,Altadena,CA,not veteran,Did Not Start,0,0,
+268,1,instagram,male,27,black,no,yes,no,attended,yes,29223,Columbia,SC,not veteran,Did Not Start,0,0,
+269,1,facebook,female,25,black,no,yes,no,attended,no,66212,Overland Park,KS,not veteran,Did Not Start,0,0,
+270,4,facebook,female,22,black,no,yes,no,neither,no,30401,Swainsboro,GA,not veteran,Did Not Start,21,33,1.6
+272,2,dontknow,female,28,white,no,yes,no,attended,no,89005,Boulder City,NV,not veteran,Did Not Start,5,9,2.1
+280,1,instagram,male,28,white,no,yes,no,neither,yes,04429,Holden,ME,not veteran,Did Not Start,0,0,
+295,1,snapchat,female,28,asian,no,yes,no,neither,yes,60172,Roselle,IL,not veteran,Did Not Start,0,0,
+306,1,internetSearch,female,27,black,no,yes,no,attended,no,38016,Memphis,TN,not veteran,Did Not Start,0,0,
+311,2,snapchat,male,23,black,no,yes,no,neither,no,66535,Saint George,KS,not veteran,Did Not Start,4,9,1.3
+316,1,internetSearch,female,34,asian,no,yes,no,neither,yes,95831,Sacramento,CA,not veteran,Did Not Start,32,32,
+327,5,instagram,female,23,black,no,yes,no,attended,no,33034,Florida City,FL,not veteran,Did Not Start,13,19,2.1
+333,1,facebook,female,24,white,no,yes,no,attended,no,47126,Henryville,IN,not veteran,Did Not Start,0,0,
+336,4,instagram,female,25,mixed,no,yes,no,attended,yes,33403,West Palm Beach,FL,not veteran,Did Not Start,17,17,4.0
+369,2,youtube,male,29,black,no,yes,no,neither,no,30012,Conyers,GA,not veteran,Did Not Start,0,9,
+370,6,dontknow,female,40,white,yes,yes,no,neither,yes,95626,Elverta,CA,not veteran,Did Not Start,34,54,3.0
+376,5,tiktok,female,29,black,no,yes,no,neither,yes,60637,Chicago,IL,not veteran,Did Not Start,0,0,
+389,1,instagram,female,26,black,no,yes,no,attended,no,61265,Griffith,IN,not veteran,Did Not Start,0,0,
+398,1,instagram,male,28,black,yes,yes,no,attended,yes,02124,Boston,MA,not veteran,Did Not Start,0,0,
+400,1,facebook,male,25,white,yes,yes,no,neither,yes,78550,Harlingen,TX,veteran,Did Not Start,0,0,
+403,1,facebook,female,26,black,no,yes,no,neither,yes,37801,Maryville,TN,not veteran,Did Not Start,0,0,
+421,4,tiktok,female,25,black,no,yes,no,attended,no,60827,Calumet Park,IL,not veteran,Did Not Start,0,0,
+428,1,instagram,male,25,mixed,yes,yes,no,attended,no,85629,Sahuarita,AZ,not veteran,Did Not Start,0,0,
+430,1,facebook,male,47,americanIndian,no,yes,no,neither,yes,90003,Los Angeles,CA,not veteran,Did Not Start,0,0,
+448,1,instagram,male,30,black,no,yes,no,neither,yes,33025,Miramar,FL,not veteran,Did Not Start,16,16,
+459,1,instagram,male,18,black,no,yes,no,attended,no,60422,Flossmoor,IL,not veteran,Did Not Start,0,0,
+470,1,google,male,40,white,no,yes,no,attended,no,37766,Lafollette,TN,not veteran,Did Not Start,0,0,
+480,2,wordOfMouth,male,22,black,no,yes,no,attended,yes,32096,White Springs,FL,not veteran,Did Not Start,0,9,0.0
+482,1,instagram,male,22,white,no,yes,no,neither,yes,77346,Humble,TX,not veteran,Did Not Start,0,0,
+488,1,facebook,female,28,black,no,yes,no,neither,yes,38655,Oxford,MS,not veteran,Did Not Start,5,5,
+496,1,wordOfMouth,male,19,black,no,yes,no,neither,no,30248,Locust Grove,GA,not veteran,Did Not Start,0,0,
+507,1,facebook,male,26,black,no,yes,no,neither,no,30240,Lagrange,GA,not veteran,Did Not Start,0,0,
+512,1,instagram,male,27,white,no,yes,no,attended,no,93550,Palmdale,CA,not veteran,Did Not Start,0,0,
+516,1,facebook,female,58,nativeHawaiian,no,yes,no,neither,yes,85022,Phoenix,AZ,not veteran,Did Not Start,0,0,
+519,1,youtube,female,28,white,no,yes,no,neither,no,95973,Chico,CA,not veteran,Did Not Start,0,0,
+543,1,internetSearch,female,26,black,no,yes,no,attended,yes,08611,Trenton,NJ,not veteran,Did Not Start,0,0,
+545,2,instagram,female,28,black,no,yes,no,attended,no,01013,Chicopee,MA,not veteran,Did Not Start,0,0,
+547,1,facebook,female,24,americanIndian,no,yes,no,neither,no,01876,Tewksbury,MA,not veteran,Did Not Start,0,0,
+551,1,instagram,female,25,black,no,yes,no,neither,no,46001,Alexandria,IN,not veteran,Did Not Start,0,0,
+552,1,facebook,female,26,mixed,yes,yes,no,attended,no,79788,Wickett,TX,not veteran,Did Not Start,0,0,
+577,1,instagram,male,26,mixed,no,yes,no,attended,no,61201,Rock Island,IL,not veteran,Did Not Start,0,0,
+596,4,facebook,female,20,white,no,yes,no,attended,no,87401,Farmington,NM,not veteran,Did Not Start,0,9,0.0
+603,1,instagram,male,28,mixed,no,yes,no,neither,yes,77083,Houston,TX,not veteran,Did Not Start,0,0,
+608,1,internetSearch,male,25,black,no,yes,no,neither,no,37407,Chattanooga,TN,not veteran,Did Not Start,0,0,
+610,1,instagram,male,32,mixed,no,yes,no,neither,yes,40272,Louisville,KY,not veteran,Did Not Start,0,0,
+616,1,snapchat,female,29,white,no,yes,no,attended,yes,65203,Columbia,MO,not veteran,Did Not Start,0,0,
+622,2,referred,female,39,black,no,yes,no,attended,no,29556,Kingstree,SC,not veteran,Did Not Start,0,0,
+640,1,tiktok,female,27,mixed,no,yes,no,attended,yes,77083,Houston,TX,not veteran,Did Not Start,0,0,
+674,1,facebook,female,25,white,no,no,yes,graduated,no,30173,Silver Creek,GA,not veteran,Did Not Start,0,0,
+685,1,tiktok,female,29,white,no,yes,no,attended,no,45638,Ironton,OH,not veteran,Did Not Start,0,0,
+692,1,facebook,female,27,white,no,yes,no,neither,no,43130,Lancaster,OH,not veteran,Did Not Start,0,0,
+693,1,other,male,47,mixed,yes,yes,no,graduated,yes,33612,Tampa,FL,not veteran,Did Not Start,0,0,
+705,1,instagram,female,28,black,no,yes,no,attended,yes,77079,Houston,TX,not veteran,Did Not Start,0,0,
+711,1,tiktok,male,57,black,no,no,yes,graduated,no,37040,Clarksville,TN,not veteran,Did Not Start,0,0,
+729,1,youtube,female,44,black,no,yes,no,attended,no,08016,Burlington,NJ,not veteran,Did Not Start,0,0,
+737,1,snapchat,male,30,mixed,yes,yes,no,neither,yes,32220,Jacksonville,FL,not veteran,Did Not Start,0,0,
+745,1,wordOfMouth,male,24,black,no,yes,no,neither,yes,77044,Houston,TX,not veteran,Did Not Start,4,4,
+748,1,wordOfMouth,female,33,black,no,yes,no,neither,yes,77056,Houston,TX,not veteran,Did Not Start,0,0,
+750,1,email,female,28,white,no,yes,no,neither,no,43204,Columbus,OH,not veteran,Did Not Start,0,0,
+758,1,facebook,male,39,white,no,yes,no,graduated,no,15904,Johnstown,PA,veteran,Did Not Start,0,0,
+759,1,facebook,male,28,white,no,yes,no,neither,yes,24343,Hillsville,VA,not veteran,Did Not Start,0,0,
+770,1,snapchat,male,26,white,no,yes,no,graduated,no,46151,Martinsville,IN,not veteran,Did Not Start,0,0,
+777,1,facebook,female,26,white,no,yes,no,neither,no,30125,Cedartown,GA,not veteran,Did Not Start,0,0,
+785,1,facebook,no-binary,25,white,no,yes,no,neither,no,31795,Ty Ty,GA,not veteran,Did Not Start,0,0,
+798,1,tiktok,female,27,white,no,yes,no,graduated,no,62901,Carbondale,IL,not veteran,Did Not Start,0,0,
+806,1,wordOfMouth,male,27,white,no,no,yes,neither,no,38863,Pontotoc,MS,not veteran,Did Not Start,0,0,
+807,1,facebook,female,65,black,no,yes,no,graduated,yes,37203,Nashville,TN,not veteran,Did Not Start,0,0,
+809,1,instagram,female,40,white,no,yes,no,neither,no,72830,Clarksville,AR,not veteran,Did Not Start,0,0,
+811,1,facebook,female,26,black,no,yes,no,neither,yes,64117,3117 Ne 37th St,MO,not veteran,Did Not Start,5,5,
+812,1,facebook,male,31,mixed,yes,yes,no,neither,no,76179,Fort Worth,TX,not veteran,Did Not Start,0,0,
+813,1,facebook,male,39,white,no,yes,no,attended,yes,44266,Ravenna,OH,not veteran,Did Not Start,4,4,
+815,5,youtube,male,26,black,no,yes,no,neither,no,15401,Uniontown,PA,not veteran,Did Not Start,0,0,
+818,1,snapchat,female,29,black,no,yes,no,graduated,yes,65202,Columbia,MO,not veteran,Did Not Start,0,0,
+823,1,internetSearch,female,22,mixed,yes,yes,no,graduated,yes,36027,Eufuala,AL,not veteran,Did Not Start,0,0,
+828,1,facebook,female,34,white,no,yes,no,neither,no,37166,Smithville,TN,not veteran,Did Not Start,0,0,
+835,1,instagram,male,31,black,no,yes,no,graduated,yes,19121,Philadelphia,PA,not veteran,Did Not Start,0,0,
+837,1,snapchat,female,32,white,no,yes,no,unknown,no,93955,Seaside,CA,not veteran,Did Not Start,0,0,
+843,1,facebook,female,26,black,no,yes,no,graduated,no,36107,Montgomery,AL,not veteran,Did Not Start,0,0,
+854,1,facebook,male,27,white,no,no,yes,neither,no,70438,Franklinton,LA,not veteran,Did Not Start,0,0,
+857,1,facebook,male,32,white,no,yes,no,neither,no,42367,Powderly,KY,not veteran,Did Not Start,0,0,
+859,1,youtube,male,61,black,no,yes,no,neither,yes,92373,Redlands,CA,veteran,Did Not Start,0,0,
+860,1,facebook,female,24,mixed,yes,yes,no,neither,no,95301,Atwater,CA,not veteran,Did Not Start,0,0,
+861,1,facebook,female,46,white,no,yes,no,attended,no,30720,Dalton,GA,not veteran,Did Not Start,0,0,
+869,1,youtube,female,19,black,no,yes,no,neither,yes,70114,New Orleans,LA,not veteran,Did Not Start,0,0,
+871,1,instagram,female,31,white,yes,yes,no,attended,no,33613,Tampa,FL,not veteran,Did Not Start,0,0,
+879,1,instagram,male,30,mixed,yes,yes,no,neither,yes,11580,N Bellmore,NY,not veteran,Did Not Start,8,8,
+886,1,facebook,female,30,black,no,yes,no,unknown,yes,34785,Wildwood,FL,not veteran,Did Not Start,0,0,
+895,1,facebook,female,35,white,no,yes,no,graduated,yes,70726,Denham Springs,LA,not veteran,Did Not Start,0,0,
+900,1,facebook,female,25,white,no,yes,no,neither,no,71901,Hot Springs National Park,AR,not veteran,Did Not Start,0,0,
+904,1,other,female,36,black,no,yes,no,neither,yes,23223,Richmond,VA,not veteran,Did Not Start,0,0,
+909,1,wordOfMouth,male,23,mixed,yes,yes,no,graduated,no,32305,Tallahassed,FL,not veteran,Did Not Start,0,0,
+911,1,wordOfMouth,male,29,black,yes,yes,no,unknown,no,15221,Pittsburgh,PA,not veteran,Did Not Start,0,0,
+928,1,referred,male,32,black,no,yes,no,neither,no,45177,Wilmington,OH,not veteran,Did Not Start,0,0,
+939,1,wordOfMouth,male,26,white,no,yes,no,neither,no,43130,Lancaster,OH,not veteran,Did Not Start,0,0,
+940,1,instagram,female,18,mixed,yes,yes,no,unknown,no,92503,Riverside,CA,not veteran,Did Not Start,0,0,
+945,1,facebook,female,24,white,no,yes,no,neither,yes,35244,Birmingham,AL,not veteran,Did Not Start,0,0,
+948,1,facebook,female,41,americanIndian,no,yes,no,neither,no,74344,Grove,OK,not veteran,Did Not Start,0,0,
+960,1,facebook,male,34,black,no,yes,no,graduated,yes,23703,Portsmouth,VA,not veteran,Did Not Start,0,0,
+973,1,facebook,female,27,white,no,yes,no,attended,no,75686,Pittsburg,TX,not veteran,Did Not Start,0,0,
+980,1,referred,male,30,white,no,yes,no,neither,yes,43605,Toledo,OH,not veteran,Did Not Start,0,0,
+991,1,facebook,male,52,black,no,yes,no,attended,yes,75093,Plano,TX,not veteran,Did Not Start,0,0,
+992,1,internetSearch,female,22,black,no,yes,no,graduated,yes,39823,Blakely,GA,not veteran,Did Not Start,0,0,
+993,1,tiktok,male,35,white,no,yes,no,neither,yes,25702,Huntington,WV,not veteran,Did Not Start,0,0,
+1003,1,facebook,male,28,americanIndian,yes,yes,no,neither,yes,91356,Tarzana,CA,not veteran,Did Not Start,0,0,
+1009,1,youtube,male,34,black,no,yes,no,unknown,no,92103,San Diego,CA,not veteran,Did Not Start,0,0,
+1017,1,internetSearch,male,29,white,no,yes,no,neither,yes,29627,Belton,SC,not veteran,Did Not Start,5,5,
+1025,1,facebook,female,23,white,no,yes,no,graduated,no,72701,Fayetteville,AR,not veteran,Did Not Start,0,0,
+1029,1,instagram,female,23,black,no,yes,no,graduated,yes,48214,Detroit,MI,not veteran,Did Not Start,1,1,
+1040,1,facebook,male,25,white,no,yes,no,unknown,yes,46516,Elkhart,IN,not veteran,Did Not Start,0,0,
+1056,1,facebook,male,52,black,no,yes,no,neither,yes,55412,Minneapolis,MN,not veteran,Did Not Start,0,0,
+1058,1,facebook,female,52,mixed,no,yes,no,graduated,no,93401,San Luis Obispo,CA,not veteran,Did Not Start,0,0,
+1063,1,internetSearch,female,27,white,no,yes,no,neither,no,71001,Arcadia,LA,not veteran,Did Not Start,0,0,
+1066,1,snapchat,no-binary,30,black,no,yes,no,graduated,yes,42701,Elizabethtown,KY,not veteran,Did Not Start,0,0,
+1083,1,referred,female,29,black,no,yes,no,neither,no,78753,Austin,TX,not veteran,Did Not Start,0,0,
+1084,1,facebook,female,31,nativeHawaiian,yes,yes,no,attended,no,98444,Tacoma,WA,not veteran,Did Not Start,0,0,
+1091,1,facebook,female,35,white,no,yes,no,neither,no,34470,Ocala,FL,not veteran,Did Not Start,0,0,
+1092,1,wordOfMouth,female,25,black,no,yes,no,neither,no,39701,Columbus,MS,not veteran,Did Not Start,0,0,
+1097,1,facebook,female,48,black,no,yes,no,neither,yes,91306,Winnetka,CA,not veteran,Did Not Start,0,0,
+1104,1,wordOfMouth,female,32,mixed,no,yes,no,neither,no,46229,Indianapolis,IN,not veteran,Did Not Start,0,0,
+1143,1,wordOfMouth,male,43,black,no,yes,no,graduated,yes,33147,Miami,FL,not veteran,Did Not Start,0,0,
+1144,1,facebook,female,27,white,no,no,yes,neither,yes,71071,Sarepta,LA,not veteran,Did Not Start,0,0,
+1145,1,instagram,male,20,white,no,no,yes,graduated,no,23834,Colonial Heights,VA,not veteran,Did Not Start,0,0,
+1151,1,facebook,male,31,black,no,yes,no,graduated,yes,77879,Somerville,TX,not veteran,Did Not Start,0,0,
+1155,1,facebook,female,47,white,no,yes,no,unknown,yes,70517,Breaux Bridge,LA,not veteran,Did Not Start,0,0,
+1162,1,other,female,33,white,yes,no,yes,attended,no,77339,Humble,TX,not veteran,Did Not Start,0,0,
+1163,1,instagram,male,29,black,no,yes,no,neither,no,23234,Richmond,VA,not veteran,Did Not Start,0,0,
+1196,1,facebook,female,19,white,no,yes,no,neither,no,72450,Paragould,AR,not veteran,Did Not Start,0,0,
+1200,1,facebook,female,37,mixed,no,yes,no,graduated,yes,75762,Flint,TX,not veteran,Did Not Start,0,0,
+1233,1,internetSearch,female,27,white,no,no,yes,neither,yes,42101,Bowling Green,KY,not veteran,Did Not Start,0,0,
+1234,1,youtube,female,21,black,no,yes,no,neither,yes,12210,Albany,NY,not veteran,Did Not Start,0,0,
+1236,1,facebook,female,35,black,no,yes,no,graduated,yes,55104,Saint Paul,MN,veteran,Did Not Start,0,0,
+1238,1,wordOfMouth,female,43,black,no,yes,no,neither,yes,36116,Montgomery,AL,not veteran,Did Not Start,0,0,
+1239,1,youtube,female,27,white,no,yes,no,neither,no,42211,Cadiz,KY,not veteran,Did Not Start,0,0,
+1247,1,facebook,female,24,white,no,yes,no,attended,no,37643,Elizabethton,TN,not veteran,Did Not Start,0,0,
+1261,1,instagram,male,32,black,no,yes,no,neither,yes,85205,Mesa,AZ,not veteran,Did Not Start,0,0,
+1262,1,wordOfMouth,female,36,white,no,yes,no,neither,no,42367,Powderly,KY,not veteran,Did Not Start,0,0,
+1279,1,youtube,female,30,white,no,no,yes,attended,yes,83702,Boise,ID,not veteran,Did Not Start,0,0,
+1280,1,internetSearch,male,31,black,no,yes,no,graduated,no,85641,Vail,AZ,not veteran,Did Not Start,0,0,
+1283,1,internetSearch,female,25,black,no,yes,no,unknown,yes,56377,Sartell,MN,not veteran,Did Not Start,0,0,
+1300,1,youtube,male,24,black,no,yes,no,attended,no,19132,Philadelphia,PA,not veteran,Did Not Start,0,0,
+1301,1,instagram,female,26,black,no,yes,no,neither,no,33311,Lauderhill,FL,not veteran,Did Not Start,0,0,
+1308,1,tiktok,female,24,black,no,yes,no,neither,yes,85023,Phoenix,AZ,not veteran,Did Not Start,0,0,
+1309,1,wordOfMouth,male,19,white,no,yes,no,unknown,no,89501,Reno,NV,not veteran,Did Not Start,0,0,
+1311,1,tiktok,no-binary,34,mixed,no,yes,no,unknown,no,32725,Deltona,FL,not veteran,Did Not Start,0,0,
+1312,1,facebook,male,29,black,no,yes,no,neither,yes,40475,Richmond,KY,not veteran,Did Not Start,0,0,
+1313,1,instagram,female,28,black,yes,yes,no,graduated,yes,48076,Southfield,MI,not veteran,Did Not Start,0,0,
+1315,1,facebook,male,33,black,no,yes,no,graduated,yes,60435,Joliet,IL,veteran,Did Not Start,0,0,
+1323,1,facebook,female,25,black,no,yes,no,neither,no,39730,Aberdeen,MS,not veteran,Did Not Start,0,0,
+1335,1,linkedin,male,30,black,no,yes,no,neither,no,17602,Lancaster,PA,veteran,Did Not Start,0,0,
+1349,1,snapchat,male,20,white,no,yes,no,graduated,no,77498,Sugarland,TX,not veteran,Did Not Start,0,0,
+1362,1,youtube,female,18,mixed,no,yes,no,attended,no,64485,Savannah,MO,not veteran,Did Not Start,0,0,
+1374,1,internetSearch,male,25,mixed,no,yes,no,neither,no,23223,Richmond,VA,not veteran,Did Not Start,0,0,
+1377,1,facebook,female,31,black,no,yes,no,graduated,yes,85301,Glendale,AZ,not veteran,Did Not Start,0,0,
+1389,1,snapchat,male,20,white,no,yes,no,neither,no,30141,Hiram,GA,not veteran,Did Not Start,0,0,
+1392,1,email,female,22,mixed,no,yes,no,neither,no,24013,Roanoke,VA,not veteran,Did Not Start,0,0,
+1398,1,instagram,male,21,black,no,yes,no,neither,no,70820,Baton Rouge,LA,not veteran,Did Not Start,0,0,
+1400,1,youtube,male,27,black,no,yes,no,neither,no,71601,Pine Bluff,AR,not veteran,Did Not Start,0,0,
+1407,1,instagram,female,21,white,no,yes,no,neither,yes,44906,Mansfield,OH,not veteran,Did Not Start,0,0,
+1416,1,tiktok,male,26,black,no,yes,no,neither,no,31216,Macon,GA,not veteran,Did Not Start,0,0,
+1420,1,facebook,female,28,black,no,yes,no,neither,yes,39213,Jackson,MS,not veteran,Did Not Start,0,0,
+1427,1,facebook,female,26,black,no,yes,no,attended,no,60629,Chicago,IL,not veteran,Did Not Start,0,0,
+1435,1,instagram,male,23,black,no,yes,no,neither,no,29306,Spartanburg,SC,veteran,Did Not Start,0,0,
+1439,1,wordOfMouth,female,42,black,no,yes,no,neither,no,70767,Port Allen,LA,not veteran,Did Not Start,0,0,
+1442,1,facebook,male,35,white,no,yes,no,neither,no,92223,Beaumont,CA,not veteran,Did Not Start,0,0,
+1445,1,myEmployer,female,48,black,no,yes,no,neither,yes,31407,Savannah,GA,not veteran,Did Not Start,0,0,
+1448,1,tiktok,male,22,white,no,yes,no,unknown,no,45840,Findlay,OH,not veteran,Did Not Start,0,0,
+1489,1,instagram,female,25,black,no,yes,no,neither,no,63701,Cape Girardeau,MO,not veteran,Did Not Start,0,0,
+1498,1,radioPodcastSpotify,male,27,white,no,yes,no,neither,no,77494,Katy,TX,not veteran,Did Not Start,0,0,
+1501,1,facebook,female,27,black,no,yes,no,unknown,no,60637,Chicago,IL,not veteran,Did Not Start,0,0,
+1508,1,facebook,female,39,black,no,yes,no,neither,yes,48227,Detroit,MI,not veteran,Did Not Start,0,0,
+1511,1,myEmployer,female,18,black,yes,yes,no,unknown,no,01510,Clinton,MA,not veteran,Did Not Start,0,0,
+1513,1,myEmployer,female,18,white,yes,yes,no,attended,no,85705,Tucson,AZ,not veteran,Did Not Start,0,0,
+1523,1,facebook,female,20,black,no,yes,no,unknown,yes,40517,Lexington,KY,not veteran,Did Not Start,0,0,
+1527,1,facebook,female,34,black,no,yes,no,attended,no,78233,San Antonio,TX,not veteran,Did Not Start,0,0,
+1541,1,facebook,male,24,white,no,yes,no,unknown,no,65270,Moberly,MO,not veteran,Did Not Start,0,0,
+1550,1,instagram,female,30,mixed,no,yes,no,unknown,yes,89122,Las Vegas,NV,not veteran,Did Not Start,0,0,
+1555,1,facebook,male,35,black,no,yes,no,unknown,yes,90042,Los Angeles,CA,not veteran,Did Not Start,0,0,
+1574,1,youtube,female,22,black,no,yes,no,graduated,no,89119,Las Vegas,NV,not veteran,Did Not Start,0,0,
+1579,1,instagram,female,28,black,no,yes,no,graduated,no,79765,Odessa,TX,not veteran,Did Not Start,0,0,
+1582,1,tiktok,male,56,black,yes,yes,no,neither,no,10013,New York,NY,not veteran,Did Not Start,0,0,
+1586,1,facebook,male,26,white,no,yes,no,graduated,yes,18510,Scranton,PA,not veteran,Did Not Start,0,0,
+1591,1,facebook,female,27,white,no,yes,no,neither,no,15461,Masontown,PA,not veteran,Did Not Start,0,0,
+1599,1,internetSearch,female,24,white,no,yes,no,attended,no,76048,Granbury,TX,veteran,Did Not Start,0,0,
+1621,1,tiktok,female,18,white,no,yes,no,graduated,no,95482,Ukiah,CA,not veteran,Did Not Start,0,0,
+1629,1,facebook,male,26,black,no,no,yes,neither,no,56377,Sartell,MN,not veteran,Did Not Start,0,0,
+1633,1,facebook,male,28,white,yes,yes,no,neither,yes,13069,Fulton,NY,not veteran,Did Not Start,0,0,
+1639,1,facebook,female,33,white,no,no,yes,neither,no,17603,Lancaster,PA,not veteran,Did Not Start,0,0,
+1641,1,facebook,female,32,black,no,yes,no,unknown,yes,36869,Phenix City,AL,not veteran,Did Not Start,0,0,
+1643,1,instagram,female,27,white,yes,yes,no,neither,no,33055,Miami Gardens,FL,not veteran,Did Not Start,0,0,
+1651,1,snapchat,female,27,black,no,yes,no,graduated,yes,15110,Duquesne,PA,veteran,Did Not Start,0,0,
+1654,1,internetSearch,male,28,black,no,yes,no,neither,no,36206,Anniston,AL,not veteran,Did Not Start,0,0,
+1655,1,tiktok,male,25,black,no,yes,no,neither,yes,75006,Carrollton,TX,not veteran,Did Not Start,0,0,
+1660,1,wordOfMouth,female,25,white,no,yes,no,neither,yes,74859,Okemah,OK,not veteran,Did Not Start,0,0,
+1666,1,youtube,male,22,black,no,yes,no,neither,no,44137,Maple Heights,OH,veteran,Did Not Start,0,0,
+1691,1,myEmployer,male,20,black,no,yes,no,unknown,no,06516,West Haven,CT,not veteran,Did Not Start,0,0,
+1698,1,youtube,male,36,black,no,yes,no,attended,yes,31093,Warner Robins,GA,not veteran,Did Not Start,0,0,
+1700,1,instagram,female,39,black,no,yes,no,neither,no,35811,Huntsville,AL,not veteran,Did Not Start,0,0,
+1702,1,facebook,female,32,white,no,yes,no,neither,yes,71667,Star City,AR,not veteran,Did Not Start,0,0,
+1710,1,instagram,male,25,white,yes,yes,no,neither,yes,75051,Grand Prairie,TX,not veteran,Did Not Start,0,0,
+59,1,snapchat,male,18,black,no,no,yes,attended,no,60623,Chicago,IL,not veteran,Provisional Drop,0,0,
+89,4,google,female,22,white,yes,yes,no,attended,no,89115,Las Vegas,NV,veteran,Provisional Drop,21,29,1.9
+118,1,tiktok,female,21,mixed,no,yes,no,neither,yes,80010,Aurora,CO,not veteran,Provisional Drop,0,0,
+207,1,wordOfMouth,male,25,black,no,yes,no,neither,no,95821,Sacramento,CA,not veteran,Provisional Drop,0,0,
+208,1,facebook,female,26,black,no,yes,no,neither,yes,60443,Matteson,IL,not veteran,Provisional Drop,0,0,
+215,2,instagram,female,28,mixed,no,yes,no,attended,yes,29456,Ladson,SC,not veteran,Provisional Drop,9,15,2.3
+303,1,tiktok,female,27,black,no,yes,no,neither,yes,31906,Columbus,GA,not veteran,Provisional Drop,0,0,
+322,3,facebook,female,28,white,no,yes,no,neither,yes,29621,Anderson,SC,not veteran,Provisional Drop,21,37,2.3
+375,4,instagram,female,19,white,yes,yes,no,attended,no,30044,Lawrenceville,GA,not veteran,Provisional Drop,21,29,2.5
+405,1,facebook,male,28,white,no,yes,no,attended,yes,46176,Shelbyville,IN,not veteran,Provisional Drop,0,0,
+412,1,snapchat,female,31,black,no,yes,no,attended,no,36116,Montgomery,AL,not veteran,Provisional Drop,0,0,
+415,1,facebook,female,23,white,no,no,yes,attended,no,40220,Louisville,KY,not veteran,Provisional Drop,0,0,
+418,1,facebook,female,22,white,no,yes,no,attended,no,74631,Blackwell,OK,not veteran,Provisional Drop,0,0,
+422,1,tiktok,male,20,black,no,yes,no,neither,no,78219,San Antonio,TX,not veteran,Provisional Drop,0,0,
+423,1,instagram,female,31,black,no,yes,no,neither,yes,30331,Atlanta,GA,not veteran,Provisional Drop,0,0,
+440,3,instagram,female,24,black,no,yes,no,attended,no,75232,Dallas,TX,not veteran,Provisional Drop,0,9,0.0
+449,1,snapchat,female,30,white,no,no,yes,attended,yes,77301,Conroe,TX,not veteran,Provisional Drop,0,0,
+454,1,myEmployer,male,33,white,no,yes,no,neither,no,38135,Memphis,CA,not veteran,Provisional Drop,0,0,
+465,1,facebook,female,20,white,no,yes,no,attended,yes,66202,Mission,KS,not veteran,Provisional Drop,0,0,
+469,1,instagram,female,24,black,no,yes,no,attended,no,70510,Abbeville,LA,not veteran,Provisional Drop,0,0,
+471,3,tiktok,no-binary,33,black,no,yes,no,neither,yes,90047,Los Angeles,CA,not veteran,Provisional Drop,9,21,4.0
+472,1,facebook,male,24,mixed,no,yes,no,attended,no,71603,Pine Bluff,AR,not veteran,Provisional Drop,0,0,
+474,2,instagram,female,29,black,no,yes,no,neither,no,76002,Arlington,TX,not veteran,Provisional Drop,9,13,2.4
+486,1,facebook,male,27,white,no,yes,no,attended,no,45439,Dayton,OH,veteran,Provisional Drop,0,0,
+489,1,facebook,male,29,mixed,no,yes,no,neither,yes,70601,Lake Charles,LA,not veteran,Provisional Drop,0,0,
+490,1,snapchat,no-binary,29,black,no,yes,no,neither,no,43207,Columbus,OH,not veteran,Provisional Drop,0,0,
+504,1,facebook,female,27,black,yes,yes,no,attended,no,48204,Detroit,MI,not veteran,Provisional Drop,0,0,
+505,1,facebook,female,24,mixed,no,yes,no,neither,no,34482,Ocala,FL,not veteran,Provisional Drop,0,0,
+513,1,instagram,female,19,black,no,yes,no,attended,yes,06854,Norwalk,CT,not veteran,Provisional Drop,0,0,
+514,1,facebook,female,25,white,no,yes,no,attended,no,77550,Galveston,TX,not veteran,Provisional Drop,0,0,
+523,1,facebook,female,21,black,no,yes,no,attended,yes,60617,Chicago,IL,not veteran,Provisional Drop,0,0,
+524,1,facebook,female,20,white,no,yes,no,attended,yes,63801,Sikeston,MO,not veteran,Provisional Drop,0,0,
+528,1,youtube,male,28,black,no,yes,no,attended,yes,94509,Antioch,CA,not veteran,Provisional Drop,0,0,
+532,1,facebook,female,24,black,no,yes,no,attended,no,39046,Canton,MS,not veteran,Provisional Drop,0,0,
+544,1,youtube,female,30,black,no,yes,no,attended,no,75224,Dallas,TX,not veteran,Provisional Drop,0,0,
+553,1,facebook,male,24,asian,no,yes,no,attended,no,77015,Houston,TX,not veteran,Provisional Drop,0,0,
+554,1,facebook,male,30,white,no,no,yes,neither,no,44023,Chagrin Falls,OH,not veteran,Provisional Drop,0,0,
+559,1,dontknow,female,26,black,no,no,yes,attended,yes,60621,Chicago,IL,not veteran,Provisional Drop,0,0,
+564,1,facebook,female,32,white,no,yes,no,neither,yes,34695,Safety Harbor,FL,not veteran,Provisional Drop,0,0,
+566,1,facebook,female,25,white,no,yes,no,attended,yes,31705,Albany,GA,not veteran,Provisional Drop,9,9,
+574,1,internetSearch,male,26,white,no,yes,no,neither,yes,67561,Nickerson,KS,not veteran,Provisional Drop,0,0,
+576,1,instagram,male,23,black,no,yes,no,neither,yes,48224,Detroit,MI,not veteran,Provisional Drop,0,0,
+581,1,instagram,female,22,asian,no,yes,no,neither,yes,92705,North Tustin,CA,not veteran,Provisional Drop,0,0,
+582,1,snapchat,female,29,white,no,yes,no,neither,yes,40701,Corbin,KY,not veteran,Provisional Drop,0,0,
+584,1,other,female,44,mixed,no,yes,no,attended,no,40214,Louisville,KY,not veteran,Provisional Drop,0,0,
+607,1,instagram,female,32,black,no,yes,no,attended,yes,89031,North Las Vegas,NV,not veteran,Provisional Drop,0,0,
+618,1,facebook,female,25,mixed,no,yes,no,neither,no,48111,Belleville,MI,not veteran,Provisional Drop,0,0,
+620,1,instagram,female,26,white,yes,yes,no,neither,no,08618,Trenton,NJ,not veteran,Provisional Drop,0,0,
+623,1,other,female,27,white,no,yes,no,graduated,no,30157,Dallas,GA,not veteran,Provisional Drop,0,0,
+625,1,facebook,female,28,black,no,yes,no,neither,yes,33056,Miami,FL,not veteran,Provisional Drop,0,0,
+636,1,tiktok,female,24,white,no,yes,no,graduated,yes,76372,Newcastle,TX,not veteran,Provisional Drop,0,0,
+638,1,snapchat,male,19,white,no,yes,no,graduated,no,37854,Rockwood,TN,not veteran,Provisional Drop,0,0,
+641,1,facebook,female,30,black,no,yes,no,neither,yes,34758,Kissimmee,FL,not veteran,Provisional Drop,0,0,
+645,1,email,female,22,mixed,yes,yes,no,neither,no,93458,Santa María,CA,not veteran,Provisional Drop,0,0,
+646,1,instagram,female,19,black,no,yes,no,attended,no,43215,Columbus,OH,not veteran,Provisional Drop,0,0,
+650,1,facebook,female,42,white,no,yes,no,neither,yes,45013,Hamilton,OH,not veteran,Provisional Drop,0,0,
+651,1,facebook,female,30,white,no,yes,no,neither,yes,90002,Los Angeles,CA,not veteran,Provisional Drop,0,0,
+661,1,instagram,female,29,black,no,yes,no,attended,yes,78753,Austin,TX,not veteran,Provisional Drop,0,0,
+676,1,facebook,female,29,white,no,yes,no,unknown,no,70526,Crowley,LA,not veteran,Provisional Drop,0,0,
+677,1,wordOfMouth,male,22,black,no,no,yes,graduated,no,60626,Chicago,IL,not veteran,Provisional Drop,0,0,
+688,1,instagram,female,19,mixed,yes,yes,no,neither,no,95340,Merced,CA,not veteran,Provisional Drop,0,0,
+691,1,internetSearch,female,26,black,no,yes,no,neither,no,39216,Jackson,MS,not veteran,Provisional Drop,0,0,
+695,1,facebook,female,26,black,yes,yes,no,unknown,no,44115,Cleveland,OH,not veteran,Provisional Drop,0,0,
+700,1,email,female,29,mixed,no,yes,no,neither,no,75249,Dallas,TX,not veteran,Provisional Drop,0,0,
+716,1,internetSearch,male,53,white,no,yes,no,graduated,yes,76040,Euless,TX,not veteran,Provisional Drop,0,0,
+718,1,internetSearch,male,19,black,no,yes,no,neither,no,57078,Yankton,TX,not veteran,Provisional Drop,0,0,
+720,1,internetSearch,female,30,white,no,no,yes,graduated,no,31604,Columbus,GA,not veteran,Provisional Drop,0,0,
+723,1,youtube,female,39,black,no,yes,no,neither,yes,30088,Decatur,GA,veteran,Provisional Drop,0,0,
+726,1,facebook,female,38,black,no,yes,no,graduated,yes,30904,Augusta,GA,not veteran,Provisional Drop,0,0,
+734,1,instagram,female,21,mixed,yes,yes,no,neither,yes,92405,San Bernardino,CA,not veteran,Provisional Drop,0,0,
+736,1,youtube,female,25,black,no,yes,no,attended,yes,39211,Jackson,MS,veteran,Provisional Drop,0,0,
+743,1,facebook,male,42,white,no,yes,no,neither,no,92507,Riverside,CA,not veteran,Provisional Drop,0,0,
+744,1,facebook,male,55,mixed,yes,no,yes,neither,yes,77504,Pasadena,TX,not veteran,Provisional Drop,0,0,
+756,1,facebook,female,28,black,no,yes,no,graduated,yes,30452,Register,GA,not veteran,Provisional Drop,0,0,
+757,1,instagram,male,24,black,no,yes,no,attended,no,92392,Victorville,CA,not veteran,Provisional Drop,0,0,
+761,1,facebook,female,29,black,no,yes,no,unknown,yes,29203,Columbia,SC,not veteran,Provisional Drop,0,0,
+763,1,youtube,female,42,black,no,yes,no,neither,no,30024,Swanee,GA,not veteran,Provisional Drop,0,0,
+765,1,tiktok,female,26,white,no,yes,no,neither,no,31015,Cordele,,not veteran,Provisional Drop,0,0,
+768,1,facebook,female,32,white,no,no,yes,graduated,no,44313,Akron,OH,not veteran,Provisional Drop,0,0,
+769,1,facebook,female,22,black,no,yes,no,neither,yes,29045,Elgin,SC,not veteran,Provisional Drop,0,0,
+772,1,facebook,no-binary,19,white,no,yes,no,unknown,no,29627,Belton,SC,not veteran,Provisional Drop,0,0,
+775,1,instagram,female,32,black,no,yes,no,neither,yes,76132,Fort Worth,TX,not veteran,Provisional Drop,0,0,
+787,1,youtube,male,41,black,no,yes,no,unknown,no,32209,Jacksonville,FL,not veteran,Provisional Drop,0,0,
+788,1,facebook,female,40,white,yes,yes,no,neither,yes,78223,San Antonio,TX,not veteran,Provisional Drop,0,0,
+794,1,wordOfMouth,female,18,white,no,yes,no,attended,no,95841,Sacramento,CA,not veteran,Provisional Drop,0,0,
+796,1,instagram,male,31,black,no,yes,no,unknown,no,30083,Stone Mountain,GA,not veteran,Provisional Drop,0,0,
+804,1,facebook,female,36,black,no,yes,no,neither,yes,37830,Oak Ridge,TN,not veteran,Provisional Drop,0,0,
+817,1,facebook,female,27,white,no,no,yes,neither,yes,17562,Paradise,PA,not veteran,Provisional Drop,0,0,
+820,1,facebook,female,25,black,no,yes,no,neither,no,35630,Florence,AL,not veteran,Provisional Drop,0,0,
+833,1,facebook,male,53,black,no,yes,no,neither,yes,48213,Detroit,MI,not veteran,Provisional Drop,0,0,
+839,1,instagram,male,18,white,yes,yes,no,attended,no,76082,"Springtown, Tx",TX,not veteran,Provisional Drop,0,0,
+847,1,internetSearch,male,46,white,no,no,yes,unknown,yes,95973,Chico,CA,not veteran,Provisional Drop,0,0,
+851,1,snapchat,male,23,white,no,yes,no,graduated,no,29615,Greenville,SC,not veteran,Provisional Drop,0,0,
+852,1,facebook,female,24,black,no,yes,no,attended,yes,70767,Port Allen,LA,not veteran,Provisional Drop,0,0,
+874,1,email,male,27,mixed,yes,yes,no,graduated,no,73112,Oklahoma City,OK,not veteran,Provisional Drop,0,0,
+876,1,newsArticle,no-binary,24,mixed,yes,yes,no,neither,yes,60629,Chicago,IL,not veteran,Provisional Drop,0,0,
+877,1,facebook,male,28,mixed,yes,yes,no,neither,no,14609,Rochester,NY,not veteran,Provisional Drop,0,0,
+883,1,youtube,female,28,black,no,yes,no,attended,no,92544,Hemet,CA,not veteran,Provisional Drop,0,0,
+885,1,internetSearch,female,34,black,no,yes,no,graduated,no,46205,Indianapolis,IN,not veteran,Provisional Drop,0,0,
+887,1,instagram,male,28,mixed,no,yes,no,neither,no,90604,Whittier,CA,not veteran,Provisional Drop,0,0,
+889,1,facebook,female,28,white,no,yes,no,unknown,no,72956,Van Buren,AR,not veteran,Provisional Drop,0,0,
+899,1,facebook,female,28,black,no,yes,no,neither,no,30161,Rome,GA,not veteran,Provisional Drop,0,0,
+901,1,facebook,female,26,black,no,yes,no,unknown,yes,38114,Memphis,TN,not veteran,Provisional Drop,0,0,
+905,1,tiktok,female,24,white,no,yes,no,attended,no,22603,Winchester,VA,not veteran,Provisional Drop,0,0,
+906,1,facebook,female,52,black,no,yes,no,attended,yes,85021,Phoenix,AZ,not veteran,Provisional Drop,0,0,
+907,1,facebook,female,50,black,no,yes,no,attended,yes,49508,Grand Rapids,MI,not veteran,Provisional Drop,0,0,
+908,1,facebook,male,36,black,no,no,yes,neither,yes,30297,Forest Park,GA,not veteran,Provisional Drop,0,0,
+910,1,facebook,male,33,black,no,yes,no,graduated,yes,32207,Jacksonville,FL,not veteran,Provisional Drop,0,0,
+917,1,facebook,female,28,black,no,yes,no,neither,yes,36206,Anniston,AL,not veteran,Provisional Drop,0,0,
+920,1,snapchat,female,29,white,no,yes,no,unknown,no,55118,West St Paul,MN,not veteran,Provisional Drop,0,0,
+921,1,linkedin,male,35,white,no,yes,no,graduated,no,77657,Rose Hill Acres,TX,veteran,Provisional Drop,0,0,
+922,1,facebook,female,24,mixed,no,yes,no,neither,no,44108,Cleveland,OH,not veteran,Provisional Drop,0,0,
+930,1,instagram,female,59,black,no,yes,no,attended,yes,38769,Rosedale,MS,not veteran,Provisional Drop,0,0,
+935,1,referred,male,30,black,no,yes,no,neither,yes,39209,Jackson,MS,not veteran,Provisional Drop,0,0,
+936,1,facebook,female,20,black,no,yes,no,neither,no,35212,Birmingham,AL,not veteran,Provisional Drop,0,0,
+941,1,snapchat,female,28,white,yes,yes,no,unknown,no,92707,Santa Ana,CA,not veteran,Provisional Drop,0,0,
+942,1,instagram,male,33,mixed,no,no,yes,neither,no,93230,Hanford,CA,not veteran,Provisional Drop,0,0,
+943,1,facebook,female,33,mixed,yes,yes,no,graduated,yes,92376,Rialto,CA,not veteran,Provisional Drop,0,0,
+951,1,internetSearch,male,24,white,no,yes,no,graduated,yes,88061,Silver City,NM,not veteran,Provisional Drop,0,0,
+952,1,tiktok,female,33,black,no,yes,no,attended,no,32209,Jacksonville,FL,not veteran,Provisional Drop,0,0,
+953,1,facebook,female,25,white,no,yes,no,neither,yes,38701,Greenville,MS,not veteran,Provisional Drop,0,0,
+959,1,facebook,male,42,black,no,yes,no,attended,no,49504,Grand Rapids,MI,veteran,Provisional Drop,0,0,
+965,1,instagram,female,28,black,no,yes,no,neither,yes,44106,Cleveland,OH,not veteran,Provisional Drop,0,0,
+977,1,instagram,no-binary,27,black,no,yes,no,graduated,no,76106,Fort Worth,TX,not veteran,Provisional Drop,0,0,
+981,1,youtube,male,22,white,no,yes,no,unknown,no,48161,Monroe,MI,not veteran,Provisional Drop,0,0,
+994,1,internetSearch,female,31,americanIndian,no,no,yes,neither,no,60651,Chicago,IL,not veteran,Provisional Drop,0,0,
+1001,1,facebook,male,44,white,no,yes,no,neither,no,70503,Lafayette,LA,not veteran,Provisional Drop,0,0,
+1012,1,instagram,male,19,black,no,yes,no,attended,no,38301,Jackson,TN,not veteran,Provisional Drop,0,0,
+1014,1,tiktok,male,56,mixed,no,yes,no,neither,no,75409,Anna,TX,not veteran,Provisional Drop,0,0,
+1020,1,facebook,female,35,black,no,yes,no,graduated,yes,39759,Starkville,MS,not veteran,Provisional Drop,0,0,
+1028,1,facebook,female,26,black,no,yes,no,neither,no,29115,Orangeburg,SC,not veteran,Provisional Drop,0,0,
+1031,1,instagram,female,39,black,no,yes,no,neither,no,06902,Stamford,CT,not veteran,Provisional Drop,0,0,
+1032,1,instagram,female,21,mixed,yes,yes,no,neither,yes,95660,North Highlands,CA,not veteran,Provisional Drop,0,0,
+1033,1,instagram,female,43,black,no,yes,no,graduated,yes,46404,Gary,IN,veteran,Provisional Drop,0,0,
+1037,1,youtube,male,33,black,no,yes,no,attended,yes,07504,Paterson,NJ,not veteran,Provisional Drop,12,12,
+1044,1,facebook,female,20,white,yes,yes,no,attended,yes,46803,Fort Wayne,IN,not veteran,Provisional Drop,0,0,
+1046,1,snapchat,female,29,white,no,yes,no,graduated,no,39744,Kissemmee,FL,not veteran,Provisional Drop,0,0,
+1053,1,referred,female,43,black,no,yes,no,unknown,no,33147,Miami,FL,not veteran,Provisional Drop,0,0,
+1061,1,instagram,male,28,black,no,yes,no,neither,no,33147,Miami,FL,not veteran,Provisional Drop,0,0,
+1062,1,facebook,female,25,white,no,yes,no,neither,yes,71635,Crossett,AR,not veteran,Provisional Drop,0,0,
+1072,1,internetSearch,female,19,white,no,yes,no,neither,no,49417,Grand Haven,MI,not veteran,Provisional Drop,0,0,
+1076,1,snapchat,male,23,white,no,yes,no,unknown,no,74467,Wagoner,OK,not veteran,Provisional Drop,0,0,
+1079,1,facebook,female,22,black,no,yes,no,unknown,no,35758,Madison,AL,not veteran,Provisional Drop,0,0,
+1080,1,wordOfMouth,male,28,black,no,yes,no,attended,yes,17701,Williamsport,PA,not veteran,Provisional Drop,0,0,
+1090,1,facebook,female,33,black,no,yes,no,graduated,no,75638,Daingerfield,TX,not veteran,Provisional Drop,0,0,
+1096,1,snapchat,female,18,mixed,yes,yes,no,graduated,no,79088,Tulia,TX,not veteran,Provisional Drop,0,0,
+1098,1,instagram,female,41,black,no,no,yes,neither,no,77449,Katy,TX,not veteran,Provisional Drop,0,0,
+1099,1,facebook,female,29,black,no,yes,no,neither,no,30906,Augusta,GA,not veteran,Provisional Drop,0,0,
+1100,1,tiktok,no-binary,23,black,no,yes,no,unknown,no,76712,Woodway,TX,not veteran,Provisional Drop,0,0,
+1103,1,facebook,female,28,mixed,no,yes,no,unknown,yes,19604,Reading,PA,not veteran,Provisional Drop,0,0,
+1113,1,facebook,male,25,white,no,yes,no,neither,no,93308,Bakersfield,CA,not veteran,Provisional Drop,0,0,
+1116,1,instagram,male,20,black,no,no,yes,attended,no,32174,Ormond Beach,FL,veteran,Provisional Drop,0,0,
+1118,1,facebook,female,27,black,no,yes,no,neither,no,29935,Port Royal,SC,not veteran,Provisional Drop,0,0,
+1131,1,snapchat,no-binary,25,white,no,yes,no,attended,no,44706,Canton,OH,not veteran,Provisional Drop,0,0,
+1137,1,facebook,male,34,black,no,yes,no,neither,no,60466,Park Forest,IL,not veteran,Provisional Drop,0,0,
+1138,1,instagram,female,40,black,no,yes,no,attended,yes,33401,West Palm Bch,FL,not veteran,Provisional Drop,0,0,
+1139,1,email,female,23,black,no,yes,no,attended,no,49024,Portage,MI,not veteran,Provisional Drop,0,0,
+1148,1,youtube,female,35,black,no,yes,no,unknown,yes,64137,Kansas City,MO,not veteran,Provisional Drop,0,0,
+1153,1,youtube,female,31,black,no,yes,no,graduated,yes,33209,Jacksonville,FL,not veteran,Provisional Drop,9,9,
+1154,1,facebook,female,42,white,no,yes,no,unknown,yes,57104,Sioux Falls,SD,not veteran,Provisional Drop,0,0,
+1156,1,snapchat,male,30,black,no,yes,no,unknown,yes,62206,Cahokia,IL,not veteran,Provisional Drop,0,0,
+1166,1,instagram,male,19,black,no,yes,no,attended,no,60633,Chicago,,not veteran,Provisional Drop,0,0,
+1171,1,facebook,female,43,black,no,yes,no,graduated,yes,30222,Greenville,GA,not veteran,Provisional Drop,0,0,
+1177,1,instagram,male,47,black,no,yes,no,attended,yes,31015,Cordele,GA,not veteran,Provisional Drop,5,5,
+1184,1,snapchat,male,22,mixed,no,no,yes,attended,no,48638,Saginaw,MI,not veteran,Provisional Drop,0,0,
+1185,1,facebook,female,46,black,no,yes,no,neither,no,77954,Cuero,TX,veteran,Provisional Drop,0,0,
+1186,1,instagram,female,32,black,no,yes,no,neither,no,31036,Hawkinsville,GA,not veteran,Provisional Drop,0,0,
+1187,1,email,female,27,black,no,yes,no,neither,no,30286,Thomaston,GA,not veteran,Provisional Drop,0,0,
+1188,1,facebook,male,29,white,no,yes,no,graduated,no,63088,Valley Park,MO,not veteran,Provisional Drop,0,0,
+1192,1,instagram,female,31,black,no,no,yes,neither,no,30315,Atlanta,GA,not veteran,Provisional Drop,0,0,
+1197,1,myEmployer,female,28,black,no,yes,no,attended,yes,11727,Coram,NY,not veteran,Provisional Drop,0,0,
+1198,1,facebook,female,27,white,no,yes,no,graduated,no,76135,Fort Worth,TX,not veteran,Provisional Drop,0,0,
+1199,1,myEmployer,female,18,black,no,yes,no,graduated,yes,31909,Columbus,GA,veteran,Provisional Drop,0,0,
+1201,1,instagram,male,26,black,no,yes,no,neither,yes,79924,El Paso,TX,not veteran,Provisional Drop,0,0,
+1202,1,instagram,female,18,white,yes,yes,no,attended,no,44135,Cleveland,OH,not veteran,Provisional Drop,0,0,
+1205,1,facebook,male,47,mixed,yes,yes,no,neither,no,99207,Spokane,WA,not veteran,Provisional Drop,0,0,
+1206,1,youtube,male,22,asian,no,yes,no,neither,yes,60169,Hoffman Estates,IL,not veteran,Provisional Drop,0,0,
+1208,1,instagram,female,36,black,no,yes,no,graduated,yes,44703,Canton,OH,not veteran,Provisional Drop,4,4,
+1209,1,wordOfMouth,female,25,black,no,yes,no,graduated,no,77320,Huntsville,TX,not veteran,Provisional Drop,0,0,
+1210,1,tiktok,female,36,black,no,no,yes,neither,yes,30337,College Park,GA,not veteran,Provisional Drop,0,0,
+1214,1,facebook,female,27,white,no,yes,no,unknown,no,77015,Houston,TX,not veteran,Provisional Drop,0,0,
+1216,1,tiktok,female,18,mixed,yes,yes,no,attended,no,80631,Greeley,CO,not veteran,Provisional Drop,0,0,
+1225,1,snapchat,female,19,black,no,yes,no,neither,no,84117,Salt Lake,UT,not veteran,Provisional Drop,0,0,
+1237,1,internetSearch,female,26,black,no,yes,no,graduated,yes,31210,Mcdonough,GA,not veteran,Provisional Drop,0,0,
+1242,1,facebook,female,25,black,no,yes,no,neither,yes,55443,Brooklyn Park,MN,not veteran,Provisional Drop,0,0,
+1249,1,tiktok,female,18,black,no,yes,no,neither,yes,72206,Little Rock,AR,not veteran,Provisional Drop,0,0,
+1250,1,facebook,female,29,americanIndian,no,yes,no,neither,no,85006,Phoenix,AZ,not veteran,Provisional Drop,0,0,
+1257,1,facebook,female,32,black,no,yes,no,neither,yes,35022,Bessemer,AL,not veteran,Provisional Drop,0,0,
+1258,1,myEmployer,female,34,white,no,yes,no,unknown,yes,57105,Sioux Falls,SD,not veteran,Provisional Drop,25,25,
+1267,1,facebook,male,22,white,no,yes,no,neither,no,39429,Columbia,MS,not veteran,Provisional Drop,0,0,
+1284,1,youtube,male,24,black,no,yes,no,graduated,yes,44110,Cleveland,OH,not veteran,Provisional Drop,0,0,
+1286,1,myEmployer,no-binary,21,white,yes,yes,no,attended,yes,90660,Pico Rivera,CA,not veteran,Provisional Drop,0,0,
+1287,1,facebook,female,37,black,no,yes,no,neither,yes,30311,Atlanta,GA,not veteran,Provisional Drop,0,0,
+1290,1,wordOfMouth,male,19,black,no,yes,no,neither,no,30144,Kennesaw,GA,not veteran,Provisional Drop,0,0,
+1294,1,email,female,54,white,no,yes,no,neither,yes,95355,Modesty,CA,not veteran,Provisional Drop,0,0,
+1299,1,instagram,female,19,black,no,yes,no,attended,no,24017,Roanoke,VA,not veteran,Provisional Drop,0,0,
+1306,1,instagram,female,28,black,no,yes,no,neither,yes,89178,Las Vegas,NV,not veteran,Provisional Drop,0,0,
+1322,1,facebook,female,20,mixed,yes,yes,no,neither,no,37387,Tracy City,TN,not veteran,Provisional Drop,0,0,
+1325,1,tiktok,male,32,white,no,yes,no,neither,no,06118,6118,CT,not veteran,Provisional Drop,0,0,
+1327,1,instagram,no-binary,28,mixed,no,yes,no,neither,yes,11368,Corona,NY,not veteran,Provisional Drop,0,0,
+1336,1,facebook,female,30,black,no,yes,no,unknown,no,29646,Greenwood,SC,not veteran,Provisional Drop,0,0,
+1337,1,instagram,male,45,black,yes,yes,no,graduated,yes,48601,Saginaw,MI,veteran,Provisional Drop,0,0,
+1339,1,facebook,female,31,white,no,no,yes,graduated,yes,30041,Cumming,GA,not veteran,Provisional Drop,0,0,
+1347,1,instagram,female,35,white,yes,yes,no,neither,yes,92243,El Centro,CA,not veteran,Provisional Drop,9,9,
+1355,1,wordOfMouth,male,28,white,no,yes,no,neither,yes,95842,Sacramento,CA,not veteran,Provisional Drop,24,24,
+1357,1,tiktok,female,28,black,no,yes,no,graduated,yes,75208,Dallas,TX,not veteran,Provisional Drop,0,0,
+1358,1,facebook,male,29,black,no,yes,no,neither,yes,46350,Laporte,IN,not veteran,Provisional Drop,0,0,
+1364,1,facebook,female,27,black,no,yes,no,neither,yes,38114,Memphis,TN,not veteran,Provisional Drop,0,0,
+1365,1,facebook,male,29,black,no,yes,no,unknown,no,37051,Cumberland Furnace,TN,not veteran,Provisional Drop,0,0,
+1366,1,facebook,male,29,black,no,yes,no,neither,no,43213,Columbus,OH,not veteran,Provisional Drop,0,0,
+1371,1,myEmployer,female,21,white,yes,yes,no,unknown,no,77598,Webster,TX,not veteran,Provisional Drop,0,0,
+1378,1,facebook,male,26,black,no,yes,no,graduated,no,39501,Gulfport,MS,not veteran,Provisional Drop,0,0,
+1381,1,tiktok,female,19,white,no,yes,no,neither,no,47909,Lafayette,IN,not veteran,Provisional Drop,0,0,
+1385,1,facebook,female,24,white,no,yes,no,attended,no,65550,Newburg,MO,not veteran,Provisional Drop,0,0,
+1388,1,instagram,female,19,mixed,yes,yes,no,graduated,no,18202,Hazleton,PA,not veteran,Provisional Drop,0,0,
+1403,1,instagram,male,23,white,no,yes,no,neither,yes,92101,San Diego,CA,not veteran,Provisional Drop,0,0,
+1404,1,instagram,male,21,black,no,yes,no,neither,yes,38134,Memphis,TN,not veteran,Provisional Drop,0,0,
+1418,1,instagram,male,20,white,yes,yes,no,neither,yes,92882,Corona,CA,not veteran,Provisional Drop,0,0,
+1425,1,facebook,female,23,black,no,yes,no,neither,yes,34974,Okeechobee,FL,not veteran,Provisional Drop,0,0,
+1429,1,instagram,female,18,white,yes,yes,no,neither,no,01107,Springfield,MA,not veteran,Provisional Drop,0,0,
+1430,1,internetSearch,female,32,black,yes,yes,no,neither,yes,10455,Bronx,NY,not veteran,Provisional Drop,0,0,
+1431,1,tiktok,female,33,white,no,yes,no,neither,yes,33510,Brandon,FL,not veteran,Provisional Drop,0,0,
+1432,1,facebook,female,37,black,no,yes,no,neither,no,72401,Jonesboro,AR,not veteran,Provisional Drop,0,0,
+1433,1,facebook,male,27,black,no,yes,no,unknown,yes,35051,Columbiana,AL,not veteran,Provisional Drop,0,0,
+1438,1,facebook,female,40,mixed,no,yes,no,graduated,yes,46774,New Haven,IN,not veteran,Provisional Drop,0,0,
+1454,1,instagram,male,27,mixed,yes,yes,no,neither,yes,80239,Denver,CO,not veteran,Provisional Drop,0,0,
+1468,1,instagram,male,29,americanIndian,no,no,yes,graduated,yes,58104,Fargo,ND,not veteran,Provisional Drop,0,0,
+1469,1,instagram,female,27,white,no,yes,no,attended,no,40701,Corbin,KY,not veteran,Provisional Drop,0,0,
+1470,1,facebook,female,26,black,no,yes,no,neither,no,46517,Elkhart,IN,not veteran,Provisional Drop,0,0,
+1485,1,facebook,female,41,black,no,yes,no,neither,yes,72701,Fayetteville,AR,not veteran,Provisional Drop,0,0,
+1488,1,facebook,male,34,black,no,no,yes,neither,yes,23704,Portsmouth,VA,not veteran,Provisional Drop,0,0,
+1493,1,myEmployer,female,20,black,no,yes,no,neither,yes,90043,Los Angeles,CA,not veteran,Provisional Drop,0,0,
+1502,1,myEmployer,female,22,black,no,yes,no,neither,yes,90001,Los Angeles,CA,not veteran,Provisional Drop,0,0,
+1506,1,youtube,male,25,black,no,yes,no,neither,yes,55403,Minneapolis,MN,not veteran,Provisional Drop,0,0,
+1509,1,facebook,male,57,black,no,no,yes,attended,no,15132,Mckeesport,PA,not veteran,Provisional Drop,0,0,
+1512,1,facebook,no-binary,24,white,no,yes,no,neither,yes,43204,Columbus,OH,not veteran,Provisional Drop,0,0,
+1514,1,facebook,male,24,mixed,yes,yes,no,attended,no,56054,Lafayette,MN,not veteran,Provisional Drop,0,0,
+1515,1,instagram,female,19,white,yes,no,yes,neither,yes,77510,Santa Fe,TX,not veteran,Provisional Drop,0,0,
+1516,1,facebook,male,24,white,no,no,yes,neither,no,46347,Kouts,IN,not veteran,Provisional Drop,0,0,
+1518,1,myEmployer,female,25,mixed,yes,yes,no,attended,yes,77033,Houston,TX,not veteran,Provisional Drop,0,0,
+1520,1,myEmployer,female,20,nativeHawaiian,yes,yes,no,neither,no,92407,San Bernardino,CA,not veteran,Provisional Drop,0,0,
+1529,1,facebook,female,29,mixed,yes,yes,no,attended,no,32826,Orlando,FL,not veteran,Provisional Drop,0,0,
+1539,1,snapchat,female,19,black,no,yes,no,attended,no,47715,Evansville,IN,not veteran,Provisional Drop,0,0,
+1545,1,facebook,female,52,black,no,no,yes,neither,yes,42101,Bowling Green,KY,not veteran,Provisional Drop,5,5,
+1551,1,instagram,male,25,mixed,no,yes,no,graduated,yes,84107,Salt Lake City,UT,not veteran,Provisional Drop,0,0,
+1558,1,facebook,male,36,black,no,yes,no,neither,yes,58501,Bismarck,ND,not veteran,Provisional Drop,0,0,
+1564,1,snapchat,female,33,black,no,yes,no,attended,yes,61350,Ottawa,IL,not veteran,Provisional Drop,0,0,
+1569,1,facebook,female,49,black,no,yes,no,graduated,no,85711,Tucson,AZ,not veteran,Provisional Drop,0,0,
+1573,1,myEmployer,female,24,white,yes,yes,no,neither,no,33126,Miami,FL,not veteran,Provisional Drop,0,0,
+1581,1,myEmployer,female,25,white,yes,yes,no,neither,no,89431,Sparks,NV,not veteran,Provisional Drop,0,0,
+1588,1,myEmployer,female,22,white,no,yes,no,graduated,no,01028,East Longmeadow,MA,not veteran,Provisional Drop,0,0,
+1600,1,facebook,male,32,black,no,yes,no,graduated,yes,33440,Clewiston,FL,not veteran,Provisional Drop,0,0,
+1602,1,internetSearch,female,24,black,no,yes,no,unknown,no,63133,Saint Louis,MO,not veteran,Provisional Drop,0,0,
+1608,1,facebook,female,24,white,no,yes,no,neither,no,46225,Indianapolis,IN,not veteran,Provisional Drop,0,0,
+1610,1,facebook,male,29,black,no,no,yes,graduated,no,49649,Kingsley,MI,not veteran,Provisional Drop,0,0,
+1615,1,tiktok,female,25,white,yes,yes,no,neither,yes,60453,Oak Lawn,IL,not veteran,Provisional Drop,9,9,
+1619,1,youtube,female,25,mixed,no,yes,no,attended,yes,32811,Orlando,FL,not veteran,Provisional Drop,0,0,
+1622,1,facebook,male,26,mixed,yes,yes,no,attended,no,10451,Bronx,NY,not veteran,Provisional Drop,0,0,
+1635,1,youtube,female,39,mixed,no,yes,no,attended,yes,60644,Chicago,IL,veteran,Provisional Drop,0,0,
+1642,1,instagram,female,28,black,no,yes,no,neither,no,32210,Jacksonville,FL,veteran,Provisional Drop,0,0,
+1644,1,tiktok,female,18,black,no,yes,no,neither,no,71220,Bastrop,LA,not veteran,Provisional Drop,0,0,
+1645,1,instagram,female,44,black,no,yes,no,attended,yes,89113,Las Vegas,NV,not veteran,Provisional Drop,0,0,
+1648,1,internetSearch,female,52,white,no,no,yes,graduated,yes,71446,Leesville,LA,not veteran,Provisional Drop,0,0,
+1661,1,instagram,female,24,black,no,yes,no,graduated,yes,47130,Jeffersonville,IN,not veteran,Provisional Drop,0,0,
+1664,1,facebook,male,32,mixed,no,yes,no,attended,yes,22802,Harrisonburg,VA,not veteran,Provisional Drop,0,0,
+1675,1,tiktok,female,25,white,no,yes,no,graduated,yes,16335,Meadville,PA,not veteran,Provisional Drop,0,0,
+1685,1,instagram,female,31,black,yes,yes,no,neither,no,15219,Pittsburgh,PA,not veteran,Provisional Drop,0,0,
+1686,1,tiktok,,20,mixed,no,yes,no,neither,yes,32810,Orlando,FL,not veteran,Provisional Drop,0,0,
+1688,1,tiktok,female,32,black,no,yes,no,graduated,yes,02119,Roxbury,MA,not veteran,Provisional Drop,0,0,
+1690,1,facebook,male,28,white,no,yes,no,neither,yes,56387,Waite Park,MN,not veteran,Provisional Drop,0,0,
+1695,1,facebook,male,38,white,no,yes,no,neither,no,72901,Fort Smith,AR,not veteran,Provisional Drop,0,0,
+1708,1,myEmployer,male,24,black,no,no,yes,attended,no,11234,Brooklyn,NY,not veteran,Provisional Drop,0,0,
+1711,1,tiktok,female,22,mixed,yes,yes,no,neither,no,77901,Victoria,TX,not veteran,Provisional Drop,0,0,
+0,6,dontknow,female,41,mixed,yes,yes,no,attended,yes,95660,North Highlands,CA,not veteran,Registered,56,56,3.9
+1,5,dontknow,female,22,white,no,yes,no,neither,yes,17061,Millersburg,PA,not veteran,Registered,64,64,3.6
+2,2,instagram,male,20,black,yes,yes,no,attended,no,19133,Philadelphia,PA,not veteran,Registered,9,21,1.7
+4,4,instagram,female,25,white,yes,yes,no,attended,yes,78411,Corpus Christi,TX,veteran,Registered,37,41,2.7
+10,4,linkedin,female,43,white,no,yes,no,attended,yes,49441,Muskegon,MI,not veteran,Registered,41,41,3.7
+11,3,facebook,female,38,white,no,yes,no,attended,yes,30180,Villa Rica,GA,not veteran,Registered,30,30,3.8
+13,4,wordOfMouth,female,37,americanIndian,no,yes,no,attended,yes,83221,Blackfoot,ID,not veteran,Registered,45,45,3.4
+14,2,tiktok,male,27,white,no,yes,no,neither,no,64014,Blue Springs,MO,not veteran,Registered,13,21,2.5
+15,2,dontknow,female,20,black,no,yes,no,neither,yes,19124,Philadelphia,PA,not veteran,Registered,21,21,3.7
+16,4,facebook,female,26,white,no,yes,no,neither,no,43608,Toledo,OH,not veteran,Registered,41,41,3.7
+17,5,instagram,female,19,mixed,no,yes,no,neither,yes,94541,Hayward,CA,not veteran,Registered,55,55,3.3
+18,2,instagram,female,24,black,no,yes,no,attended,yes,08611,Trenton,NJ,veteran,Registered,15,15,3.1
+19,2,instagram,male,27,mixed,yes,yes,no,neither,yes,92201,Indio,CA,not veteran,Registered,18,18,4.0
+20,2,tiktok,female,21,white,yes,yes,no,attended,yes,84005,Eagle Mountain,UT,not veteran,Registered,21,21,2.4
+21,3,wordOfMouth,female,23,white,no,yes,no,attended,no,46120,Cloverdale,IN,not veteran,Registered,31,31,3.5
+22,2,facebook,female,29,white,no,yes,no,neither,yes,94901,San Rafael,CA,not veteran,Registered,17,17,3.0
+23,3,instagram,female,29,black,no,yes,no,neither,no,84096,Herriman,UT,not veteran,Registered,30,30,3.9
+24,3,youtube,female,22,mixed,no,yes,no,attended,yes,61032,Freeport,IL,not veteran,Registered,17,29,1.0
+25,9,dontknow,female,23,mixed,yes,yes,no,attended,yes,73119,Oklahoma City,OK,not veteran,Registered,85,93,3.1
+26,5,instagram,female,36,black,yes,yes,no,neither,yes,02368,Boston,MA,not veteran,Registered,52,52,3.1
+27,3,facebook,female,40,white,no,yes,no,attended,yes,32628,Cross City,FL,not veteran,Registered,33,33,4.0
+29,4,facebook,female,32,black,no,yes,no,attended,yes,19138,Philadelphia,PA,not veteran,Registered,13,37,0.8
+31,3,instagram,female,36,black,no,yes,no,neither,yes,30677,Watkinsville,GA,not veteran,Registered,34,34,3.5
+33,2,facebook,female,27,white,no,yes,no,neither,no,03878,Somersworth,NH,not veteran,Registered,21,21,2.3
+35,3,instagram,female,20,white,yes,yes,no,neither,no,93651,Prather,CA,not veteran,Registered,33,33,3.6
+36,2,wordOfMouth,female,32,white,no,yes,no,neither,yes,45356,Piqua,OH,not veteran,Registered,21,21,2.4
+40,2,myEmployer,female,34,black,no,yes,no,attended,no,19131,Philadelphia,PA,not veteran,Registered,21,21,3.4
+42,3,instagram,no-binary,51,black,no,no,yes,neither,yes,30038,Stonecrest,GA,not veteran,Registered,33,33,3.8
+43,3,facebook,female,25,white,no,yes,no,neither,yes,55024,Farmington,MN,not veteran,Registered,26,26,3.5
+46,2,facebook,female,28,black,no,yes,no,attended,yes,35208,Birmingham,AL,not veteran,Registered,9,15,1.1
+48,3,instagram,female,25,black,no,yes,no,attended,yes,77056,Houston,TX,not veteran,Registered,21,31,2.4
+49,5,instagram,female,24,white,no,yes,no,attended,yes,17922,Auburn,PA,veteran,Registered,52,52,3.3
+50,2,facebook,female,32,black,yes,yes,no,neither,yes,33510,Brandon,FL,not veteran,Registered,18,18,3.6
+51,4,facebook,female,22,white,no,yes,no,attended,yes,63401,Hannibal,MO,not veteran,Registered,37,41,2.3
+52,4,other,female,28,white,no,yes,no,neither,yes,83642,Meridian,ID,not veteran,Registered,62,62,3.6
+53,2,instagram,female,26,black,yes,yes,no,attended,yes,91607,Los Angeles,CA,not veteran,Registered,17,19,4.0
+54,5,dontknow,female,37,white,no,yes,no,attended,no,95621,Citrus Heights,CA,not veteran,Registered,55,55,2.7
+55,3,instagram,male,26,white,no,yes,no,neither,no,29039,Cordova,SC,not veteran,Registered,0,9,0.0
+56,4,instagram,female,23,black,no,yes,no,neither,yes,39601,Brookhaven,MS,veteran,Registered,37,41,2.8
+57,2,snapchat,female,24,black,no,yes,no,attended,yes,38116,Memphis,TN,not veteran,Registered,17,21,3.3
+58,2,instagram,male,31,black,no,yes,no,neither,yes,63132,St. Louis,MO,not veteran,Registered,14,14,2.0
+60,2,facebook,female,29,black,no,yes,no,attended,yes,77086,Houston,TX,not veteran,Registered,21,21,3.8
+61,2,myEmployer,female,26,white,yes,yes,no,attended,yes,73119,Oklahoma City,OK,not veteran,Registered,21,21,3.8
+62,3,facebook,female,25,white,no,yes,no,neither,yes,95354,Modesto,CA,not veteran,Registered,4,13,0.9
+63,2,instagram,male,24,white,no,yes,no,attended,yes,70607,Lake Charles,LA,veteran,Registered,21,21,4.0
+64,2,facebook,male,26,white,no,yes,no,attended,no,31211,Macon,GA,not veteran,Registered,6,12,0.8
+65,2,instagram,female,29,mixed,yes,yes,no,neither,yes,90814,Long Beach,CA,not veteran,Registered,21,21,4.0
+66,2,instagram,female,24,black,no,yes,no,neither,yes,75054,Grand Prairie,TX,not veteran,Registered,13,21,1.9
+69,6,dontknow,no-binary,21,americanIndian,yes,yes,no,attended,yes,90037,Los Angeles,CA,not veteran,Registered,84,84,3.9
+70,3,instagram,female,24,white,no,yes,no,neither,yes,34208,Bradenton,FL,not veteran,Registered,25,29,2.5
+71,3,facebook,female,25,mixed,no,yes,no,attended,yes,64834,Carl Junction,MO,not veteran,Registered,33,33,3.9
+72,3,tiktok,female,19,mixed,yes,yes,no,neither,yes,60804,Cicero,IL,not veteran,Registered,9,13,0.8
+74,2,facebook,female,28,black,yes,yes,no,neither,no,80205,Denver,CO,not veteran,Registered,17,21,2.0
+77,5,tiktok,male,21,black,no,yes,no,attended,no,44132,Euclid,OH,not veteran,Registered,60,60,3.9
+78,2,tiktok,female,33,white,yes,yes,no,attended,yes,90037,Los Angeles,CA,not veteran,Registered,13,21,2.1
+79,4,instagram,female,21,black,no,yes,no,neither,yes,75063,Irving,TX,not veteran,Registered,33,37,2.3
+80,5,dontknow,male,25,black,no,yes,no,neither,yes,77840,College Station,TX,not veteran,Registered,48,52,3.3
+82,3,facebook,female,25,black,no,yes,no,attended,yes,07062,Plainfield,NJ,not veteran,Registered,25,31,3.0
+83,2,youtube,female,24,black,no,yes,no,attended,yes,70538,Franklin,LA,not veteran,Registered,21,21,4.0
+84,2,tiktok,female,24,asian,no,yes,no,neither,yes,94550,Livermore,CA,not veteran,Registered,9,13,1.3
+85,2,tiktok,female,25,mixed,yes,yes,no,attended,yes,73068,Noble,OK,not veteran,Registered,21,21,3.8
+86,2,youtube,female,47,americanIndian,no,yes,no,neither,yes,84104,Salt Lake City,UT,not veteran,Registered,21,21,3.8
+87,2,internetSearch,female,19,mixed,no,yes,no,attended,no,08021,Clementon,NJ,not veteran,Registered,6,14,1.3
+90,2,facebook,female,30,black,no,yes,no,attended,yes,19132,Philadelphia,PA,not veteran,Registered,21,21,4.0
+91,4,facebook,female,24,white,no,yes,no,neither,no,95670,Gold River,CA,not veteran,Registered,41,43,3.5
+93,3,instagram,male,29,black,no,yes,no,neither,yes,07305,Jersey City,NJ,not veteran,Registered,30,30,3.6
+94,5,instagram,female,21,mixed,no,yes,no,neither,yes,29461,Moncks Corner,SC,not veteran,Registered,55,55,2.8
+95,3,tiktok,female,33,black,no,yes,no,attended,yes,75227,Dallas,TX,not veteran,Registered,30,30,3.4
+97,2,instagram,female,28,black,no,yes,no,neither,no,91103,Pasadena,CA,not veteran,Registered,9,9,2.0
+98,2,wordOfMouth,female,21,black,no,yes,no,neither,no,70427,Bogalusa,LA,not veteran,Registered,21,21,2.5
+99,4,tiktok,no-binary,30,white,no,yes,no,attended,yes,46526,Goshen,IN,not veteran,Registered,45,45,2.8
+101,4,tiktok,female,22,black,no,yes,no,attended,no,75639,Deberry,TX,not veteran,Registered,43,43,3.8
+102,3,facebook,male,33,black,no,yes,no,attended,yes,77449,Katy,TX,not veteran,Registered,57,57,3.4
+103,2,facebook,female,24,mixed,no,yes,no,attended,yes,60901,Kankakee,IL,veteran,Registered,17,21,2.5
+104,3,instagram,female,24,black,no,yes,no,attended,no,19144,Philadlphia,PA,not veteran,Registered,26,30,2.5
+105,3,instagram,female,23,white,yes,yes,no,neither,yes,06010,Bristol,CT,not veteran,Registered,9,22,1.4
+106,3,instagram,male,26,black,no,no,yes,neither,no,85206,Mesa,AZ,not veteran,Registered,29,29,3.9
+107,2,facebook,male,28,black,no,yes,no,neither,no,29150,Sumter,SC,not veteran,Registered,0,9,0.0
+109,2,tiktok,male,24,mixed,no,yes,no,attended,no,73742,Hennessey,OK,not veteran,Registered,21,21,4.0
+111,2,instagram,male,29,mixed,no,yes,no,neither,yes,32221,Jacksonville,FL,not veteran,Registered,21,21,3.1
+116,2,other,male,30,black,no,yes,no,attended,no,92571,Perris,CA,not veteran,Registered,4,9,0.4
+117,2,wordOfMouth,male,32,black,no,yes,no,attended,yes,77096,Houston,TX,not veteran,Registered,13,21,1.9
+119,3,tiktok,female,23,black,no,yes,no,attended,no,46226,Indianapolis,IN,not veteran,Registered,25,29,2.9
+120,3,youtube,male,48,white,no,yes,no,attended,yes,95966,Oroville,CA,not veteran,Registered,25,25,2.7
+122,2,facebook,female,35,mixed,yes,yes,no,neither,yes,89012,Henderson,NV,not veteran,Registered,21,21,4.0
+123,4,youtube,female,31,black,no,yes,no,attended,yes,07018,East Orange,NJ,not veteran,Registered,47,47,4.0
+124,2,facebook,female,27,americanIndian,yes,yes,no,attended,yes,80915,Colorado Springs,CO,not veteran,Registered,4,9,0.4
+125,3,linkedin,male,23,mixed,no,yes,no,neither,yes,29544,Gallivants Ferry,SC,not veteran,Registered,33,33,3.8
+126,5,tiktok,male,21,mixed,no,yes,no,attended,no,19007,Bristol,PA,not veteran,Registered,52,52,3.9
+127,4,tiktok,female,19,black,yes,yes,no,neither,no,17046,Lebanon,PA,not veteran,Registered,5,13,1.1
+128,2,tiktok,female,21,white,no,yes,no,attended,yes,60050,Mchenry,IL,not veteran,Registered,5,9,0.9
+130,2,wordOfMouth,female,20,black,no,no,yes,neither,no,02072,Stoughton,MA,not veteran,Registered,21,21,3.8
+132,11,dontknow,female,28,black,no,yes,no,attended,yes,30318,Atlanta,GA,not veteran,Registered,88,92,2.2
+133,2,wordOfMouth,female,41,black,no,yes,no,neither,no,72209,Little Rock,AR,not veteran,Registered,2,10,0.6
+134,4,tiktok,no-binary,23,mixed,yes,yes,no,attended,no,78664,Roundrock,TX,not veteran,Registered,45,45,3.6
+135,3,facebook,female,23,white,no,yes,no,attended,no,17314,Delta,PA,not veteran,Registered,26,30,4.0
+140,3,internetSearch,female,26,black,no,yes,no,neither,yes,30318,Atlanta,GA,not veteran,Registered,17,17,2.9
+141,2,facebook,female,25,white,no,yes,no,neither,no,46324,Hammond,IN,veteran,Registered,13,21,2.1
+142,2,tiktok,no-binary,21,white,no,yes,no,attended,no,16841,Howard,PA,not veteran,Registered,21,21,2.7
+143,2,instagram,female,25,black,no,yes,no,attended,yes,48238,Detroit,MI,not veteran,Registered,21,21,3.0
+144,2,youtube,female,36,mixed,no,yes,no,attended,yes,60435,Joliet,IL,not veteran,Registered,0,9,0.0
+145,2,facebook,female,20,black,no,yes,no,neither,no,75706,Tyler,TX,not veteran,Registered,5,9,1.6
+146,3,facebook,female,24,nativeHawaiian,yes,yes,no,attended,no,06704,Waterbury,CT,not veteran,Registered,27,31,3.3
+147,3,instagram,female,27,black,no,yes,no,attended,no,78209,San Antonio,TX,not veteran,Registered,29,31,2.3
+152,2,internetSearch,female,20,black,no,yes,no,attended,no,46227,Indianapolis,IN,not veteran,Registered,5,13,1.1
+153,6,dontknow,female,19,black,no,yes,no,attended,no,63115,St. Louis,MO,not veteran,Registered,51,59,1.9
+154,3,tiktok,female,36,black,yes,yes,no,attended,yes,87144,Rio Rancho,NM,not veteran,Registered,18,30,1.9
+155,2,other,female,23,black,no,yes,no,attended,no,35816,Huntsville,AL,not veteran,Registered,9,19,1.8
+156,3,facebook,female,25,mixed,yes,yes,no,attended,no,44706,Canton,OH,not veteran,Registered,17,22,2.4
+157,2,internetSearch,female,18,white,yes,yes,no,neither,no,90062,Los Angeles,CA,not veteran,Registered,13,13,4.0
+158,3,facebook,male,27,black,no,yes,no,neither,no,39702,Columbus,MS,not veteran,Registered,29,29,3.4
+159,5,tiktok,female,21,black,no,yes,no,attended,yes,91762,Ontario,CA,not veteran,Registered,54,54,3.9
+160,2,facebook,female,27,white,no,yes,no,neither,yes,95610,Citrus Heights,CA,not veteran,Registered,22,22,4.0
+161,3,instagram,male,29,black,no,yes,no,attended,yes,19126,Philadelphia,PA,not veteran,Registered,5,13,0.7
+162,2,instagram,male,24,black,no,yes,no,attended,no,30106,Austell,GA,not veteran,Registered,13,21,1.7
+163,2,snapchat,female,20,black,no,yes,no,neither,no,46222,Indianapolis,IN,not veteran,Registered,0,9,0.0
+164,3,internetSearch,female,23,white,no,yes,no,neither,yes,79364,Slaton,TX,not veteran,Registered,4,13,0.9
+166,2,wordOfMouth,female,46,black,no,yes,no,neither,no,33023,Pembroke Pines,FL,not veteran,Registered,21,21,4.0
+167,5,other,female,25,black,no,yes,no,attended,yes,63042,Hazelwood,MO,not veteran,Registered,47,47,1.9
+168,2,referred,female,28,mixed,no,yes,no,attended,yes,78245,San Antonio,TX,not veteran,Registered,17,21,2.6
+169,2,facebook,female,24,white,no,yes,no,attended,no,39073,Florence,MS,not veteran,Registered,21,21,3.3
+170,2,instagram,female,34,black,no,yes,no,neither,no,33334,Oakland Park,FL,veteran,Registered,21,21,3.1
+171,2,instagram,male,27,white,no,yes,no,neither,yes,38134,Bartlett,TN,veteran,Registered,21,21,4.0
+172,5,dontknow,female,19,white,yes,yes,no,attended,no,76711,Waco,TX,not veteran,Registered,52,52,3.5
+173,2,instagram,male,28,black,yes,yes,no,attended,no,89074,Henderson,NV,not veteran,Registered,34,34,3.9
+174,2,instagram,female,20,mixed,yes,yes,no,attended,no,82054,Carpenter,WY,not veteran,Registered,21,21,4.0
+176,2,facebook,female,28,white,no,yes,no,attended,yes,64068,Liberty,MO,not veteran,Registered,21,21,3.6
+177,2,facebook,female,27,white,no,yes,no,attended,yes,95337,Manteca,CA,not veteran,Registered,21,21,3.8
+179,2,instagram,male,29,black,yes,yes,no,attended,no,55443,Brooklyn Park,MN,not veteran,Registered,21,21,3.2
+180,2,wordOfMouth,female,45,white,no,no,yes,neither,yes,57104,Sioux Falls,SD,not veteran,Registered,10,18,1.8
+181,2,facebook,male,25,white,no,yes,no,neither,no,76877,San Saba,TX,not veteran,Registered,17,17,2.6
+182,2,instagram,female,38,black,no,yes,no,neither,no,90011,Los Angeles,CA,not veteran,Registered,21,21,3.6
+183,2,internetSearch,female,25,white,no,yes,no,attended,yes,64077,Orrick,MO,not veteran,Registered,21,21,4.0
+184,4,instagram,male,22,white,no,yes,no,neither,yes,46048,Ingalls,IN,not veteran,Registered,68,68,3.9
+186,5,google,female,32,white,yes,yes,no,neither,no,78108,Cibolo,TX,not veteran,Registered,55,55,3.9
+188,2,instagram,female,25,mixed,yes,yes,no,neither,no,30318,Atlanta,GA,not veteran,Registered,9,15,1.1
+189,2,snapchat,female,29,black,no,yes,no,neither,yes,77096,Houston,TX,not veteran,Registered,9,21,1.5
+190,2,instagram,male,22,white,no,yes,no,neither,no,18655,Shickshinny,PA,veteran,Registered,21,21,4.0
+191,3,youtube,female,21,black,no,yes,no,neither,yes,01151,Springfield,MA,not veteran,Registered,13,25,1.2
+193,3,instagram,male,27,black,no,yes,no,neither,no,60803,Alsip,IL,not veteran,Registered,18,30,2.1
+195,3,tiktok,female,25,white,no,no,yes,neither,no,38242,Paris,TN,not veteran,Registered,31,31,2.9
+196,2,instagram,female,29,white,yes,yes,no,attended,yes,60123,Elgin,IL,not veteran,Registered,21,21,4.0
+199,2,facebook,female,31,mixed,no,yes,no,neither,yes,63114,Overland,MO,not veteran,Registered,25,25,4.0
+201,5,wordOfMouth,female,23,black,no,no,yes,attended,yes,63114,Overland,MO,not veteran,Registered,45,47,2.9
+202,2,facebook,female,34,mixed,no,yes,no,neither,no,32927,Cocoa,FL,not veteran,Registered,9,21,1.3
+203,4,other,male,26,black,no,yes,no,neither,no,08611,Trenton,NJ,not veteran,Registered,45,45,4.0
+204,5,other,female,23,black,no,yes,no,neither,no,23225,Richmond,VA,not veteran,Registered,52,52,3.5
+205,2,instagram,male,31,black,no,yes,no,attended,yes,37115,Madison,TN,not veteran,Registered,14,15,2.4
+206,2,other,female,24,black,no,yes,no,neither,yes,29210,Columbia,SC,not veteran,Registered,14,14,2.3
+210,2,facebook,female,29,black,no,yes,no,attended,yes,43062,Pataskala,OH,not veteran,Registered,9,9,3.4
+211,8,dontknow,female,20,mixed,yes,yes,no,attended,no,77365,Porter,TX,not veteran,Registered,56,60,2.5
+212,6,dontknow,female,23,black,no,yes,no,attended,yes,29301,Spartanburg,SC,not veteran,Registered,56,56,3.7
+213,2,facebook,female,28,white,no,yes,no,attended,yes,74008,Bixby,OK,veteran,Registered,17,17,4.0
+214,2,tiktok,female,33,mixed,no,yes,no,attended,yes,98057,Renton,WA,not veteran,Registered,0,9,0.0
+218,3,internetSearch,male,25,black,no,yes,no,attended,yes,70582,Saint Martinville,LA,not veteran,Registered,22,26,1.8
+219,2,facebook,male,25,black,no,yes,no,attended,no,39120,Natchez,MS,not veteran,Registered,10,14,1.0
+220,3,instagram,female,19,mixed,no,yes,no,attended,no,34787,Winter Garden,FL,not veteran,Registered,15,15,3.5
+221,9,dontknow,female,29,white,yes,yes,no,attended,no,60411,Sauk Village,IL,not veteran,Registered,73,85,3.0
+223,2,facebook,female,26,white,yes,yes,no,attended,yes,81240,Penrose,CO,not veteran,Registered,9,9,2.7
+224,2,internetSearch,female,29,white,no,no,yes,attended,yes,44485,Warren,OH,not veteran,Registered,21,21,4.0
+225,2,tiktok,female,27,black,no,yes,no,attended,no,08080,Sewell,NJ,not veteran,Registered,4,13,0.3
+226,2,facebook,female,30,white,no,yes,no,attended,yes,74421,Beggs,OK,not veteran,Registered,17,21,2.2
+227,2,internetSearch,female,49,black,no,yes,no,attended,yes,43213,Columbus,OH,not veteran,Registered,13,13,3.3
+228,4,instagram,female,22,white,yes,yes,no,neither,no,92405,San Bernardino,CA,not veteran,Registered,45,45,4.0
+229,3,instagram,male,19,white,no,yes,no,neither,no,30228,Hampton,GA,not veteran,Registered,31,31,3.2
+230,2,other,female,39,black,no,yes,no,neither,yes,34266,Arcadia,FL,not veteran,Registered,21,21,3.4
+232,10,dontknow,female,23,white,no,yes,no,neither,no,78236,Lackland Afb,TX,veteran,Registered,48,60,2.2
+233,2,facebook,female,23,white,no,yes,no,neither,no,45011,Hamilton,OH,not veteran,Registered,21,21,3.0
+236,3,instagram,female,27,black,no,yes,no,neither,yes,63118,Saint Louis,MO,not veteran,Registered,21,29,2.4
+237,2,snapchat,female,26,white,yes,yes,no,attended,yes,79772,Pecos,TX,not veteran,Registered,21,21,3.8
+239,2,snapchat,male,26,black,no,yes,no,attended,yes,60060,Mundelein,IL,not veteran,Registered,21,21,3.2
+240,3,youtube,male,28,black,no,no,yes,attended,no,90810,Long Beach,CA,not veteran,Registered,29,29,3.0
+241,2,wordOfMouth,male,29,black,no,no,yes,attended,no,30240,Lagrange,GA,not veteran,Registered,21,21,3.2
+242,2,snapchat,female,26,mixed,no,yes,no,neither,no,46202,Indianapolis,IN,not veteran,Registered,1,9,0.1
+243,1,internetSearch,female,25,white,yes,yes,no,attended,yes,85367,Yuma,AZ,not veteran,Registered,9,9,4.0
+244,5,dontknow,female,25,black,no,yes,no,neither,yes,38666,Sardis,MS,not veteran,Registered,52,52,3.5
+245,3,wordOfMouth,female,49,black,no,yes,no,neither,yes,95820,Sacramento,CA,not veteran,Registered,6,14,1.0
+246,4,internetSearch,male,25,black,no,yes,no,neither,no,76040,Euless,TX,not veteran,Registered,43,43,3.3
+247,2,instagram,female,18,white,no,yes,no,neither,no,32097,Yulee,FL,veteran,Registered,21,21,3.6
+248,2,facebook,female,31,black,no,yes,no,attended,yes,33024,Hollywood,FL,not veteran,Registered,17,21,2.5
+249,2,internetSearch,female,24,black,no,yes,no,neither,no,38107,Memphis,TN,not veteran,Registered,0,9,0.0
+250,1,myEmployer,female,35,black,yes,yes,no,attended,yes,08401,Atlantic City,NJ,not veteran,Registered,9,9,3.9
+251,3,wordOfMouth,male,27,black,no,yes,no,neither,no,31792,Thomasville,GA,not veteran,Registered,22,30,2.5
+254,1,instagram,female,31,black,yes,yes,no,neither,no,30312,Atlanta,GA,not veteran,Registered,9,9,4.0
+257,3,facebook,female,28,white,yes,yes,no,attended,no,46901,Kokomo,IN,not veteran,Registered,18,18,2.6
+258,4,facebook,female,20,white,no,yes,no,neither,yes,95482,Ukiah,CA,not veteran,Registered,45,45,3.9
+260,3,other,female,43,black,no,yes,no,neither,yes,75217,Dallas,TX,not veteran,Registered,37,37,3.9
+263,2,instagram,female,21,black,no,yes,no,neither,no,39213,Jackson,MS,not veteran,Registered,21,21,2.7
+264,2,facebook,female,28,white,no,yes,no,neither,no,67152,Wellington,KS,not veteran,Registered,21,21,3.8
+265,2,instagram,female,19,white,no,yes,no,attended,no,76520,Cameron,TX,not veteran,Registered,17,21,2.1
+274,4,facebook,female,27,white,yes,yes,no,neither,yes,75040,Garland,TX,not veteran,Registered,41,41,3.1
+275,2,facebook,female,41,black,no,yes,no,attended,no,30906,Augusta,GA,not veteran,Registered,21,21,3.6
+276,2,snapchat,female,25,white,no,no,yes,neither,no,89148,Las Vegas,NV,not veteran,Registered,21,21,4.0
+277,7,dontknow,female,20,nativeHawaiian,no,yes,no,neither,no,91950,National City,CA,not veteran,Registered,80,80,3.9
+278,3,internetSearch,female,23,black,no,yes,no,neither,no,29625,Anderson,SC,not veteran,Registered,33,33,3.6
+279,4,linkedin,female,40,white,no,yes,no,neither,no,74859,Okemah,OK,not veteran,Registered,41,45,3.4
+281,1,radioPodcastSpotify,female,25,black,no,yes,no,attended,no,33054,Miami,FL,not veteran,Registered,9,9,3.2
+282,9,dontknow,female,33,americanIndian,yes,yes,no,attended,no,60525,Lagrange,IL,not veteran,Registered,81,81,3.4
+283,2,instagram,male,44,black,no,yes,no,attended,yes,44128,Warrensville Heights,OH,not veteran,Registered,19,19,4.0
+285,2,instagram,female,53,black,no,yes,no,neither,yes,32801,Orlando,FL,not veteran,Registered,13,21,2.4
+286,4,facebook,female,49,white,no,yes,no,attended,no,75831,Buffalo,TX,not veteran,Registered,41,41,3.2
+287,2,tiktok,male,23,black,yes,yes,no,attended,no,75709,Tyler,TX,not veteran,Registered,21,21,3.6
+288,2,instagram,female,29,black,yes,yes,no,neither,no,89074,Henderson,NV,not veteran,Registered,17,17,4.0
+290,2,instagram,female,20,black,no,yes,no,attended,no,33071,Coral Springs,FL,not veteran,Registered,21,21,4.0
+293,2,instagram,female,27,black,no,yes,no,attended,no,44127,Cleveland,OH,not veteran,Registered,9,9,2.0
+296,9,dontknow,male,24,mixed,no,yes,no,attended,yes,19606,Reading,PA,not veteran,Registered,96,96,3.2
+297,2,tiktok,male,26,black,no,yes,no,neither,no,30082,Smyrna,GA,veteran,Registered,21,21,2.0
+299,2,instagram,female,30,white,no,yes,no,attended,no,40324,Georgetown,KY,not veteran,Registered,17,21,2.5
+300,7,dontknow,male,20,asian,no,yes,no,neither,yes,60564,Naperville,IL,not veteran,Registered,84,84,3.6
+301,4,instagram,female,22,black,no,yes,no,attended,yes,31206,Macon,GA,not veteran,Registered,24,33,1.2
+302,3,wordOfMouth,female,48,black,no,no,yes,attended,yes,75751,Athens,TX,not veteran,Registered,30,30,3.9
+304,5,dontknow,male,24,asian,no,yes,no,neither,yes,44202,Aurora,OH,not veteran,Registered,52,52,3.7
+305,3,facebook,female,28,white,no,yes,no,attended,yes,80204,Denver,CO,not veteran,Registered,41,41,3.8
+307,4,instagram,female,25,black,no,yes,no,attended,yes,94804,Richmond,CA,not veteran,Registered,14,34,1.9
+308,3,facebook,female,29,white,no,yes,no,attended,no,32219,Jacksonville,FL,not veteran,Registered,27,31,4.0
+309,4,internetSearch,female,27,black,no,yes,no,neither,no,89110,Las Vegas,NV,not veteran,Registered,45,45,3.6
+310,1,tiktok,female,20,mixed,yes,no,yes,attended,no,77511,Alvin,TX,not veteran,Registered,9,9,4.0
+312,2,facebook,female,27,white,yes,yes,no,attended,no,77845,College Station,TX,not veteran,Registered,21,21,4.0
+314,3,internetSearch,male,24,asian,no,no,yes,neither,yes,30650,Madison,GA,not veteran,Registered,26,30,2.2
+317,2,tiktok,no-binary,22,white,no,yes,no,attended,yes,75791,Whitehouse,TX,not veteran,Registered,30,30,4.0
+318,4,tiktok,female,20,black,no,yes,no,attended,no,60644,Chicago,IL,not veteran,Registered,33,41,2.2
+319,2,facebook,female,27,black,no,yes,no,neither,no,29306,Spartanburg,SC,not veteran,Registered,9,21,1.1
+320,2,snapchat,female,18,white,no,yes,no,attended,no,44039,North Ridgeville,OH,not veteran,Registered,4,9,1.3
+321,3,instagram,female,29,mixed,yes,yes,no,neither,yes,44111,Cleveland,OH,not veteran,Registered,32,32,3.5
+324,2,instagram,male,27,black,no,yes,no,attended,no,44460,Salem,OH,not veteran,Registered,10,14,1.7
+325,3,facebook,female,27,black,no,yes,no,neither,yes,02129,Charlestown,MA,not veteran,Registered,33,33,4.0
+326,2,wordOfMouth,female,23,black,no,yes,no,neither,no,29456,Ladson,SC,not veteran,Registered,0,9,0.0
+328,3,facebook,female,27,white,no,yes,no,attended,yes,75228,Dallas,TX,not veteran,Registered,17,22,2.1
+329,2,instagram,female,30,black,no,yes,no,attended,yes,30311,Atlanta,GA,not veteran,Registered,21,21,4.0
+330,3,facebook,female,19,white,no,yes,no,neither,no,30152,Kennesaw,GA,not veteran,Registered,9,22,1.1
+331,2,snapchat,female,26,black,no,yes,no,neither,yes,39209,Jackson,MS,not veteran,Registered,17,21,2.9
+332,2,tiktok,female,27,white,no,yes,no,neither,yes,57105,Sioux Falls,SD,not veteran,Registered,10,14,1.5
+334,2,facebook,female,26,white,no,no,yes,attended,yes,85027,Phoenix,AZ,not veteran,Registered,21,21,4.0
+335,3,internetSearch,female,25,black,no,yes,no,attended,no,60130,Forest Park,IL,not veteran,Registered,33,33,4.0
+337,3,linkedin,female,40,white,no,yes,no,neither,yes,30548,Hoschton,GA,not veteran,Registered,33,33,4.0
+339,3,instagram,female,22,black,no,yes,no,neither,yes,07203,Roselle,NJ,not veteran,Registered,41,49,1.9
+340,2,instagram,female,29,black,no,yes,no,attended,yes,92571,Perris,CA,not veteran,Registered,5,9,1.1
+341,9,dontknow,female,53,mixed,no,yes,no,neither,no,91405,Van Nuys,CA,not veteran,Registered,93,93,3.5
+342,2,referred,male,25,black,no,yes,no,neither,yes,32304,Tallahassee,FL,not veteran,Registered,21,21,3.2
+344,4,tiktok,female,24,black,no,yes,no,attended,no,75241,Dallas,TX,not veteran,Registered,17,33,2.2
+345,1,wordOfMouth,female,22,white,yes,yes,no,neither,no,72703,Fayetteville,AR,not veteran,Registered,9,9,3.6
+346,4,dontknow,female,24,mixed,yes,yes,no,attended,yes,33313,Sunrise,FL,not veteran,Registered,25,25,2.5
+347,2,youtube,male,26,white,no,yes,no,neither,yes,33904,Cape Coral,FL,veteran,Registered,5,15,0.9
+348,8,dontknow,female,26,black,no,yes,no,attended,no,60436,Joliet,IL,not veteran,Registered,64,72,2.1
+349,2,facebook,female,23,black,no,yes,no,attended,yes,40504,Lexington,KY,not veteran,Registered,4,9,0.9
+350,2,facebook,female,31,black,no,yes,no,attended,yes,76106,Fort Worth,TX,not veteran,Registered,10,14,1.8
+352,2,other,female,28,black,no,no,yes,attended,no,46615,South Bend,IN,not veteran,Registered,13,13,2.2
+353,2,tiktok,female,27,black,no,yes,no,neither,yes,72117,North Little Rock,AR,not veteran,Registered,17,21,2.9
+354,2,internetSearch,female,22,black,no,yes,no,neither,no,95842,Sacramento,CA,not veteran,Registered,21,21,2.7
+355,2,youtube,female,27,white,no,yes,no,neither,yes,31419,Savannah,GA,not veteran,Registered,13,21,1.9
+356,2,instagram,female,27,black,no,yes,no,neither,no,85282,Tempe,AZ,not veteran,Registered,13,17,3.1
+357,2,dontknow,male,21,mixed,yes,yes,no,neither,no,19605,Reading,PA,not veteran,Registered,10,14,2.0
+358,2,wordOfMouth,female,25,black,no,yes,no,neither,yes,75201,Dallas,TX,not veteran,Registered,9,9,3.0
+359,3,facebook,male,43,white,no,yes,no,attended,yes,98531,Centralia,WA,not veteran,Registered,29,29,3.3
+360,4,facebook,female,23,black,no,yes,no,attended,no,64127,Kansas City,MO,not veteran,Registered,25,33,1.7
+362,3,wordOfMouth,female,23,white,no,yes,no,neither,no,74048,Nowata,OK,not veteran,Registered,22,22,3.0
+364,1,facebook,female,25,white,yes,yes,no,neither,no,02767,Raynham,MA,veteran,Registered,9,9,4.0
+365,2,tiktok,female,28,mixed,no,yes,no,attended,no,75602,Longview,TX,not veteran,Registered,13,21,1.7
+366,7,dontknow,female,65,black,no,yes,no,attended,no,24504,Lynchburg,VA,not veteran,Registered,80,80,3.6
+367,3,instagram,female,21,white,yes,yes,no,attended,no,76209,Denton,TX,not veteran,Registered,14,26,2.3
+368,4,facebook,female,27,white,no,yes,no,attended,no,62901,Carbondale,IL,not veteran,Registered,41,41,2.8
+371,9,dontknow,female,41,black,no,no,yes,attended,yes,23234,Richmond,VA,not veteran,Registered,92,92,4.0
+373,5,tiktok,female,22,black,no,yes,no,neither,yes,80031,Westminister,CO,not veteran,Registered,51,51,2.6
+374,4,tiktok,female,25,white,no,yes,no,neither,yes,85296,Gilbert,AZ,not veteran,Registered,37,45,3.4
+377,5,tiktok,female,21,white,no,yes,no,attended,no,70560,New Iberia,LA,not veteran,Registered,39,47,2.4
+378,1,youtube,male,22,black,no,yes,no,neither,no,48198,Ypsilanti,MI,not veteran,Registered,9,9,3.1
+379,4,internetSearch,female,24,black,no,yes,no,neither,yes,02062,Norwood,MA,not veteran,Registered,45,45,3.6
+381,9,dontknow,female,21,black,yes,yes,no,attended,no,30253,Mcdonough,GA,not veteran,Registered,93,93,2.9
+382,3,facebook,female,27,mixed,no,yes,no,attended,yes,73069,Norman,OK,not veteran,Registered,30,30,3.3
+383,1,instagram,female,46,black,yes,yes,no,neither,yes,45417,Dayton,OH,not veteran,Registered,0,9,0.0
+384,4,referred,female,24,black,no,yes,no,neither,yes,75287,Dallas,TX,not veteran,Registered,39,43,2.4
+385,1,facebook,no-binary,25,black,no,yes,no,neither,no,73122,Oklahoma City,OK,not veteran,Registered,0,9,0.0
+386,1,facebook,female,20,white,yes,yes,no,attended,no,44127,Cleveland,OH,not veteran,Registered,9,9,2.6
+387,2,internetSearch,male,28,black,no,yes,no,attended,no,45237,Cincinnati,OH,not veteran,Registered,16,21,1.9
+390,1,facebook,female,22,white,no,yes,no,attended,no,62016,Carrollton,IL,not veteran,Registered,21,21,4.0
+391,4,tiktok,no-binary,23,white,no,yes,no,neither,no,34668,Port Richey,FL,not veteran,Registered,8,15,1.1
+392,5,facebook,female,27,white,no,yes,no,attended,yes,43113,Circleville,OH,not veteran,Registered,52,52,3.2
+394,2,snapchat,female,30,black,no,yes,no,neither,no,98104,Seattle,WA,not veteran,Registered,21,21,3.8
+395,2,newsArticle,female,29,white,no,no,yes,neither,yes,80903,Colorado Springs,CO,not veteran,Registered,21,21,3.8
+396,4,tiktok,no-binary,19,white,no,yes,no,attended,no,48140,Ida,MI,not veteran,Registered,33,41,2.8
+397,1,tiktok,female,46,white,no,yes,no,attended,no,95969,Paradise,CA,not veteran,Registered,9,9,4.0
+399,5,tiktok,female,20,white,no,yes,no,attended,no,29388,Woodruff,SC,not veteran,Registered,5,9,1.6
+402,1,instagram,male,26,black,no,yes,no,neither,no,22032,Fairfax,VA,not veteran,Registered,25,25,
+404,1,instagram,female,22,black,no,yes,no,attended,no,75025,Plano,TX,not veteran,Registered,0,9,0.0
+406,1,facebook,female,28,black,no,yes,no,neither,yes,35405,Tuscaloosa,AL,not veteran,Registered,9,9,4.0
+407,1,instagram,male,25,mixed,no,yes,no,attended,yes,45414,Dayton,OH,not veteran,Registered,21,21,3.6
+409,2,tiktok,male,29,white,no,yes,no,attended,yes,37066,Gallatin,TN,not veteran,Registered,21,21,3.7
+411,2,facebook,female,29,white,no,yes,no,attended,no,74601,Ponca City,OK,not veteran,Registered,13,21,1.5
+414,4,other,female,25,white,no,yes,no,neither,no,18708,Shavertown,PA,not veteran,Registered,45,45,3.9
+417,2,instagram,female,40,black,no,yes,no,attended,yes,33321,Tamarac,FL,not veteran,Registered,10,14,1.6
+419,3,instagram,male,22,white,no,yes,no,neither,yes,32506,Pensacola,FL,not veteran,Registered,17,21,2.2
+420,1,tiktok,male,35,black,no,yes,no,neither,yes,77571,La Porte,TX,not veteran,Registered,5,9,1.1
+425,3,facebook,female,29,mixed,no,yes,no,attended,yes,17055,Mechanicsburg,PA,not veteran,Registered,27,31,2.8
+427,4,facebook,female,36,white,no,yes,no,attended,yes,77320,Huntsville,TX,not veteran,Registered,25,29,2.7
+429,9,dontknow,female,21,mixed,yes,yes,no,attended,no,07093,West New York,NJ,not veteran,Registered,89,89,2.5
+431,1,facebook,female,27,mixed,no,no,yes,attended,no,56001,Mankato,MN,not veteran,Registered,4,9,4.0
+432,1,facebook,female,29,americanIndian,yes,yes,no,attended,yes,85257,Scottsdale,AZ,not veteran,Registered,9,9,3.6
+433,1,tiktok,female,29,black,no,yes,no,neither,yes,89015,Henderson,NV,not veteran,Registered,9,9,4.0
+434,3,instagram,female,27,black,yes,yes,no,neither,yes,60636,Chicago,IL,not veteran,Registered,37,37,3.5
+437,4,tiktok,female,35,white,no,yes,no,attended,no,75901,Lufkin,TX,not veteran,Registered,25,33,2.1
+438,1,snapchat,female,29,black,no,yes,no,attended,no,38261,Union City,TN,not veteran,Registered,0,5,0.0
+439,4,facebook,female,46,white,no,yes,no,attended,yes,39667,Tylertown,MS,not veteran,Registered,17,37,2.4
+442,1,instagram,female,22,black,no,yes,no,neither,yes,29229,Columbia,SC,not veteran,Registered,14,14,4.0
+444,4,facebook,female,57,black,no,yes,no,neither,yes,45239,Cincinnati,OH,not veteran,Registered,47,51,2.0
+445,1,facebook,male,25,white,no,yes,no,neither,no,29715,Fort Mill,SC,not veteran,Registered,0,9,0.0
+450,1,tiktok,male,28,black,no,yes,no,neither,yes,72205,Little Rock,AR,not veteran,Registered,9,9,3.3
+451,1,instagram,female,21,americanIndian,no,yes,no,neither,yes,57551,Martin,SD,not veteran,Registered,9,9,1.6
+452,3,wordOfMouth,no-binary,21,mixed,no,yes,no,attended,yes,60189,Wheaton,IL,veteran,Registered,17,29,1.9
+453,2,referred,female,47,white,no,yes,no,attended,no,49002,Portage,MI,not veteran,Registered,17,17,4.0
+455,1,internetSearch,female,22,black,no,yes,no,attended,no,77521,Baytown,TX,not veteran,Registered,0,9,0.0
+456,3,other,female,26,nativeHawaiian,yes,yes,no,neither,yes,07304,Jersey City,NJ,not veteran,Registered,30,30,4.0
+458,1,facebook,female,36,black,no,yes,no,neither,yes,76244,Fort Worth,TX,not veteran,Registered,10,18,0.2
+460,2,tiktok,female,21,mixed,yes,yes,no,neither,yes,85132,Florence,AZ,not veteran,Registered,9,21,1.4
+461,1,other,male,26,black,no,yes,no,attended,yes,40228,Louisville,KY,not veteran,Registered,17,17,2.4
+462,8,dontknow,male,24,black,no,yes,no,attended,no,73105,Oklahoma City,OK,not veteran,Registered,92,92,4.0
+463,5,instagram,female,26,black,no,yes,no,neither,no,70560,New Iberia,LA,not veteran,Registered,52,52,3.3
+464,2,referred,male,19,asian,no,yes,no,attended,no,19026,Philidhalpia,PA,not veteran,Registered,21,21,3.8
+466,4,facebook,female,24,white,yes,yes,no,attended,yes,77058,Houston,TX,not veteran,Registered,41,45,3.4
+467,4,tiktok,female,21,white,yes,yes,no,attended,no,31601,Valdosta,GA,veteran,Registered,43,43,4.0
+468,1,dontknow,female,21,white,no,yes,no,attended,yes,17340,Gettysburg,PA,not veteran,Registered,0,9,0.0
+473,2,tiktok,male,25,black,no,yes,no,neither,no,75142,Kaufman,TX,not veteran,Registered,21,21,4.0
+475,2,internetSearch,male,20,asian,yes,yes,no,attended,yes,90026,Los Angeles,CA,not veteran,Registered,8,17,1.6
+478,7,dontknow,female,22,white,no,yes,no,neither,yes,44515,Austintown,OH,not veteran,Registered,84,84,4.0
+479,1,facebook,female,25,white,no,yes,no,attended,no,29204,Columbia,SC,not veteran,Registered,9,9,4.0
+481,3,wordOfMouth,female,25,black,no,yes,no,attended,no,92243,El Centro,CA,not veteran,Registered,33,33,4.0
+483,1,facebook,female,24,americanIndian,yes,yes,no,attended,yes,64125,Kansas City,MO,not veteran,Registered,9,9,1.6
+484,1,wordOfMouth,female,45,white,no,yes,no,neither,yes,44903,Mansfield,OH,not veteran,Registered,9,9,2.7
+485,5,dontknow,no-binary,21,mixed,no,yes,no,attended,yes,75147,Mabank,TX,not veteran,Registered,17,27,4.0
+487,1,instagram,female,20,black,no,yes,no,attended,no,46140,Greenfield,IN,not veteran,Registered,12,12,3.0
+491,1,facebook,female,36,black,no,yes,no,neither,no,55102,Saint Paul,MN,not veteran,Registered,9,9,4.0
+492,2,facebook,female,32,black,no,yes,no,attended,yes,75253,"Dallas, Tx, Us",TX,not veteran,Registered,21,21,3.0
+493,3,instagram,female,27,white,no,yes,no,neither,yes,98114,Seattle,WA,not veteran,Registered,29,33,3.1
+495,2,facebook,female,29,black,no,yes,no,attended,no,75702,Tyler,TX,not veteran,Registered,15,15,2.9
+498,1,referred,female,35,white,yes,yes,no,attended,yes,79549,Snyder,TX,not veteran,Registered,4,9,0.9
+499,1,facebook,female,25,white,no,yes,no,neither,no,16701,Bradford,PA,not veteran,Registered,9,9,4.0
+500,4,instagram,female,22,black,no,yes,no,attended,yes,46322,Highland,IN,not veteran,Registered,33,41,3.6
+501,1,facebook,female,26,black,no,yes,no,neither,yes,45424,Dayton,OH,not veteran,Registered,1,1,4.0
+503,2,youtube,female,34,white,no,yes,no,neither,no,11106,New York,NY,not veteran,Registered,0,13,0.0
+506,1,instagram,female,27,black,no,yes,no,attended,yes,32303,Tallahassee,FL,not veteran,Registered,1,9,0.2
+508,2,facebook,female,25,black,no,yes,no,neither,no,32209,Jacksonville,FL,not veteran,Registered,21,21,3.6
+509,2,wordOfMouth,female,31,black,no,yes,no,neither,yes,92345,Hesperia,CA,not veteran,Registered,13,15,1.9
+510,1,snapchat,female,30,black,no,yes,no,neither,yes,30039,Snellville,GA,not veteran,Registered,9,9,3.6
+511,2,wordOfMouth,female,50,black,no,yes,no,attended,yes,32343,Midway,FL,not veteran,Registered,21,21,4.0
+517,5,google,male,27,black,no,yes,no,neither,yes,95350,Modesto,CA,not veteran,Registered,55,55,3.8
+520,1,newsArticle,female,20,white,no,yes,no,attended,no,85705,Tucson,AZ,not veteran,Registered,16,16,4.0
+525,2,facebook,female,28,black,no,yes,no,attended,no,78208,San Antonio,TX,not veteran,Registered,13,21,1.9
+526,5,google,female,23,mixed,no,yes,no,attended,no,44055,Hinesville,GA,not veteran,Registered,9,9,1.6
+527,1,instagram,female,21,white,no,yes,no,neither,yes,92570,Perris,CA,not veteran,Registered,0,0,
+529,1,facebook,female,25,black,no,yes,no,attended,no,71241,Farmerville,LA,not veteran,Registered,0,9,0.0
+530,2,snapchat,female,27,black,no,yes,no,neither,no,75088,Rowlett,TX,veteran,Registered,0,9,0.0
+536,1,facebook,female,41,black,no,yes,no,neither,yes,92307,Apple Valley,CA,not veteran,Registered,17,17,3.6
+537,3,facebook,male,29,white,yes,yes,no,attended,no,79830,Alpine,TX,not veteran,Registered,33,33,3.5
+538,4,google,female,26,white,no,yes,no,attended,no,49093,"Three Rivers, Mi",MI,not veteran,Registered,29,41,2.3
+541,2,facebook,female,31,black,yes,yes,no,attended,yes,32301,Tallahassee,FL,not veteran,Registered,30,38,1.6
+542,5,google,female,26,white,yes,yes,no,attended,no,33030,Homestead,FL,not veteran,Registered,35,39,1.9
+548,1,snapchat,female,30,black,no,yes,no,neither,no,60418,Crestwood,IL,not veteran,Registered,0,9,0.0
+549,2,snapchat,female,20,black,no,yes,no,attended,no,63901,Poplar Bluff,MO,not veteran,Registered,21,21,2.8
+550,2,tiktok,female,27,black,no,yes,no,attended,yes,70458,Sldiell,LA,not veteran,Registered,21,21,3.6
+555,2,youtube,female,46,black,no,yes,no,attended,yes,77488,Wharton,TX,not veteran,Registered,4,9,0.4
+556,3,linkedin,female,27,white,no,yes,no,attended,yes,32055,Lake City,FL,not veteran,Registered,41,41,4.0
+558,1,tiktok,female,20,white,no,yes,no,attended,yes,80013,Aurora,CO,not veteran,Registered,9,9,3.1
+561,9,dontknow,female,29,black,no,yes,no,attended,no,31788,Moultrie,GA,not veteran,Registered,60,68,2.3
+565,2,instagram,female,23,white,no,yes,no,neither,yes,85006,Phoenix,AZ,not veteran,Registered,21,21,3.1
+567,2,facebook,female,23,white,no,yes,no,neither,yes,35611,Athens,AL,not veteran,Registered,9,13,1.4
+568,3,instagram,female,22,black,no,yes,no,neither,no,70802,Baton Rouge,LA,not veteran,Registered,9,21,1.4
+569,1,radioPodcastSpotify,male,25,mixed,no,yes,no,attended,yes,38115,Memphis,TN,not veteran,Registered,8,9,2.2
+570,2,snapchat,female,18,white,no,yes,no,neither,no,83714,Garden City,ID,not veteran,Registered,13,21,1.7
+571,8,dontknow,female,21,white,yes,yes,no,neither,no,08865,Phillipsburg,NJ,not veteran,Registered,18,18,3.4
+573,1,facebook,male,28,black,no,yes,no,attended,no,65806,Springfield,MO,not veteran,Registered,9,9,4.0
+575,2,instagram,male,28,white,yes,yes,no,attended,no,94536,Fremont,CA,not veteran,Registered,21,21,4.0
+578,1,instagram,male,31,black,no,yes,no,neither,no,33138,Miami,FL,not veteran,Registered,4,9,2.4
+579,2,snapchat,female,21,black,no,yes,no,attended,no,29229,Columbia,SC,not veteran,Registered,9,21,1.2
+580,1,facebook,female,40,black,no,yes,no,neither,yes,70119,New Orleans,LA,not veteran,Registered,0,9,0.0
+583,1,facebook,female,29,black,no,yes,no,attended,yes,26505,Morgantown,WV,not veteran,Registered,9,9,2.3
+585,4,facebook,female,32,white,no,yes,no,attended,no,61701,Bloomington,IL,not veteran,Registered,0,9,0.0
+586,2,internetSearch,male,23,black,no,yes,no,neither,yes,72364,Marion,AR,not veteran,Registered,0,9,0.0
+587,4,tiktok,female,26,white,no,yes,no,attended,no,32536,Crestview,FL,not veteran,Registered,45,45,3.0
+588,4,instagram,female,20,white,no,yes,no,attended,yes,84741,Kanab,UT,not veteran,Registered,25,29,2.3
+589,1,instagram,no-binary,22,white,yes,yes,no,neither,yes,92345,Hesperia,CA,not veteran,Registered,9,9,4.0
+590,3,instagram,male,30,white,yes,yes,no,attended,yes,60632,Chicago,IL,veteran,Registered,31,31,2.9
+591,1,tiktok,female,31,asian,no,yes,no,attended,no,90210,Los Angeles,CA,not veteran,Registered,4,8,0.0
+592,1,instagram,female,26,mixed,yes,no,yes,neither,no,10459,Bronx,NY,not veteran,Registered,9,9,4.0
+593,2,instagram,male,29,white,no,yes,no,attended,no,55804,Duluth,MN,not veteran,Registered,21,21,4.0
+594,6,dontknow,female,25,white,no,yes,no,attended,no,67214,Wichita,KS,not veteran,Registered,58,64,3.1
+597,2,tiktok,female,21,white,no,yes,no,attended,no,40380,Stanton,KY,not veteran,Registered,4,13,0.9
+598,2,facebook,female,30,white,no,yes,no,attended,no,62896,West Frankfort,IL,not veteran,Registered,21,21,3.2
+599,4,facebook,female,43,white,no,yes,no,neither,no,78154,Schertz,TX,not veteran,Registered,33,33,4.0
+600,2,instagram,female,23,mixed,no,yes,no,attended,no,72118,North Little Rock,AR,not veteran,Registered,17,17,2.6
+601,1,facebook,male,29,americanIndian,no,yes,no,neither,yes,96080,Red Bluff,CA,not veteran,Registered,9,9,4.0
+602,1,youtube,female,75,black,no,yes,no,neither,yes,71106,Shreveport,LA,veteran,Registered,1,1,2.0
+604,2,instagram,male,27,black,no,yes,no,neither,no,91950,National City,CA,not veteran,Registered,4,13,0.9
+605,1,youtube,male,28,black,no,yes,no,attended,yes,77575,Liberty,TX,not veteran,Registered,9,9,3.9
+606,2,internetSearch,male,24,black,no,yes,no,attended,no,39209,Jackson,MS,not veteran,Registered,9,21,1.3
+609,1,instagram,male,22,black,no,yes,no,attended,yes,71351,Marksville,LA,not veteran,Registered,4,9,1.3
+611,3,facebook,female,26,black,no,yes,no,neither,yes,06340,Groton,CT,not veteran,Registered,33,33,4.0
+612,1,facebook,female,24,white,no,yes,no,attended,yes,38242,Paris,TN,not veteran,Registered,0,9,0.0
+613,2,facebook,male,27,black,yes,yes,no,attended,no,91978,Spring Valley,CA,not veteran,Registered,9,9,2.9
+617,1,youtube,female,29,black,no,yes,no,neither,yes,34116,Naples,FL,not veteran,Registered,9,9,4.0
+619,2,facebook,male,28,black,no,yes,no,attended,yes,90044,Los Angeles,CA,not veteran,Registered,9,21,1.4
+621,1,referred,female,26,white,yes,yes,no,neither,no,73401,Ardmore,OK,not veteran,Registered,9,9,3.6
+624,1,email,female,26,black,no,yes,no,neither,no,24554,Gladys,VA,not veteran,Registered,9,9,4.0
+626,1,youtube,female,27,black,no,yes,no,attended,yes,29405,North Charleston,SC,not veteran,Registered,8,17,0.0
+629,1,facebook,female,34,white,no,yes,no,attended,yes,13357,Ilion,NY,not veteran,Registered,9,9,2.8
+630,1,instagram,male,21,black,no,yes,no,neither,yes,14213,Buffalo,NY,not veteran,Registered,9,9,3.1
+631,1,newsArticle,male,26,black,no,yes,no,neither,yes,77054,Houston,TX,not veteran,Registered,21,21,4.0
+632,1,facebook,male,46,black,no,yes,no,attended,yes,43232,Columbus,OH,not veteran,Registered,0,9,0.0
+633,1,facebook,male,18,black,no,yes,no,unknown,no,46406,Gary,IN,not veteran,Registered,9,9,1.1
+634,1,instagram,male,30,mixed,no,yes,no,neither,yes,11239,Saint Augustine,FL,not veteran,Registered,9,9,3.4
+637,1,instagram,other,19,white,no,yes,no,neither,no,35603,Florence,AL,not veteran,Registered,0,9,0.0
+639,1,referred,female,32,mixed,yes,yes,no,neither,yes,89146,Las Vegas,NV,not veteran,Registered,1,1,2.0
+644,1,facebook,female,27,nativeHawaiian,no,yes,no,neither,no,99504,Anchorage,AK,not veteran,Registered,9,9,4.0
+647,1,facebook,female,24,white,yes,no,yes,graduated,no,80022,Commerce City,CO,not veteran,Registered,1,1,4.0
+648,1,facebook,female,29,white,yes,yes,no,graduated,no,01854,Lowell,MA,not veteran,Registered,1,1,4.0
+652,1,youtube,female,49,black,yes,yes,no,graduated,yes,75215,Dallas,TX,not veteran,Registered,21,21,3.8
+653,1,facebook,female,25,white,no,no,yes,attended,no,80904,Colorado Springs,CO,not veteran,Registered,0,1,0.0
+654,1,instagram,female,47,black,no,no,yes,unknown,no,13501,Utica,NY,not veteran,Registered,1,1,1.0
+656,1,instagram,female,19,black,no,yes,no,graduated,no,95207,Stockton,CA,not veteran,Registered,9,9,2.9
+659,1,referred,female,22,black,no,yes,no,neither,yes,30038,Lithonia,GA,not veteran,Registered,4,9,0.4
+660,1,tiktok,female,22,black,no,yes,no,graduated,yes,32310,Tallahassee,FL,not veteran,Registered,0,9,0.0
+662,1,other,female,27,white,no,yes,no,graduated,yes,64129,Kansas City,MO,not veteran,Registered,9,9,3.6
+663,1,wordOfMouth,female,30,black,no,yes,no,unknown,yes,39202,Jackson,MS,not veteran,Registered,9,9,1.4
+664,1,tiktok,male,21,black,yes,yes,no,neither,no,93274,Tulare,CA,not veteran,Registered,9,9,3.6
+665,1,facebook,female,27,white,no,yes,no,attended,no,43215,Groveport,OH,not veteran,Registered,0,1,0.0
+666,1,tiktok,female,44,black,no,yes,no,unknown,yes,95207,Stockton,CA,not veteran,Registered,1,1,4.0
+667,1,youtube,female,20,white,no,yes,no,graduated,no,79045,Hereford,TX,not veteran,Registered,0,9,0.0
+668,1,facebook,female,22,white,no,yes,no,unknown,no,16915,Coudersport,PA,not veteran,Registered,0,1,0.0
+669,1,facebook,female,24,mixed,no,yes,no,neither,no,64501,Saint Joseph,MO,not veteran,Registered,0,9,0.0
+670,1,snapchat,no-binary,21,black,no,yes,no,attended,no,11372,New York,NY,not veteran,Registered,0,9,0.0
+671,1,facebook,female,35,white,no,yes,no,attended,no,70346,Donaldsonville,LA,not veteran,Registered,8,9,2.7
+672,1,facebook,female,35,white,no,yes,no,graduated,yes,31553,Nahunta,GA,not veteran,Registered,0,9,0.0
+673,1,facebook,female,19,white,no,yes,no,graduated,no,44030,Conneaut,OH,not veteran,Registered,1,9,0.3
+675,1,instagram,female,28,black,no,yes,no,neither,no,90059,Los Angeles,CA,not veteran,Registered,0,9,0.0
+678,1,facebook,female,38,white,no,yes,no,neither,no,44889,Wakeman,OH,not veteran,Registered,9,9,3.6
+680,1,facebook,female,34,black,no,no,yes,neither,yes,35806,Huntsville,AL,not veteran,Registered,0,1,0.0
+681,1,facebook,male,26,white,no,yes,no,attended,no,43605,Toledo,OH,not veteran,Registered,5,9,2.1
+682,1,snapchat,male,27,mixed,yes,yes,no,graduated,yes,53222,Milwaukee,WI,not veteran,Registered,1,1,3.0
+683,1,youtube,female,48,black,no,no,yes,unknown,no,30038,Lithonia,GA,not veteran,Registered,9,9,3.6
+684,1,instagram,female,30,black,no,yes,no,unknown,yes,66605,Topeka,KS,not veteran,Registered,9,9,2.2
+686,1,internetSearch,female,35,white,no,yes,no,unknown,yes,95843,Antelope,CA,not veteran,Registered,1,1,4.0
+687,1,facebook,female,40,white,no,yes,no,graduated,yes,29680,Simpsonville,SC,not veteran,Registered,1,1,4.0
+689,1,facebook,female,20,white,no,yes,no,graduated,no,37150,Red Boiling Springs,TN,not veteran,Registered,0,9,0.0
+690,1,wordOfMouth,female,30,white,no,yes,no,neither,no,43224,Columbus,OH,not veteran,Registered,1,1,4.0
+694,1,facebook,female,34,black,no,no,yes,graduated,no,98405,Tacoma,WA,not veteran,Registered,1,1,4.0
+696,1,instagram,male,25,white,no,no,yes,graduated,no,48116,Brighton,MI,not veteran,Registered,0,9,0.0
+697,1,facebook,male,26,black,no,yes,no,graduated,no,38109,Memphis,TN,not veteran,Registered,9,9,1.7
+698,1,instagram,male,26,mixed,no,yes,no,graduated,no,30120,Cartersville,GA,not veteran,Registered,4,9,0.9
+699,1,instagram,female,26,mixed,no,yes,no,unknown,no,30236,Jonesboro,GA,not veteran,Registered,0,9,0.0
+701,1,facebook,male,31,black,no,no,yes,graduated,yes,71201,Monroe,LA,not veteran,Registered,9,9,2.1
+702,1,facebook,female,29,white,yes,yes,no,neither,no,88130,Portales,NM,not veteran,Registered,9,9,4.0
+703,1,facebook,male,30,black,no,yes,no,neither,yes,77093,Houston,TX,not veteran,Registered,9,9,4.0
+704,1,wordOfMouth,male,24,black,no,yes,no,neither,no,77521,Baytown,TX,not veteran,Registered,0,9,0.0
+706,1,facebook,female,21,black,no,yes,no,attended,no,45504,Springfield,OH,not veteran,Registered,1,1,3.0
+707,1,youtube,female,22,black,no,yes,no,attended,yes,35115,Montevallo,AL,not veteran,Registered,4,9,0.9
+708,1,internetSearch,female,23,white,yes,yes,no,unknown,no,76107,Fort Worth,TX,veteran,Registered,9,9,4.0
+709,1,instagram,male,27,black,no,yes,no,attended,yes,76022,Bedford,TX,not veteran,Registered,9,9,4.0
+712,1,facebook,male,46,black,no,yes,no,neither,no,34761,Ocoee,FL,not veteran,Registered,9,9,2.7
+713,1,facebook,female,27,black,no,yes,no,neither,no,94103,San Francisco,CA,not veteran,Registered,1,1,4.0
+714,1,wordOfMouth,female,20,black,no,yes,no,graduated,no,64152,Kansas,MO,not veteran,Registered,9,9,3.0
+715,1,facebook,female,29,white,no,yes,no,neither,no,64014,Blue Springs,MO,not veteran,Registered,9,9,3.9
+717,1,facebook,female,29,mixed,no,yes,no,neither,yes,10459,Bronx,NY,not veteran,Registered,9,9,3.6
+719,1,tiktok,female,35,mixed,no,yes,no,neither,no,55448,Coon Rapids,MN,not veteran,Registered,9,9,4.0
+721,1,wordOfMouth,female,25,black,no,yes,no,graduated,yes,38773,Shaw,MS,not veteran,Registered,0,5,0.0
+722,1,instagram,female,31,black,no,yes,no,graduated,yes,29569,Loris,SC,not veteran,Registered,0,9,0.0
+724,1,wordOfMouth,female,24,white,no,yes,no,neither,yes,89014,Henderson,NV,not veteran,Registered,0,9,0.0
+727,1,newsArticle,male,61,black,no,yes,no,neither,no,19079,Sharon Hill,PA,veteran,Registered,9,9,2.6
+728,1,tiktok,male,44,white,no,yes,no,neither,no,10009,New York,NY,not veteran,Registered,1,1,4.0
+730,1,tiktok,female,28,black,no,yes,no,neither,no,19355,Malvern,PA,not veteran,Registered,9,9,3.9
+731,1,tiktok,female,22,white,no,yes,no,neither,no,73119,Okc,OK,not veteran,Registered,9,9,2.6
+732,1,facebook,male,34,black,no,yes,no,graduated,yes,40508,Lexington,KY,not veteran,Registered,4,9,1.3
+733,1,facebook,female,36,mixed,no,yes,no,unknown,yes,48439,Grand Blanc,MI,not veteran,Registered,9,9,4.0
+738,1,tiktok,male,24,white,no,yes,no,graduated,no,67212,Wichita,KS,not veteran,Registered,0,9,0.0
+739,1,instagram,male,26,black,no,no,yes,attended,no,30331,Atlanta,GA,not veteran,Registered,0,1,0.0
+740,1,instagram,male,24,mixed,no,yes,no,neither,no,90813,Long Beach,CA,not veteran,Registered,9,9,2.3
+741,1,instagram,female,19,black,no,yes,no,neither,no,17113,Steelton,PA,not veteran,Registered,1,1,2.0
+742,4,instagram,female,21,black,no,yes,no,neither,no,32038,Fort White,FL,not veteran,Registered,41,45,2.9
+747,1,other,female,26,black,no,yes,no,unknown,no,38107,Memphis,TN,not veteran,Registered,9,9,1.4
+749,1,tiktok,no-binary,33,white,no,yes,no,neither,yes,75501,Texarkana,TX,veteran,Registered,9,9,3.6
+751,1,youtube,male,26,mixed,no,yes,no,attended,yes,25302,Charleston,WV,not veteran,Registered,9,9,2.9
+752,1,facebook,male,32,black,no,yes,no,neither,yes,64141,Kansas City,MO,not veteran,Registered,9,9,3.6
+753,1,instagram,male,22,asian,no,yes,no,graduated,no,92841,Garden Grove,CA,not veteran,Registered,9,9,4.0
+754,1,instagram,male,24,mixed,yes,yes,no,graduated,yes,90037,Los Angeles,CO,not veteran,Registered,0,0,
+755,1,internetSearch,female,22,asian,no,yes,no,neither,no,60139,Glendale Heights,IL,not veteran,Registered,9,9,4.0
+760,1,facebook,male,29,black,no,yes,no,attended,yes,30721,Dalton,GA,not veteran,Registered,0,9,0.0
+762,1,instagram,male,52,mixed,no,yes,no,neither,no,07410,Fairlawn,NJ,not veteran,Registered,9,9,3.8
+764,1,facebook,male,22,black,no,yes,no,neither,no,77591,Texas City,TX,not veteran,Registered,8,9,3.1
+766,1,facebook,female,39,black,no,yes,no,unknown,yes,15148,Wilmerding,PA,not veteran,Registered,1,1,4.0
+767,1,email,female,27,black,no,yes,no,graduated,no,71202,Monroe,LA,not veteran,Registered,9,9,3.6
+771,1,tiktok,female,25,black,no,yes,no,unknown,yes,75760,Cushing,TX,not veteran,Registered,0,9,0.0
+773,1,instagram,female,49,black,no,yes,no,neither,yes,30087,Stone Mountain,GA,not veteran,Registered,25,25,4.0
+774,1,facebook,male,67,white,yes,yes,no,neither,no,85712,Tucson,AZ,veteran,Registered,0,1,0.0
+776,1,wordOfMouth,female,23,white,no,yes,no,unknown,no,38242,Paris,TN,not veteran,Registered,0,9,0.0
+778,1,other,female,26,mixed,yes,yes,no,neither,yes,60625,Chicago,IL,not veteran,Registered,9,9,4.0
+779,1,facebook,female,23,black,no,yes,no,graduated,yes,62966,Murphysboro,IL,not veteran,Registered,9,9,3.5
+780,1,facebook,female,28,white,no,yes,no,attended,no,12198,Wynantskill,NY,not veteran,Registered,9,9,4.0
+781,1,tiktok,female,20,white,yes,yes,no,attended,no,73115,Del City,OK,not veteran,Registered,1,9,2.0
+782,1,email,female,33,black,no,no,yes,neither,yes,29645,Gray Court,SC,not veteran,Registered,9,9,3.4
+783,1,facebook,female,25,white,no,yes,no,neither,no,60626,Chicago,IL,not veteran,Registered,1,1,4.0
+784,1,youtube,female,46,mixed,no,yes,no,graduated,yes,02322,Avon,MA,not veteran,Registered,8,9,1.8
+789,1,referred,female,49,mixed,yes,no,yes,neither,yes,18202,West Hazleton,PA,not veteran,Registered,1,1,4.0
+791,1,facebook,female,26,white,no,yes,no,graduated,no,54956,Neenah,WI,not veteran,Registered,9,9,3.6
+792,1,facebook,female,27,black,no,yes,no,attended,yes,30161,Rome,GA,not veteran,Registered,9,9,3.6
+793,1,facebook,female,40,white,yes,yes,no,neither,yes,92394,Victorville,CA,not veteran,Registered,9,9,4.0
+795,1,instagram,male,38,black,no,yes,no,neither,no,35810,Huntsville,AL,not veteran,Registered,0,1,0.0
+797,1,tiktok,female,28,white,no,yes,no,graduated,no,49252,Litchfield,MI,not veteran,Registered,9,9,4.0
+799,1,tiktok,male,23,black,no,yes,no,neither,no,08349,Port Norris,NJ,veteran,Registered,0,9,0.0
+800,1,email,female,26,black,no,yes,no,neither,yes,39213,Jackson,MS,not veteran,Registered,1,1,3.0
+801,1,wordOfMouth,female,34,black,no,yes,no,neither,no,30906,Augusta,GA,not veteran,Registered,0,9,0.0
+802,1,facebook,male,28,white,no,yes,no,attended,no,43212,Columbus,OH,not veteran,Registered,9,9,3.4
+803,1,facebook,female,27,mixed,no,yes,no,unknown,no,85281,Tempe,AZ,not veteran,Registered,9,9,4.0
+805,1,wordOfMouth,male,21,black,no,yes,no,attended,yes,10454,Bronx,NY,not veteran,Registered,1,1,4.0
+808,1,wordOfMouth,male,25,mixed,no,yes,no,graduated,yes,80817,Fountain,CO,not veteran,Registered,9,9,3.3
+814,1,instagram,female,20,black,no,yes,no,neither,no,36054,Millbrook,AL,veteran,Registered,9,9,3.1
+816,1,wordOfMouth,male,20,americanIndian,yes,yes,no,graduated,no,77433,Cypress,TX,not veteran,Registered,9,9,1.1
+819,1,instagram,female,38,black,no,yes,no,neither,no,10552,Mount Vernon,NY,not veteran,Registered,1,1,4.0
+821,1,facebook,female,23,black,no,yes,no,unknown,no,29142,Santee,SC,not veteran,Registered,0,9,0.0
+822,1,facebook,female,25,black,no,yes,no,neither,no,36759,Marion Junction,AL,not veteran,Registered,0,9,0.0
+824,1,facebook,female,60,black,no,yes,no,neither,yes,44119,Euclid,OH,not veteran,Registered,13,13,4.0
+825,1,instagram,female,24,black,no,yes,no,unknown,no,76006,Arlington,TX,not veteran,Registered,1,1,4.0
+826,1,snapchat,female,22,mixed,no,yes,no,unknown,yes,43056,Heath,OH,not veteran,Registered,9,9,3.6
+827,1,facebook,female,20,black,no,yes,no,attended,no,29646,Greenwood,SC,not veteran,Registered,9,9,3.3
+829,1,instagram,male,22,mixed,no,yes,no,neither,no,30038,Lithonia,GA,not veteran,Registered,9,9,2.3
+831,1,facebook,male,33,black,no,yes,no,neither,yes,02301,Brockton,MA,not veteran,Registered,9,9,4.0
+832,1,instagram,female,28,black,no,yes,no,neither,no,10705,Yonkers,NY,not veteran,Registered,0,1,0.0
+834,1,newsArticle,female,23,mixed,no,yes,no,attended,no,89121,Las Vegas,NV,not veteran,Registered,1,1,4.0
+836,1,youtube,female,27,black,no,yes,no,graduated,yes,30350,Atlanta,GA,not veteran,Registered,9,9,2.7
+838,1,youtube,male,31,black,no,yes,no,graduated,no,85353,Tolleson,AZ,not veteran,Registered,9,9,1.0
+840,1,tiktok,female,35,white,no,yes,no,graduated,yes,31545,Jessup,GA,not veteran,Registered,1,1,4.0
+841,1,tiktok,female,19,mixed,no,yes,no,neither,no,92706,Santa Ana,CA,veteran,Registered,0,9,0.0
+842,1,internetSearch,male,24,white,no,yes,no,unknown,no,78633,Georgetown,TX,not veteran,Registered,1,1,1.0
+844,1,facebook,female,19,white,no,yes,no,graduated,no,35611,Athens,AL,not veteran,Registered,9,9,3.4
+845,1,snapchat,female,19,mixed,yes,yes,no,attended,no,95422,Clearlake,CA,not veteran,Registered,9,9,3.0
+846,1,internetSearch,male,20,black,no,yes,no,graduated,no,94590,Vallejo,CA,not veteran,Registered,0,9,0.0
+850,1,tiktok,female,22,black,no,yes,no,unknown,no,17403,Yotk,PA,not veteran,Registered,9,9,3.0
+853,1,referred,male,26,black,no,yes,no,neither,no,11435,"Jamaica,Queens ",NY,not veteran,Registered,1,1,4.0
+855,1,facebook,female,28,black,no,yes,no,attended,no,63115,Saint Louis,MO,not veteran,Registered,9,9,2.2
+856,1,instagram,male,24,asian,no,yes,no,graduated,yes,93304,Bakersfield,CA,not veteran,Registered,9,9,2.7
+858,1,facebook,male,31,white,no,yes,no,graduated,yes,49120,Niles,MI,not veteran,Registered,0,1,0.0
+862,1,facebook,female,30,mixed,no,yes,no,neither,no,47305,Muncie,IN,not veteran,Registered,9,9,4.0
+863,1,tiktok,female,24,white,yes,yes,no,neither,yes,18015,Bethlehem,PA,not veteran,Registered,1,1,4.0
+864,1,instagram,female,29,black,yes,yes,no,graduated,no,32714,Altamonte Springs,FL,veteran,Registered,1,1,3.0
+865,1,instagram,male,26,white,no,yes,no,neither,yes,37408,Chattanooga,TN,not veteran,Registered,9,9,1.4
+866,1,facebook,female,29,black,no,yes,no,unknown,no,37917,Knoxville,TN,not veteran,Registered,0,9,0.0
+867,1,tiktok,male,51,black,no,yes,no,graduated,yes,31419,Savannah,GA,veteran,Registered,9,9,4.0
+870,1,facebook,female,25,black,no,yes,no,neither,no,39301,Meridian,MS,not veteran,Registered,5,9,0.7
+872,1,facebook,female,24,black,no,yes,no,neither,no,46953,Marion,IN,not veteran,Registered,0,1,0.0
+875,1,facebook,female,48,white,no,no,yes,neither,yes,32433,Defuniak Springs,FL,not veteran,Registered,9,9,2.0
+878,1,facebook,female,71,black,no,yes,no,attended,yes,30904,Augusta,GA,not veteran,Registered,9,9,2.4
+880,1,instagram,female,24,black,no,yes,no,unknown,no,07017,East Orange,NJ,not veteran,Registered,9,9,4.0
+882,1,instagram,female,28,black,no,yes,no,neither,yes,60616,Chicago,IL,not veteran,Registered,9,9,2.9
+884,1,wordOfMouth,female,49,asian,no,yes,no,neither,no,95833,Sacramento,CA,not veteran,Registered,9,9,4.0
+888,1,youtube,female,21,white,no,yes,no,neither,yes,32828,Orlando,FL,not veteran,Registered,1,1,4.0
+890,1,tiktok,female,25,mixed,no,yes,no,neither,yes,64503,Saint Joseph,MO,not veteran,Registered,1,1,2.0
+892,1,facebook,female,25,white,no,yes,no,neither,yes,75401,Greenville,TX,not veteran,Registered,9,9,3.4
+893,1,facebook,female,24,white,no,yes,no,graduated,no,81403,Montrose,CO,not veteran,Registered,1,1,4.0
+894,1,youtube,female,23,white,no,yes,no,graduated,no,04654,Machias,ME,not veteran,Registered,1,1,4.0
+896,1,facebook,female,32,black,no,yes,no,unknown,yes,35401,Tuscaloosa,AL,not veteran,Registered,0,9,0.0
+897,1,wordOfMouth,female,20,black,no,yes,no,neither,no,29646,Greenwood,SC,not veteran,Registered,4,9,0.9
+898,1,youtube,female,25,white,no,yes,no,neither,yes,29118,Orangeburg,SC,not veteran,Registered,9,9,3.7
+902,1,facebook,female,29,mixed,no,yes,no,neither,yes,40806,Baxter,KY,not veteran,Registered,0,9,0.0
+903,1,facebook,female,33,white,no,yes,no,unknown,no,43611,Toledo,OH,not veteran,Registered,1,1,4.0
+912,1,facebook,male,33,black,no,yes,no,neither,yes,76707,Waco,TX,not veteran,Registered,0,9,0.0
+913,1,instagram,female,24,white,no,yes,no,unknown,no,64050,Independence,MO,not veteran,Registered,9,9,2.4
+914,1,linkedin,female,32,black,no,yes,no,neither,yes,35228,Birmingham,AL,not veteran,Registered,9,9,4.0
+915,1,facebook,female,46,black,no,no,yes,graduated,yes,14613,Rochester,NY,not veteran,Registered,0,1,0.0
+916,2,instagram,male,23,white,no,no,yes,neither,yes,37138,Old Hickory,TN,not veteran,Registered,9,9,3.6
+918,1,facebook,female,28,white,no,yes,no,neither,no,31548,Kingsland,GA,not veteran,Registered,9,9,4.0
+919,1,facebook,female,20,white,no,yes,no,neither,no,43302,Marion,OH,not veteran,Registered,0,1,0.0
+923,1,tiktok,female,31,nativeHawaiian,no,yes,no,neither,yes,95828,Sacramento,CA,not veteran,Registered,9,9,2.4
+924,2,wordOfMouth,female,23,black,no,yes,no,attended,yes,71270,Ruston,LA,not veteran,Registered,38,38,4.0
+925,1,facebook,male,20,white,no,yes,no,unknown,no,43615,Toledo,OH,not veteran,Registered,1,1,2.0
+926,1,facebook,male,31,white,no,yes,no,graduated,yes,93535,Lancaster,CA,not veteran,Registered,0,0,
+927,1,instagram,male,35,mixed,yes,yes,no,unknown,no,92408,Apple Valley,CA,not veteran,Registered,1,1,3.0
+929,1,instagram,female,40,black,yes,yes,no,graduated,yes,37216,Nashville,TN,veteran,Registered,0,9,0.0
+931,1,facebook,female,39,black,no,no,yes,neither,no,29720,Lancaster,SC,not veteran,Registered,0,1,0.0
+932,1,instagram,female,18,black,no,yes,no,neither,no,72204,Little Rock,AR,not veteran,Registered,0,9,0.0
+933,1,facebook,female,24,black,yes,yes,no,neither,no,10468,Bronx,NY,not veteran,Registered,9,9,3.9
+934,1,instagram,female,28,black,no,yes,no,neither,yes,29169,West Columbia,SC,not veteran,Registered,9,9,4.0
+937,1,facebook,female,25,black,no,yes,no,neither,no,36608,Mobile,AL,not veteran,Registered,9,9,4.0
+938,1,tiktok,female,23,white,no,yes,no,neither,yes,43213,Columbus,OH,not veteran,Registered,4,9,0.0
+944,1,instagram,male,20,mixed,yes,yes,no,neither,no,75149,Mesquite,TX,not veteran,Registered,0,9,0.0
+946,1,tiktok,female,22,black,no,yes,no,neither,no,48601,Saginaw,MI,not veteran,Registered,0,1,0.0
+947,1,newsArticle,other,25,mixed,no,yes,no,graduated,yes,55411,Minneapolis,MN,not veteran,Registered,9,9,3.3
+949,1,facebook,female,37,white,no,yes,no,neither,yes,93308,Bakersfield,CA,not veteran,Registered,1,1,4.0
+950,1,facebook,female,23,white,no,yes,no,neither,yes,17948,Mahanoy City,PA,not veteran,Registered,9,9,4.0
+954,1,facebook,female,28,white,no,yes,no,graduated,no,42141,Glasgow,KY,not veteran,Registered,1,1,4.0
+955,1,youtube,male,53,black,no,no,yes,attended,no,78130,New Braunfels,TX,not veteran,Registered,5,9,0.6
+956,1,tiktok,female,32,black,no,yes,no,unknown,yes,11213,Brooklyn,NY,not veteran,Registered,9,9,3.8
+957,1,facebook,female,25,white,no,yes,no,attended,yes,33825,Avon Park,FL,not veteran,Registered,1,1,4.0
+961,1,instagram,female,28,black,yes,yes,no,neither,yes,07107,Newark,NJ,not veteran,Registered,9,9,4.0
+962,1,facebook,female,26,mixed,yes,yes,no,unknown,no,55421,Minneapolis,MN,not veteran,Registered,9,9,4.0
+963,1,instagram,female,19,white,no,yes,no,graduated,yes,77418,Bellville,TX,not veteran,Registered,8,13,0.0
+964,1,tiktok,female,21,black,no,yes,no,graduated,yes,30824,Thomson,GA,not veteran,Registered,9,9,3.4
+966,1,facebook,no-binary,23,black,no,yes,no,neither,yes,38664,Robinsonville,MS,not veteran,Registered,9,9,3.0
+967,1,referred,female,33,black,no,yes,no,neither,no,39206,Jackson,MS,not veteran,Registered,9,9,2.6
+968,1,collegevine,female,21,black,no,yes,no,neither,yes,64134,Kansas City,MO,not veteran,Registered,4,5,0.8
+969,1,tiktok,female,35,white,no,yes,no,neither,yes,71667,Star City,AR,not veteran,Registered,9,9,4.0
+971,1,facebook,male,31,black,no,yes,no,neither,no,49221,Adrian,MI,not veteran,Registered,0,9,0.0
+972,1,facebook,female,33,white,no,yes,no,graduated,yes,74073,Sperry,OK,not veteran,Registered,9,9,4.0
+976,1,internetSearch,female,25,white,yes,yes,no,neither,yes,77087,Houston,TX,not veteran,Registered,9,9,3.3
+978,1,instagram,female,25,asian,no,yes,no,neither,yes,92115,San Diego,CA,not veteran,Registered,1,1,4.0
+982,1,facebook,female,54,black,no,yes,no,attended,yes,30349,Atlanta,GA,not veteran,Registered,1,1,3.0
+983,1,facebook,female,20,white,no,yes,no,unknown,yes,48848,Laingsburg,MI,not veteran,Registered,9,9,2.9
+984,1,facebook,female,32,black,no,no,yes,graduated,yes,39204,Jackson,MS,not veteran,Registered,0,9,0.0
+985,1,facebook,female,32,white,no,yes,no,neither,yes,72721,Combs,AR,not veteran,Registered,9,9,4.0
+986,1,facebook,female,33,white,no,yes,no,neither,yes,34491,Summerfield,FL,not veteran,Registered,0,1,0.0
+987,1,facebook,female,23,americanIndian,no,yes,no,neither,no,85043,Phoenix,AZ,not veteran,Registered,0,9,0.0
+988,1,instagram,female,18,black,no,yes,no,graduated,yes,39180,Vicksburg,MS,not veteran,Registered,9,9,3.9
+989,1,facebook,female,51,white,no,yes,no,neither,yes,70070,Luling,LA,not veteran,Registered,1,1,4.0
+990,1,facebook,male,24,white,yes,yes,no,graduated,no,78758,Austin,TX,not veteran,Registered,9,9,3.9
+995,1,tiktok,female,38,black,no,yes,no,neither,yes,30038,Lithonia,GA,not veteran,Registered,8,9,1.8
+996,1,instagram,male,18,asian,no,no,yes,neither,no,85019,Phoenix,AZ,not veteran,Registered,9,9,3.9
+997,1,radioPodcastSpotify,male,39,black,yes,yes,no,neither,no,18702,Wilkes Barre,PA,not veteran,Registered,5,5,3.8
+998,1,internetSearch,female,25,black,no,yes,no,unknown,no,46403,Gary,IN,not veteran,Registered,8,9,0.9
+999,1,facebook,male,34,black,no,yes,no,attended,yes,48227,Detroit,MI,not veteran,Registered,9,9,3.8
+1002,1,facebook,female,28,black,no,yes,no,graduated,yes,39154,Raymond,MS,not veteran,Registered,17,17,2.3
+1004,1,youtube,female,33,black,no,yes,no,attended,yes,92543,Hemet,CA,not veteran,Registered,9,9,2.0
+1005,1,wordOfMouth,female,29,black,no,yes,no,unknown,no,07305,Jersey City,NJ,not veteran,Registered,1,9,0.2
+1006,1,instagram,no-binary,28,black,no,yes,no,neither,yes,77469,Richmond,TX,not veteran,Registered,0,9,0.0
+1007,1,youtube,female,47,black,no,yes,no,unknown,yes,76710,Waco,TX,not veteran,Registered,8,9,2.7
+1008,1,wordOfMouth,male,34,black,no,no,yes,unknown,yes,70510,Abbeville,LA,not veteran,Registered,0,9,0.0
+1010,1,facebook,female,21,black,yes,yes,no,unknown,no,10458,New York,NY,not veteran,Registered,4,9,0.9
+1011,1,tiktok,female,34,black,no,yes,no,neither,yes,77516,Angleton,TX,not veteran,Registered,9,9,4.0
+1013,1,other,female,42,black,no,yes,no,unknown,no,40212,Louisville,KY,not veteran,Registered,5,9,1.2
+1015,1,linkedin,female,28,black,yes,yes,no,neither,yes,32780,Titusville,FL,not veteran,Registered,0,0,
+1016,1,facebook,female,57,white,no,yes,no,neither,yes,92411,San Bernardino,CA,not veteran,Registered,0,0,
+1018,1,snapchat,male,32,black,no,yes,no,neither,no,78253,San Antonio,TX,not veteran,Registered,9,9,3.3
+1019,1,facebook,female,29,white,no,yes,no,graduated,no,31620,Adel,GA,not veteran,Registered,1,9,3.0
+1022,1,other,female,55,black,no,yes,no,neither,no,11692,Arverne,NY,not veteran,Registered,9,9,3.1
+1023,1,facebook,female,23,black,no,yes,no,neither,yes,38111,Memphis,TN,not veteran,Registered,1,1,4.0
+1026,1,snapchat,female,18,white,no,yes,no,neither,no,49095,Vandalia,MI,not veteran,Registered,9,9,2.4
+1027,1,facebook,female,25,black,no,yes,no,graduated,yes,32303,Tallahassee,FL,not veteran,Registered,9,9,4.0
+1030,1,facebook,female,34,mixed,no,no,yes,neither,yes,30741,Rossville,GA,not veteran,Registered,0,9,0.0
+1034,1,snapchat,female,25,mixed,no,yes,no,neither,yes,08690,Trenton,NJ,not veteran,Registered,9,9,3.6
+1035,1,email,male,24,black,no,yes,no,neither,no,60649,Chicago,IL,not veteran,Registered,9,9,4.0
+1038,1,youtube,male,31,black,no,yes,no,graduated,yes,07088,Vauxhall,NJ,not veteran,Registered,9,9,3.9
+1039,1,facebook,female,22,black,no,yes,no,neither,no,31763,Leesburg,GA,not veteran,Registered,9,9,3.6
+1041,1,wordOfMouth,female,26,black,no,yes,no,neither,no,33604,Tampa,FL,veteran,Registered,1,1,4.0
+1043,1,facebook,female,40,white,no,yes,no,graduated,no,44310,Akron,OH,not veteran,Registered,9,9,3.4
+1045,1,instagram,female,27,mixed,yes,yes,no,unknown,no,10469,Bronx,NY,not veteran,Registered,1,1,4.0
+1047,1,instagram,female,41,black,no,yes,no,neither,yes,90003,La,CA,not veteran,Registered,0,9,0.0
+1048,1,wordOfMouth,female,25,black,yes,yes,no,neither,yes,73099,Yukon,OK,not veteran,Registered,4,9,1.8
+1049,1,instagram,male,23,black,no,yes,no,attended,no,23434,Suffolk,VA,not veteran,Registered,9,9,3.1
+1051,1,facebook,female,27,black,no,yes,no,neither,no,39730,Aberdeen,MS,not veteran,Registered,0,1,0.0
+1052,1,facebook,female,21,black,no,yes,no,neither,no,13901,Binghamton,NY,not veteran,Registered,0,9,0.0
+1054,1,facebook,female,28,black,no,yes,no,neither,no,37921,Knoxville,TN,not veteran,Registered,1,1,2.0
+1055,1,internetSearch,female,56,mixed,yes,yes,no,graduated,yes,30032,Decatur,GA,not veteran,Registered,5,9,1.3
+1057,1,youtube,female,21,black,no,yes,no,neither,no,85008,Pheonix,AZ,not veteran,Registered,9,9,3.6
+1059,1,youtube,female,34,white,no,no,yes,neither,yes,46208,Indianapolis,IN,not veteran,Registered,0,9,0.0
+1060,1,other,female,41,black,no,yes,no,attended,yes,63031,Saint Louis,MO,not veteran,Registered,9,9,4.0
+1064,1,facebook,male,46,white,no,yes,no,neither,no,32570,Milton,FL,not veteran,Registered,9,9,4.0
+1067,1,facebook,female,51,white,no,yes,no,neither,yes,95076,Watsonville,CA,not veteran,Registered,0,9,0.0
+1068,1,facebook,female,24,white,no,yes,no,neither,no,49456,Spring Lake,MI,not veteran,Registered,9,9,2.2
+1069,1,youtube,female,29,white,no,yes,no,unknown,yes,75056,Lewisville,TX,not veteran,Registered,9,9,4.0
+1070,1,snapchat,female,33,black,no,yes,no,neither,no,72202,Little Rock,AR,not veteran,Registered,9,9,3.1
+1073,1,instagram,male,26,black,no,yes,no,neither,no,37167,Smyrna,TN,not veteran,Registered,9,9,4.0
+1074,1,internetSearch,female,26,black,no,yes,no,neither,no,60644,Chicago,IL,not veteran,Registered,1,1,2.0
+1075,1,tiktok,male,36,black,no,yes,no,attended,no,76112,Fort Worth,TX,not veteran,Registered,1,1,1.0
+1077,1,instagram,female,31,white,yes,yes,no,neither,yes,78041,Laredo,TX,not veteran,Registered,9,9,3.6
+1078,1,facebook,female,28,white,no,yes,no,neither,no,17851,Mount Carmel,PA,not veteran,Registered,9,9,4.0
+1081,1,facebook,female,42,black,no,yes,no,graduated,yes,17404,York,PA,not veteran,Registered,9,9,3.6
+1082,1,tiktok,female,21,black,no,yes,no,neither,no,74105,Tulsa,OK,not veteran,Registered,4,9,1.6
+1085,1,facebook,male,71,black,no,yes,no,neither,no,40212,Mobi502-823-2034,KY,not veteran,Registered,0,1,0.0
+1086,1,facebook,female,27,black,no,yes,no,graduated,yes,08109,Merchantville,NJ,not veteran,Registered,0,9,0.0
+1087,1,other,female,29,black,no,no,yes,neither,no,32204,Jacksonville,FL,not veteran,Registered,8,9,1.3
+1088,1,instagram,female,29,black,no,yes,no,neither,no,33162,Miami,FL,not veteran,Registered,9,9,1.9
+1093,1,instagram,female,19,black,no,yes,no,unknown,no,29405,North Charleston,SC,not veteran,Registered,0,9,0.0
+1094,1,youtube,other,21,white,yes,yes,no,attended,no,66109,Kansas City,KS,not veteran,Registered,1,1,4.0
+1095,1,facebook,male,30,black,no,yes,no,unknown,no,70125,New Orleans,LA,not veteran,Registered,1,1,4.0
+1101,1,snapchat,female,32,black,no,yes,no,graduated,yes,38115,Memphis,TN,not veteran,Registered,9,9,3.1
+1102,1,youtube,male,27,black,no,yes,no,graduated,no,33311,Lauderdale Lakes,FL,not veteran,Registered,1,9,0.1
+1105,1,youtube,female,27,black,no,yes,no,unknown,no,64109,Kansas City,MO,not veteran,Registered,5,9,1.8
+1106,1,youtube,male,53,black,no,no,yes,attended,yes,32209,Jacksonville,FL,not veteran,Registered,0,9,0.0
+1107,1,snapchat,female,20,mixed,yes,yes,no,graduated,yes,11210,Brooklyn,NY,not veteran,Registered,0,9,0.0
+1108,1,tiktok,female,29,mixed,yes,yes,no,neither,no,65584,Saint Robert,MO,not veteran,Registered,1,1,1.0
+1109,1,wordOfMouth,female,57,white,no,yes,no,neither,no,34785,Wildwood,FL,not veteran,Registered,9,9,4.0
+1110,1,facebook,male,30,mixed,no,yes,no,graduated,yes,71446,Leesville,LA,veteran,Registered,4,9,0.4
+1111,1,facebook,female,25,white,no,yes,no,attended,yes,42776,Sonora,KY,not veteran,Registered,9,9,2.2
+1112,1,internetSearch,female,20,white,no,yes,no,neither,yes,36854,Valley,AL,not veteran,Registered,0,0,
+1114,1,facebook,female,28,white,no,yes,no,neither,no,64772,Nevada,MO,not veteran,Registered,1,1,3.0
+1115,1,facebook,female,30,black,no,yes,no,neither,yes,08104,Camden,NJ,not veteran,Registered,9,9,4.0
+1117,1,wordOfMouth,male,26,black,no,yes,no,neither,yes,06042,Manchester,CT,not veteran,Registered,0,9,0.0
+1119,1,referred,male,25,black,no,yes,no,unknown,yes,39213,Jackson,MS,veteran,Registered,5,9,0.8
+1120,1,instagram,female,39,black,no,yes,no,graduated,yes,30274,Riverdale,GA,not veteran,Registered,0,9,0.0
+1121,1,tiktok,female,58,black,no,yes,no,neither,yes,71203,Monroe,LA,veteran,Registered,9,9,4.0
+1122,1,facebook,female,37,white,no,yes,no,unknown,no,47714,Evansville,IN,not veteran,Registered,0,9,0.0
+1123,1,tiktok,female,21,black,yes,yes,no,unknown,no,02169,Quincy,MA,not veteran,Registered,0,0,
+1125,1,facebook,female,22,white,no,no,yes,neither,yes,47143,Memphis,IN,not veteran,Registered,9,9,4.0
+1126,1,instagram,female,26,black,no,yes,no,neither,yes,30014,Covington,GA,not veteran,Registered,9,9,4.0
+1127,1,instagram,female,25,black,no,no,yes,attended,no,48228,Detroit,MI,not veteran,Registered,0,9,0.0
+1128,1,tiktok,female,25,black,no,yes,no,neither,yes,38701,Greenville,MS,not veteran,Registered,8,9,2.2
+1129,1,instagram,female,22,black,no,yes,no,neither,yes,31701,Albany,GA,not veteran,Registered,0,9,0.0
+1130,1,youtube,female,40,black,no,yes,no,graduated,yes,37406,Chattanooga,TN,not veteran,Registered,9,9,3.9
+1132,1,youtube,female,36,black,no,yes,no,neither,no,24541,Danville,VA,not veteran,Registered,9,9,3.2
+1136,1,tiktok,female,29,black,yes,yes,no,graduated,yes,11421,Woodhaven,NY,not veteran,Registered,9,9,1.6
+1141,1,tiktok,female,26,white,yes,yes,no,unknown,yes,76401,Stephenville,TX,not veteran,Registered,1,1,2.0
+1142,1,tiktok,female,18,mixed,no,yes,no,neither,no,78238,San Antonio,TX,not veteran,Registered,8,9,2.7
+1146,1,facebook,male,28,black,no,yes,no,graduated,yes,48239,Redford,MI,not veteran,Registered,8,9,1.8
+1147,1,instagram,female,26,black,no,yes,no,unknown,no,11222,Brooklyn,NY,not veteran,Registered,0,1,0.0
+1149,1,facebook,female,48,black,no,yes,no,neither,yes,46360,Michigan City,IN,not veteran,Registered,5,5,2.4
+1152,1,facebook,female,25,black,no,yes,no,graduated,yes,60612,Chicago,IL,not veteran,Registered,9,9,2.0
+1157,1,facebook,male,24,mixed,no,yes,no,neither,no,44709,Canton,OH,not veteran,Registered,9,9,3.8
+1159,1,youtube,male,43,black,no,yes,no,unknown,no,32333,Havana,FL,not veteran,Registered,0,9,0.0
+1160,1,internetSearch,male,39,white,no,yes,no,attended,no,78414,Corpus Christi,TX,not veteran,Registered,9,9,3.6
+1161,1,snapchat,female,34,black,no,yes,no,attended,no,10025,New York,NY,not veteran,Registered,0,1,0.0
+1164,1,wordOfMouth,female,18,black,no,yes,no,graduated,no,29204,Columbia,SC,not veteran,Registered,9,9,3.1
+1165,1,facebook,female,25,black,no,yes,no,neither,yes,35810,Huntsville,AL,not veteran,Registered,9,9,4.0
+1167,1,snapchat,male,30,black,no,yes,no,graduated,no,31601,Valdosta,GA,not veteran,Registered,0,1,0.0
+1168,1,snapchat,male,30,black,no,yes,no,graduated,no,31601,Valdosta,GA,not veteran,Registered,0,1,0.0
+1169,1,snapchat,male,30,black,no,yes,no,graduated,no,31601,Valdosta,GA,not veteran,Registered,0,1,0.0
+1170,1,snapchat,male,30,black,no,yes,no,graduated,no,31601,Valdosta,GA,not veteran,Registered,0,1,0.0
+1172,1,dontknow,female,23,white,yes,yes,no,neither,yes,49503,Grand Rapids,MI,not veteran,Registered,1,1,4.0
+1173,1,facebook,female,26,black,no,yes,no,graduated,yes,23832,Chesterfield,VA,not veteran,Registered,0,9,0.0
+1174,1,facebook,female,39,black,no,yes,no,graduated,no,36345,Headland,AL,not veteran,Registered,5,9,2.2
+1176,1,instagram,male,40,black,no,no,yes,neither,yes,48226,Detroit,MI,not veteran,Registered,4,13,0.0
+1178,1,facebook,female,25,black,no,yes,no,attended,no,07095,Woodbridge,NJ,not veteran,Registered,9,9,3.6
+1179,1,instagram,female,18,black,no,yes,no,neither,no,10032,New York,NY,not veteran,Registered,0,9,0.0
+1180,1,tiktok,female,46,black,yes,yes,no,neither,no,10033,New Yok,NY,not veteran,Registered,1,1,4.0
+1181,1,tiktok,male,30,white,no,yes,no,attended,yes,34601,Brooksville,FL,not veteran,Registered,9,9,4.0
+1182,1,tiktok,female,19,asian,no,yes,no,neither,no,15146,Monroeville,PA,not veteran,Registered,9,9,3.1
+1183,1,instagram,no-binary,19,black,no,yes,no,unknown,yes,92563,Murrieta,CA,veteran,Registered,0,9,0.0
+1189,1,facebook,female,28,white,no,yes,no,neither,no,30120,Cartersville,GA,not veteran,Registered,4,9,0.9
+1191,1,youtube,male,25,white,no,yes,no,attended,no,18505,Scranton,PA,not veteran,Registered,9,9,3.7
+1193,1,snapchat,female,22,mixed,no,yes,no,neither,yes,23669,Hampton,VA,not veteran,Registered,9,9,3.1
+1194,1,instagram,male,26,black,no,yes,no,graduated,yes,06518,Hamden,CT,not veteran,Registered,9,9,2.2
+1195,1,instagram,female,20,white,no,yes,no,neither,no,30566,Flowery Branch,GA,not veteran,Registered,0,9,0.0
+1203,1,facebook,male,26,black,no,yes,no,graduated,no,48108,West Bloomfield,MI,not veteran,Registered,9,9,4.0
+1204,1,myEmployer,female,37,black,no,yes,no,attended,yes,77504,Pasadena,TX,not veteran,Registered,29,29,1.0
+1207,1,youtube,female,27,mixed,no,yes,no,neither,yes,30034,Decatur,GA,not veteran,Registered,1,9,
+1211,1,myEmployer,female,24,black,no,yes,no,graduated,yes,39212,Jackson,MS,not veteran,Registered,0,9,0.0
+1212,1,instagram,male,33,black,no,yes,no,neither,no,30088,Stone Mountain,GA,not veteran,Registered,0,9,0.0
+1213,1,facebook,female,25,mixed,no,yes,no,neither,yes,38351,Lexington,TN,not veteran,Registered,0,5,0.0
+1217,1,facebook,female,23,black,no,yes,no,neither,no,37217,Nashville,TN,not veteran,Registered,4,9,1.3
+1218,1,tiktok,no-binary,19,black,no,yes,no,attended,no,29607,Greenville,SC,not veteran,Registered,9,9,1.0
+1219,1,instagram,female,46,black,yes,yes,no,attended,yes,11550,Hempstead,NY,veteran,Registered,1,1,4.0
+1220,1,tiktok,female,26,black,no,yes,no,graduated,yes,31096,Wrightsville,GA,not veteran,Registered,9,9,4.0
+1221,1,facebook,female,26,black,no,no,yes,neither,no,45505,Springfield,OH,not veteran,Registered,9,9,3.9
+1222,1,facebook,female,24,white,yes,no,yes,graduated,no,10029,New York,NY,not veteran,Registered,0,9,0.0
+1223,1,instagram,female,23,mixed,no,yes,no,neither,yes,30605,Athens,GA,not veteran,Registered,4,9,0.9
+1226,1,facebook,female,22,mixed,no,yes,no,unknown,yes,36732,Demopolis,AL,not veteran,Registered,9,9,4.0
+1227,1,facebook,female,32,white,no,yes,no,attended,no,64738,Collins,MO,not veteran,Registered,9,9,3.0
+1228,1,wordOfMouth,female,19,white,no,yes,no,unknown,no,95677,Rocklin,CA,not veteran,Registered,9,9,4.0
+1229,1,referred,female,18,mixed,no,yes,no,attended,no,36054,Millbrook,AL,veteran,Registered,9,9,2.1
+1230,1,facebook,female,33,mixed,no,yes,no,unknown,yes,47906,West Lafayette,IN,not veteran,Registered,9,9,3.6
+1231,1,wordOfMouth,female,28,black,no,yes,no,attended,yes,30236,Jonesboro,GA,not veteran,Registered,9,9,4.0
+1232,1,myEmployer,female,41,black,no,yes,no,attended,yes,90016,Los Angeles,CA,not veteran,Registered,9,9,3.4
+1235,1,facebook,female,31,black,yes,yes,no,graduated,yes,33584,Seffner,FL,not veteran,Registered,0,9,0.0
+1240,1,tiktok,female,29,white,no,yes,no,neither,yes,75069,Mckinney,TX,not veteran,Registered,1,1,4.0
+1241,1,instagram,female,20,white,no,yes,no,neither,no,33565,Plant,FL,not veteran,Registered,1,1,4.0
+1243,1,radioPodcastSpotify,male,24,black,no,yes,no,graduated,yes,11210,Brooklyn,NY,not veteran,Registered,0,9,0.0
+1244,1,tiktok,female,20,mixed,yes,yes,no,graduated,no,30019,Dacula,GA,not veteran,Registered,9,9,3.0
+1245,1,facebook,female,29,black,no,yes,no,neither,no,76140,Everman,TX,not veteran,Registered,0,9,0.0
+1251,1,wordOfMouth,female,28,black,no,yes,no,graduated,no,08332,Millville,NJ,not veteran,Registered,1,1,1.0
+1252,1,facebook,female,22,black,no,yes,no,neither,yes,39038,Belzoni,MS,not veteran,Registered,9,9,4.0
+1253,1,other,female,33,black,no,yes,no,neither,yes,30213,Fairburn,GA,not veteran,Registered,0,9,0.0
+1256,1,snapchat,female,28,black,no,yes,no,graduated,no,75067,Lewisville,TX,not veteran,Registered,1,1,4.0
+1259,1,tiktok,female,26,black,no,yes,no,neither,no,10454,Bronx,NY,not veteran,Registered,9,9,3.4
+1260,1,myEmployer,female,33,black,no,yes,no,graduated,yes,79109,Amarillo,TX,not veteran,Registered,4,4,3.0
+1263,2,youtube,female,42,mixed,no,yes,no,attended,no,30311,Atlanta,GA,not veteran,Registered,21,21,3.8
+1265,1,facebook,female,29,mixed,yes,yes,no,attended,no,98597,Yelm,WA,not veteran,Registered,9,9,4.0
+1266,1,youtube,female,28,white,no,yes,no,graduated,yes,47240,Greensburg,IN,not veteran,Registered,9,9,4.0
+1268,1,facebook,female,53,black,no,yes,no,neither,yes,32703,Apopka,FL,not veteran,Registered,1,1,3.0
+1269,1,instagram,female,27,mixed,yes,yes,no,neither,yes,79928,Horizon,TX,veteran,Registered,9,9,3.6
+1270,1,myEmployer,female,19,black,no,yes,no,graduated,yes,11236,Brooklyn,NY,not veteran,Registered,9,9,4.0
+1271,1,facebook,female,28,mixed,yes,yes,no,attended,yes,77353,Magnolia,TX,not veteran,Registered,1,1,4.0
+1272,1,myEmployer,female,18,white,yes,yes,no,neither,no,85042,Phoenix,AZ,not veteran,Registered,9,9,2.2
+1273,1,facebook,female,65,black,no,no,yes,graduated,yes,30067,Marietta,GA,not veteran,Registered,9,9,2.9
+1274,1,snapchat,female,19,black,no,yes,no,graduated,no,42223,Fort Campbell,KY,veteran,Registered,9,9,2.4
+1275,1,facebook,female,21,white,no,yes,no,neither,no,29325,Clinton,SC,not veteran,Registered,9,9,4.0
+1276,1,facebook,male,30,white,no,yes,no,neither,yes,37072,Goodlettsville,TN,not veteran,Registered,4,9,1.8
+1278,1,facebook,male,25,black,no,yes,no,attended,yes,10980,Stony Poit,NY,not veteran,Registered,1,1,4.0
+1282,1,instagram,female,24,black,no,yes,no,attended,yes,85139,Maricopa,AZ,not veteran,Registered,9,9,3.6
+1285,1,internetSearch,female,27,white,no,yes,no,neither,no,33020,Hollywood,FL,not veteran,Registered,1,1,4.0
+1288,1,facebook,female,29,black,no,yes,no,neither,no,24501,Lynchburg,VA,not veteran,Registered,0,9,0.0
+1289,1,dontknow,female,57,black,no,yes,no,graduated,no,71417,Colfax,LA,not veteran,Registered,9,9,2.0
+1291,1,facebook,female,35,black,no,yes,no,unknown,yes,42003,Paducah,KY,not veteran,Registered,9,9,4.0
+1292,1,facebook,female,25,black,no,yes,no,attended,no,80239,Denver,CO,not veteran,Registered,5,5,2.4
+1293,1,instagram,female,27,black,no,yes,no,neither,no,30310,Atlanta,GA,not veteran,Registered,9,9,3.6
+1295,1,radioPodcastSpotify,male,25,mixed,no,yes,no,attended,no,80012,Aurora,CO,not veteran,Registered,0,9,0.0
+1296,1,wordOfMouth,male,18,black,no,yes,no,neither,no,19144,Philadelphia,PA,not veteran,Registered,8,9,1.8
+1297,1,facebook,male,27,black,no,yes,no,graduated,yes,43213,Columbus,OH,not veteran,Registered,1,9,0.3
+1298,1,instagram,female,25,black,yes,yes,no,neither,yes,62025,Edwardsville,IL,not veteran,Registered,9,9,1.0
+1303,1,tiktok,male,25,white,no,yes,no,neither,no,79512,Colorado City,TX,not veteran,Registered,9,9,4.0
+1304,1,facebook,female,35,white,no,yes,no,neither,yes,74501,Mcalester,OK,not veteran,Registered,1,1,4.0
+1305,1,facebook,female,37,black,no,yes,no,neither,yes,30824,Thomson,GA,not veteran,Registered,4,9,1.8
+1307,1,facebook,female,46,black,no,yes,no,neither,no,93230,Hanford,CA,not veteran,Registered,0,9,0.0
+1310,1,youtube,male,28,black,no,yes,no,attended,yes,30281,Stockbridge,GA,veteran,Registered,1,1,4.0
+1314,1,facebook,male,26,mixed,yes,yes,no,neither,no,79549,Snyder,TX,not veteran,Registered,5,9,1.6
+1317,1,internetSearch,male,36,black,no,yes,no,neither,no,32548,Fort Walton Beach,FL,not veteran,Registered,0,1,0.0
+1319,1,facebook,female,25,black,no,yes,no,attended,no,77708,Beaumont,TX,not veteran,Registered,5,9,1.8
+1320,1,tiktok,female,28,black,no,yes,no,neither,yes,53208,Milwaukee,WI,not veteran,Registered,0,1,0.0
+1321,1,facebook,female,24,white,no,yes,no,neither,yes,46992,Wabash,IN,not veteran,Registered,5,9,1.1
+1324,1,dontknow,male,31,mixed,no,yes,no,unknown,yes,06320,New London,CT,not veteran,Registered,9,9,3.3
+1326,1,instagram,female,24,mixed,no,yes,no,unknown,yes,18370,Swiftwater,PA,not veteran,Registered,8,9,1.8
+1329,1,instagram,male,23,black,no,yes,no,attended,no,32303,Tallahassee,FL,not veteran,Registered,9,9,4.0
+1330,1,myEmployer,male,23,black,no,yes,no,neither,no,07644,Lodi,NJ,not veteran,Registered,9,9,4.0
+1331,1,instagram,female,28,mixed,no,yes,no,graduated,yes,75052,Grand Prairie,TX,not veteran,Registered,17,17,4.0
+1332,1,facebook,male,22,black,no,yes,no,unknown,no,10453,Bronx,NY,not veteran,Registered,0,9,0.0
+1333,1,instagram,female,26,black,no,yes,no,attended,yes,46235,Indianapolis,IN,not veteran,Registered,9,9,4.0
+1334,1,instagram,female,65,black,yes,yes,no,unknown,yes,92376,Rialto,CA,not veteran,Registered,9,9,1.9
+1338,1,youtube,female,19,mixed,yes,yes,no,graduated,yes,90220,Compton,CA,not veteran,Registered,9,9,2.6
+1340,1,snapchat,female,21,black,no,yes,no,attended,no,55443,Brooklyn Park,MN,not veteran,Registered,5,9,0.6
+1341,1,instagram,male,33,mixed,yes,yes,no,attended,yes,43147,Pickerington,OH,veteran,Registered,9,9,4.0
+1342,1,instagram,male,27,black,no,yes,no,graduated,yes,98499,Lakewood,WA,not veteran,Registered,1,1,3.0
+1343,1,wordOfMouth,female,41,white,yes,yes,no,attended,no,10452,New York,NY,not veteran,Registered,9,9,4.0
+1344,1,facebook,female,38,black,no,yes,no,unknown,yes,46806,Fort Wayne,IN,not veteran,Registered,9,9,3.4
+1345,1,tiktok,female,28,white,no,yes,no,attended,no,57785,Sturgis,SD,not veteran,Registered,9,9,4.0
+1346,1,facebook,female,25,black,no,yes,no,neither,yes,31061,Milledgeville,GA,not veteran,Registered,9,9,4.0
+1348,1,myEmployer,female,21,black,no,yes,no,graduated,yes,77045,Houston,TX,veteran,Registered,9,9,3.6
+1350,1,youtube,female,20,black,no,yes,no,graduated,yes,34749,Leesburg,FL,not veteran,Registered,1,1,3.0
+1351,1,instagram,female,21,americanIndian,yes,no,yes,neither,no,87508,Santa Fe,NM,not veteran,Registered,1,1,4.0
+1352,1,wordOfMouth,female,27,black,no,yes,no,graduated,yes,30306,Atlanta,GA,not veteran,Registered,1,1,4.0
+1353,1,tiktok,female,24,mixed,yes,yes,no,neither,no,30542,Flowery Branch,GA,not veteran,Registered,9,9,3.1
+1354,1,myEmployer,female,20,white,yes,yes,no,neither,no,48146,Liconln Park,MI,not veteran,Registered,4,4,3.0
+1356,1,myEmployer,female,27,black,no,yes,no,graduated,yes,10469,Bronx,NY,not veteran,Registered,9,9,4.0
+1359,1,other,female,32,black,no,yes,no,neither,yes,37087,Lebanon,TN,not veteran,Registered,9,9,3.1
+1361,1,facebook,female,29,black,no,yes,no,neither,yes,32207,Jacksonville,FL,veteran,Registered,9,9,4.0
+1363,1,wordOfMouth,female,22,black,no,yes,no,unknown,yes,48035,Clinton Township,MI,not veteran,Registered,9,9,2.3
+1367,1,tiktok,female,22,white,yes,yes,no,graduated,yes,89169,Las Vegas,NV,not veteran,Registered,13,13,4.0
+1368,1,tiktok,female,18,mixed,yes,yes,no,attended,yes,78728,Austin,TX,not veteran,Registered,9,9,2.0
+1369,1,instagram,female,28,white,no,yes,no,graduated,yes,17364,Thomasville,PA,not veteran,Registered,13,13,4.0
+1370,1,facebook,female,27,white,no,yes,no,unknown,no,44074,Oberlin,OH,not veteran,Registered,1,1,4.0
+1373,1,instagram,female,20,mixed,yes,yes,no,neither,no,06105,Hartford,CT,not veteran,Registered,5,9,1.2
+1375,1,facebook,female,50,black,no,yes,no,neither,yes,39773,Westpoint,MS,not veteran,Registered,0,9,0.0
+1376,1,tiktok,female,25,black,no,yes,no,graduated,yes,18102,Allentown,PA,not veteran,Registered,1,1,4.0
+1380,1,facebook,female,34,black,yes,yes,no,graduated,yes,70062,Kenner,LA,not veteran,Registered,9,9,4.0
+1382,1,myEmployer,female,27,white,no,yes,no,neither,no,77511,Alvin,TX,not veteran,Registered,9,9,4.0
+1383,1,wordOfMouth,female,24,white,no,yes,no,graduated,no,29301,Spartanburg,SC,not veteran,Registered,0,9,0.0
+1384,1,myEmployer,female,25,black,no,yes,no,attended,yes,38125,Memphis,TN,not veteran,Registered,17,17,2.6
+1386,1,facebook,female,22,mixed,no,yes,no,attended,yes,65233,Boonville,MO,not veteran,Registered,9,9,4.0
+1387,1,instagram,male,25,white,no,yes,no,attended,no,32408,Panama City Beach,FL,not veteran,Registered,9,9,3.3
+1390,1,instagram,male,20,white,no,yes,no,graduated,no,48128,Dearborn,MI,not veteran,Registered,0,9,0.0
+1391,1,referred,female,44,black,no,yes,no,attended,yes,30067,Marietta,GA,not veteran,Registered,1,1,4.0
+1394,1,snapchat,female,44,black,no,yes,no,neither,yes,89030,North Las Vegas,NV,not veteran,Registered,1,1,3.0
+1395,1,myEmployer,female,26,white,yes,yes,no,neither,no,89145,Las Vegas,NV,not veteran,Registered,1,9,0.2
+1396,1,myEmployer,female,30,white,yes,yes,no,neither,no,22191,Woodbridge,VA,not veteran,Registered,4,4,4.0
+1397,1,instagram,male,32,black,no,yes,no,graduated,yes,23454,Virginia Beach,VA,not veteran,Registered,0,9,0.0
+1399,1,internetSearch,male,30,black,no,yes,no,neither,yes,08332,Millville,NJ,not veteran,Registered,9,9,4.0
+1401,1,tiktok,male,32,mixed,no,yes,no,graduated,yes,43081,Westerville,OH,not veteran,Registered,1,1,4.0
+1402,1,facebook,male,24,black,no,yes,no,graduated,yes,32818,Orlando,FL,not veteran,Registered,9,9,2.4
+1405,1,instagram,female,19,black,no,yes,no,neither,no,48220,Ferndale,MI,not veteran,Registered,8,9,1.3
+1406,1,myEmployer,female,18,black,no,yes,no,attended,no,77840,College Station,TX,not veteran,Registered,9,9,2.2
+1408,1,instagram,male,23,asian,no,yes,no,neither,no,10462,Bronx,NY,not veteran,Registered,4,9,0.8
+1409,1,wordOfMouth,female,23,black,no,no,yes,unknown,no,11692,Arverne,NY,not veteran,Registered,9,9,4.0
+1410,1,internetSearch,female,27,mixed,no,yes,no,neither,yes,06340,Groton,CT,not veteran,Registered,9,9,3.9
+1411,1,instagram,male,22,black,no,yes,no,neither,no,33584,Seffner,FL,not veteran,Registered,0,5,0.0
+1412,1,facebook,male,28,black,no,yes,no,neither,no,60619,Chicago,IL,not veteran,Registered,9,9,1.2
+1413,1,snapchat,female,28,black,no,yes,no,neither,yes,70663,Sulphur,LA,not veteran,Registered,0,9,0.0
+1414,1,wordOfMouth,female,20,black,no,yes,no,attended,yes,30228,Hampton,GA,not veteran,Registered,8,9,2.2
+1415,1,instagram,female,20,black,no,yes,no,attended,yes,95608,Sacramento,CA,not veteran,Registered,1,1,4.0
+1417,1,wordOfMouth,female,23,black,yes,yes,no,graduated,yes,08094,Williamstown,NJ,not veteran,Registered,9,9,2.6
+1419,1,instagram,male,20,mixed,no,yes,no,attended,yes,77840,College Station,TX,not veteran,Registered,8,9,2.2
+1422,2,instagram,female,29,black,yes,yes,no,neither,no,32771,Sanford,FL,not veteran,Registered,21,21,3.2
+1423,1,instagram,,21,white,yes,yes,no,neither,yes,60634,Chicago,IL,not veteran,Registered,13,13,4.0
+1424,1,tiktok,female,19,black,no,yes,no,unknown,no,62232,Caseyville,IL,not veteran,Registered,0,9,0.0
+1428,1,instagram,male,49,mixed,no,yes,no,graduated,yes,90810,Long Beach,CA,not veteran,Registered,0,9,0.0
+1434,1,tiktok,male,30,black,no,yes,no,neither,no,36695,Mobile,AL,not veteran,Registered,0,9,0.0
+1436,1,instagram,female,30,mixed,yes,yes,no,neither,no,06114,Hartford,CT,not veteran,Registered,9,9,3.8
+1437,1,facebook,male,63,mixed,yes,yes,no,graduated,yes,80301,Boulder,CA,not veteran,Registered,9,9,3.6
+1440,1,tiktok,female,41,white,no,yes,no,graduated,yes,30705,Chatsworth,GA,not veteran,Registered,1,1,4.0
+1441,1,facebook,female,46,black,no,yes,no,graduated,yes,02151,Revere,MA,not veteran,Registered,13,13,3.9
+1444,1,facebook,female,20,mixed,yes,yes,no,neither,no,94601,Oakland,CA,not veteran,Registered,9,9,2.9
+1447,1,other,female,32,white,no,yes,no,neither,yes,43147,Pickerington,OH,veteran,Registered,9,9,2.9
+1449,1,internetSearch,female,26,black,no,yes,no,neither,yes,71851,Mineral Springs,AR,not veteran,Registered,5,9,1.0
+1450,1,snapchat,female,21,mixed,no,yes,no,unknown,yes,29583,Pamplico,SC,veteran,Registered,1,1,4.0
+1451,1,myEmployer,female,27,mixed,yes,yes,no,neither,yes,90001,Los Angeles,CA,not veteran,Registered,9,9,2.0
+1452,1,facebook,male,29,black,no,yes,no,unknown,no,77021,Houston,TX,not veteran,Registered,0,9,0.0
+1453,1,facebook,female,27,black,no,yes,no,graduated,yes,46615,South Bend,IN,not veteran,Registered,18,18,3.6
+1455,1,instagram,male,23,black,no,yes,no,attended,no,64137,Kansas City,MO,not veteran,Registered,8,9,1.3
+1456,1,instagram,male,48,mixed,yes,yes,no,unknown,yes,70668,Vinton,LA,not veteran,Registered,9,9,4.0
+1457,1,youtube,no-binary,25,white,yes,yes,no,graduated,no,77017,Houston,TX,not veteran,Registered,0,9,0.0
+1458,1,tiktok,male,34,black,no,yes,no,neither,yes,36083,Tuskegee,AL,not veteran,Registered,9,9,4.0
+1459,4,facebook,female,27,white,no,yes,no,neither,yes,75238,Dallas,TX,not veteran,Registered,45,45,4.0
+1460,1,instagram,male,24,mixed,yes,yes,no,graduated,no,19134,Philadelphia,PA,not veteran,Registered,9,9,3.0
+1461,1,facebook,male,25,white,no,yes,no,graduated,no,45895,Wapakoneta,OH,not veteran,Registered,0,1,0.0
+1464,1,tiktok,female,22,black,no,yes,no,attended,yes,36603,Mobile,AL,not veteran,Registered,4,9,0.4
+1465,1,tiktok,female,28,white,yes,no,yes,neither,yes,61102,Rockford,IL,not veteran,Registered,13,13,3.6
+1466,1,instagram,male,19,asian,no,yes,no,neither,yes,30008,4047646755,GA,not veteran,Registered,1,1,4.0
+1467,1,facebook,female,24,white,yes,yes,no,neither,yes,75028,Flower Mound,TX,not veteran,Registered,9,9,3.4
+1471,1,instagram,female,44,black,no,yes,no,neither,yes,77053,Houston,TX,not veteran,Registered,9,9,4.0
+1472,1,instagram,female,53,black,no,yes,no,neither,no,11208,Brooklyn,NY,not veteran,Registered,0,9,0.0
+1473,1,instagram,male,25,mixed,no,yes,no,attended,yes,93705,Fresno,CA,not veteran,Registered,0,9,0.0
+1474,1,internetSearch,male,30,white,no,yes,no,graduated,yes,75215,Dallas,TX,not veteran,Registered,13,13,4.0
+1475,1,instagram,female,35,black,no,yes,no,neither,yes,77063,Houston,TX,not veteran,Registered,9,9,2.6
+1476,1,instagram,male,25,black,no,yes,no,attended,yes,07083,Union,NJ,not veteran,Registered,0,1,0.0
+1477,1,tiktok,male,24,black,no,yes,no,neither,no,85204,Mesa,AZ,not veteran,Registered,9,9,3.9
+1478,1,myEmployer,female,30,black,no,yes,no,graduated,yes,77338,Humble,TX,not veteran,Registered,13,13,3.8
+1479,1,instagram,male,30,black,no,yes,no,attended,yes,78230,San Antonio,TX,veteran,Registered,9,9,4.0
+1480,1,tiktok,female,18,black,no,yes,no,graduated,no,02118,Boston,MA,not veteran,Registered,1,9,0.2
+1481,1,tiktok,female,23,white,yes,yes,no,attended,yes,78253,San Antonio,TX,veteran,Registered,9,9,3.6
+1482,1,instagram,female,19,black,no,yes,no,graduated,no,46404,Gary,IN,not veteran,Registered,1,1,4.0
+1483,1,instagram,female,30,white,no,no,yes,neither,no,37115,Madison,TN,not veteran,Registered,0,9,0.0
+1484,1,myEmployer,female,25,white,no,yes,no,graduated,yes,80023,Broomfield,CO,not veteran,Registered,13,13,4.0
+1486,1,instagram,female,28,black,no,yes,no,unknown,no,30238,Jonesboro,GA,not veteran,Registered,5,9,1.1
+1487,1,youtube,male,33,americanIndian,no,yes,no,neither,no,57006,Brookings,SD,not veteran,Registered,9,9,4.0
+1491,1,myEmployer,female,22,white,no,yes,no,unknown,no,87112,Albuquerque,NM,not veteran,Registered,4,9,0.4
+1492,1,myEmployer,female,25,black,no,yes,no,attended,yes,60629,Chicago,IL,not veteran,Registered,9,9,3.6
+1494,1,snapchat,female,24,mixed,yes,yes,no,graduated,no,73162,Oklahoma City,OK,not veteran,Registered,9,9,2.4
+1495,1,facebook,female,29,mixed,no,yes,no,neither,no,43224,Columbus,OH,not veteran,Registered,1,1,4.0
+1496,1,instagram,female,23,white,no,yes,no,graduated,yes,92284,Yucca Valley,CA,veteran,Registered,9,9,3.9
+1497,1,facebook,male,39,black,no,yes,no,unknown,yes,26101,Parkersburg,WV,not veteran,Registered,1,1,4.0
+1499,1,facebook,female,26,white,yes,yes,no,neither,no,78745,Austin,TX,not veteran,Registered,9,9,4.0
+1500,1,other,female,29,black,no,yes,no,neither,no,31707,Albany,GA,not veteran,Registered,0,1,0.0
+1503,1,facebook,female,39,black,no,yes,no,neither,yes,30461,Statesboro,GA,not veteran,Registered,0,9,0.0
+1504,1,snapchat,female,22,black,no,yes,no,graduated,no,02301,Brockton,MA,not veteran,Registered,4,9,1.3
+1505,1,myEmployer,female,42,black,no,yes,no,neither,yes,30228,Hampton,GA,not veteran,Registered,4,4,1.0
+1507,1,tiktok,male,31,black,no,yes,no,graduated,no,29075,Little Mountain,SC,not veteran,Registered,8,9,2.2
+1510,1,facebook,female,24,black,no,yes,no,graduated,yes,72390,West Helena,AR,not veteran,Registered,0,9,0.0
+1517,1,internetSearch,female,26,black,no,yes,no,unknown,yes,98373,Puyallup,WA,not veteran,Registered,1,1,1.0
+1519,1,instagram,female,36,black,no,yes,no,neither,no,85008,Phoenix,AZ,not veteran,Registered,8,9,3.0
+1521,1,facebook,male,28,white,yes,yes,no,neither,no,64123,Kansas City,MO,not veteran,Registered,0,9,0.0
+1522,1,tiktok,female,33,white,no,yes,no,graduated,no,68104,Omaha,NE,not veteran,Registered,1,1,4.0
+1524,1,wordOfMouth,male,23,white,yes,yes,no,neither,no,77901,Victoria,TX,not veteran,Registered,1,9,0.1
+1525,1,instagram,female,19,mixed,yes,yes,no,unknown,yes,89501,Reno,NV,not veteran,Registered,0,9,0.0
+1526,1,facebook,female,27,black,no,yes,no,graduated,yes,77845,College Station,TX,not veteran,Registered,9,9,3.1
+1528,1,facebook,female,32,white,no,yes,no,graduated,yes,89110,Las Vegas,NV,not veteran,Registered,0,9,0.0
+1530,1,referred,female,26,black,no,yes,no,neither,yes,42134,Franklin,KY,not veteran,Registered,1,1,3.0
+1531,1,wordOfMouth,female,31,white,no,yes,no,neither,no,38242,Paris,TN,not veteran,Registered,0,9,0.0
+1532,1,myEmployer,female,30,mixed,yes,yes,no,neither,yes,92337,Fontana,CA,not veteran,Registered,9,9,4.0
+1533,1,myEmployer,female,18,white,yes,yes,no,neither,no,32839,Orlando,FL,not veteran,Registered,1,9,0.3
+1534,1,instagram,male,23,white,no,yes,no,neither,no,72160,Stuttgart,AR,not veteran,Registered,9,9,3.0
+1535,1,snapchat,male,29,black,no,yes,no,graduated,no,63132,St.Louis,MO,not veteran,Registered,17,17,4.0
+1536,1,facebook,male,26,black,no,yes,no,graduated,yes,77701,Beaumont,TX,not veteran,Registered,17,17,4.0
+1538,1,facebook,female,25,white,no,yes,no,neither,yes,32803,Orlando,FL,not veteran,Registered,17,17,4.0
+1540,1,youtube,male,18,black,yes,no,yes,neither,no,10001,Alabama,AL,not veteran,Registered,28,28,4.0
+1542,1,myEmployer,female,22,mixed,yes,yes,no,neither,no,11385,Queens,NY,not veteran,Registered,4,4,3.0
+1543,1,snapchat,female,46,black,no,yes,no,neither,yes,38257,South Fulton,TN,not veteran,Registered,9,9,3.9
+1544,1,tiktok,female,24,black,no,yes,no,attended,yes,70814,Baton Rouge,LA,not veteran,Registered,5,9,3.8
+1546,1,facebook,female,28,americanIndian,no,yes,no,neither,no,73527,Cache,OK,not veteran,Registered,9,9,4.0
+1547,1,instagram,male,21,white,no,no,yes,graduated,no,07801,Dover,NJ,not veteran,Registered,0,9,0.0
+1548,1,tiktok,female,25,white,no,yes,no,unknown,yes,92277,Twentynine Palms,CA,not veteran,Registered,0,9,0.0
+1549,1,facebook,female,27,white,no,yes,no,attended,yes,40744,London,KY,not veteran,Registered,4,9,4.0
+1552,1,snapchat,female,25,black,no,yes,no,neither,yes,10466,Bronx,NY,not veteran,Registered,33,33,1.0
+1553,1,youtube,female,42,americanIndian,yes,yes,no,attended,yes,77433,Cypress,TX,not veteran,Registered,9,9,3.6
+1556,1,myEmployer,female,27,white,yes,yes,no,attended,yes,92377,Rialto,CA,not veteran,Registered,9,9,3.4
+1557,1,other,female,37,black,no,yes,no,neither,no,29579,Myrtle Beach,SC,not veteran,Registered,9,9,4.0
+1559,1,facebook,female,33,white,no,yes,no,graduated,yes,46241,Indianapolis,IN,not veteran,Registered,0,9,0.0
+1560,1,youtube,female,33,black,no,yes,no,graduated,no,48030,Hazel Park,MI,not veteran,Registered,9,9,4.0
+1561,1,instagram,female,19,black,no,yes,no,neither,yes,48529,Burton,MI,not veteran,Registered,1,9,0.1
+1562,1,dontknow,male,33,white,no,yes,no,graduated,yes,78209,San Antonio,TX,not veteran,Registered,8,9,1.8
+1563,1,myEmployer,female,25,mixed,yes,yes,no,graduated,yes,85743,Tucson,AZ,veteran,Registered,12,12,4.0
+1565,1,myEmployer,female,27,americanIndian,yes,yes,no,attended,no,85224,Chandler,AZ,not veteran,Registered,9,9,2.4
+1566,1,facebook,female,23,mixed,no,yes,no,neither,no,48653,Roscommon,MI,not veteran,Registered,9,9,3.9
+1567,1,instagram,female,28,white,yes,yes,no,neither,no,17601,Lancaster,PA,not veteran,Registered,0,9,0.0
+1568,1,instagram,female,22,mixed,no,yes,no,neither,yes,29702,Blacksburg,SC,not veteran,Registered,8,9,1.8
+1570,1,internetSearch,female,32,black,no,yes,no,graduated,yes,64109,Kansas City,MO,not veteran,Registered,0,9,0.0
+1571,1,tiktok,male,32,black,no,yes,no,graduated,yes,19116,Philadelphia,PA,not veteran,Registered,9,9,2.4
+1572,1,tiktok,female,21,black,no,yes,no,graduated,yes,39140,Newhebron,MS,not veteran,Registered,9,9,3.3
+1575,1,youtube,female,18,white,no,yes,no,attended,no,85249,Chandler,AZ,not veteran,Registered,9,9,2.7
+1576,1,myEmployer,female,29,mixed,no,yes,no,unknown,yes,11218,Brooklyn,NY,not veteran,Registered,1,9,0.4
+1577,1,youtube,male,20,mixed,yes,yes,no,graduated,no,33065,Coral Springs,FL,not veteran,Registered,9,9,3.6
+1578,1,facebook,female,28,white,no,yes,no,attended,no,32064,Live Oak,FL,not veteran,Registered,1,1,4.0
+1580,1,youtube,female,34,black,no,yes,no,neither,yes,19111,Philadelphia,PA,not veteran,Registered,9,9,3.4
+1583,1,tiktok,female,18,americanIndian,yes,yes,no,neither,no,29926,Hilton Head Island,SC,not veteran,Registered,9,9,3.4
+1584,1,myEmployer,female,35,black,no,yes,no,graduated,yes,91401,Van Nuys,CA,not veteran,Registered,9,9,4.0
+1585,1,myEmployer,female,34,black,yes,yes,no,attended,yes,01902,Lynn,MA,not veteran,Registered,4,4,4.0
+1587,1,instagram,female,25,black,no,yes,no,neither,yes,11213,Brooklyn,NY,not veteran,Registered,9,9,3.6
+1589,2,facebook,male,26,white,yes,yes,no,attended,yes,78840,Del Rio,TX,not veteran,Registered,21,21,4.0
+1590,1,internetSearch,male,26,mixed,no,yes,no,neither,no,57108,Sioux Falls,SD,not veteran,Registered,9,9,2.7
+1592,1,facebook,female,32,white,yes,yes,no,neither,no,17527,Gap,PA,not veteran,Registered,9,9,3.8
+1593,1,tiktok,female,29,white,no,yes,no,graduated,no,31645,Ray City,GA,veteran,Registered,9,9,4.0
+1595,1,instagram,female,51,black,no,yes,no,graduated,no,30507,Gainesville,GA,not veteran,Registered,9,9,3.3
+1596,1,tiktok,female,45,black,no,yes,no,neither,yes,73117,Okc,OK,not veteran,Registered,0,9,0.0
+1597,1,myEmployer,female,19,nativeHawaiian,yes,yes,no,neither,no,92105,San Diego,CA,not veteran,Registered,0,5,0.0
+1598,1,instagram,female,29,mixed,yes,yes,no,graduated,yes,02136,Hyde Park,MA,not veteran,Registered,4,9,0.4
+1603,1,facebook,female,25,mixed,yes,yes,no,attended,no,48507,Flint,MI,not veteran,Registered,1,1,2.0
+1604,1,instagram,male,28,black,no,yes,no,graduated,yes,78741,Austin,TX,not veteran,Registered,9,9,3.0
+1605,1,email,female,27,white,yes,yes,no,graduated,yes,78520,Brownsville,TX,not veteran,Registered,9,9,
+1606,1,myEmployer,female,27,white,no,yes,no,neither,no,06320,New London,CT,not veteran,Registered,9,9,3.0
+1607,1,tiktok,female,31,black,no,yes,no,attended,yes,64138,Raytown,MO,not veteran,Registered,9,9,3.6
+1609,1,wordOfMouth,female,29,white,no,yes,no,graduated,no,29115,Orangeburg,SC,not veteran,Registered,9,9,4.0
+1611,1,youtube,male,48,black,no,yes,no,graduated,yes,75215,Dallas,TX,not veteran,Registered,9,9,3.0
+1612,1,tiktok,male,19,black,no,yes,no,attended,yes,30310,Atlanta,GA,not veteran,Registered,0,9,0.0
+1613,1,newsArticle,male,24,white,yes,yes,no,attended,yes,77504,Pasadena,TX,not veteran,Registered,1,1,4.0
+1614,1,wordOfMouth,male,24,black,no,yes,no,graduated,no,71459,Fort Johnson,LA,veteran,Registered,1,1,4.0
+1616,1,facebook,male,33,white,no,yes,no,neither,no,32117,Daytona Beach,FL,not veteran,Registered,9,9,4.0
+1617,1,facebook,female,27,white,no,yes,no,attended,no,49006,Kalamazoo,MI,not veteran,Registered,1,1,4.0
+1618,1,facebook,,32,black,no,no,yes,unknown,no,11216,Brooklyn,NY,veteran,Registered,1,1,4.0
+1620,1,facebook,female,27,white,no,yes,no,neither,no,31407,Savannah,GA,not veteran,Registered,9,9,3.1
+1623,1,dontknow,female,22,white,yes,yes,no,neither,yes,95628,Fair Oaks,CA,not veteran,Registered,1,9,0.1
+1624,1,instagram,female,26,black,no,yes,no,graduated,yes,33150,Miami,FL,not veteran,Registered,9,9,4.0
+1625,1,youtube,no-binary,30,black,no,yes,no,neither,no,86442,Bullhead City,AZ,not veteran,Registered,9,9,4.0
+1626,1,tiktok,female,27,mixed,yes,yes,no,unknown,no,06492,Wallingford,CT,not veteran,Registered,1,1,4.0
+1627,1,instagram,female,35,black,no,yes,no,graduated,no,23602,Newport News,VA,not veteran,Registered,0,9,0.0
+1628,1,instagram,female,25,black,no,yes,no,graduated,yes,55403,Minneapolis,MN,not veteran,Registered,9,9,3.4
+1630,2,snapchat,female,25,black,no,yes,no,attended,yes,49503,Grand Rapids,MI,not veteran,Registered,29,29,4.0
+1631,1,snapchat,female,29,white,no,yes,no,attended,yes,58075,Wahpeton,ND,not veteran,Registered,13,13,2.6
+1632,1,tiktok,female,30,mixed,yes,yes,no,neither,yes,08302,Bridgeton,NJ,not veteran,Registered,9,9,3.8
+1634,1,referred,female,46,white,yes,yes,no,neither,no,78045,Laredo,TX,not veteran,Registered,9,9,4.0
+1636,1,youtube,female,25,white,no,yes,no,neither,yes,65619,Battlefield,MO,not veteran,Registered,4,9,1.3
+1637,1,youtube,male,23,mixed,yes,yes,no,unknown,no,01602,Worcester,MA,not veteran,Registered,1,1,4.0
+1638,1,dontknow,female,20,black,no,yes,no,neither,yes,29303,Spartanburg,SC,not veteran,Registered,1,1,3.0
+1640,1,instagram,female,26,asian,no,yes,no,attended,yes,19007,Bristol,PA,not veteran,Registered,0,9,0.0
+1646,1,other,female,44,mixed,yes,yes,no,graduated,yes,48910,Lansing,MI,not veteran,Registered,9,9,3.6
+1647,1,facebook,male,25,white,no,yes,no,neither,no,17068,New Bloomfield,PA,not veteran,Registered,9,9,4.0
+1649,1,facebook,female,28,white,no,yes,no,graduated,yes,32062,Mcalpin,FL,not veteran,Registered,9,9,4.0
+1650,1,facebook,male,36,white,no,yes,no,neither,no,63436,Center,MO,not veteran,Registered,0,1,0.0
+1652,1,facebook,female,28,white,no,yes,no,attended,yes,89018,Indian Springs,NV,not veteran,Registered,9,9,4.0
+1653,2,myEmployer,male,22,asian,no,yes,no,neither,no,19079,Sharon Hill,PA,not veteran,Registered,9,13,2.0
+1656,1,tiktok,female,28,white,yes,yes,no,graduated,no,13679,Redwood,NY,not veteran,Registered,1,1,4.0
+1657,1,youtube,female,30,black,no,yes,no,neither,no,55449,Blaine,MN,not veteran,Registered,0,9,0.0
+1658,1,tiktok,female,45,white,no,yes,no,neither,no,76548,Harker Heights,TX,not veteran,Registered,9,9,3.6
+1659,1,internetSearch,female,51,black,no,yes,no,neither,no,72114,North Little Rock,AR,not veteran,Registered,0,1,0.0
+1662,1,referred,female,30,mixed,yes,yes,no,neither,no,65613,Bolivar,MO,not veteran,Registered,9,9,4.0
+1663,1,facebook,female,28,black,no,yes,no,neither,yes,78660,Pflugerville,TX,not veteran,Registered,0,9,0.0
+1665,1,youtube,male,39,mixed,no,yes,no,attended,yes,31404,Savannah,GA,not veteran,Registered,1,9,0.3
+1667,1,tiktok,female,25,black,no,yes,no,graduated,yes,19144,Philadelphia,PA,not veteran,Registered,9,9,3.3
+1669,1,instagram,female,24,black,no,yes,no,graduated,yes,46260,Indianapolis,IN,not veteran,Registered,9,9,3.6
+1670,1,facebook,female,27,white,no,yes,no,graduated,no,74447,Okmulgee,OK,not veteran,Registered,9,9,3.0
+1673,1,facebook,female,27,black,no,yes,no,neither,yes,11226,Brooklyn,NY,not veteran,Registered,1,1,4.0
+1674,1,instagram,female,22,mixed,yes,yes,no,neither,yes,30297,Forest Park,FL,not veteran,Registered,33,33,
+1676,1,facebook,female,25,mixed,yes,yes,no,neither,no,58784,Stanley,ND,not veteran,Registered,0,9,0.0
+1677,1,facebook,female,28,nativeHawaiian,yes,yes,no,neither,yes,80924,Colorado Springs,CO,veteran,Registered,9,9,4.0
+1678,1,referred,female,27,black,no,no,yes,graduated,no,30032,Decatur,GA,not veteran,Registered,0,0,
+1679,1,wordOfMouth,female,27,white,no,yes,no,graduated,no,30739,Rock Spring,GA,not veteran,Registered,1,1,4.0
+1681,1,internetSearch,male,19,black,no,yes,no,neither,no,33179,Miami,FL,not veteran,Registered,1,1,4.0
+1682,1,facebook,female,24,white,no,yes,no,neither,no,72764,Springdale,AR,not veteran,Registered,1,1,4.0
+1683,1,youtube,male,28,white,yes,yes,no,neither,yes,79035,Friona,TX,veteran,Registered,9,9,4.0
+1687,1,wordOfMouth,female,18,mixed,no,yes,no,neither,no,36054,Milbrook,AL,veteran,Registered,9,9,4.0
+1689,1,snapchat,male,28,mixed,yes,yes,no,neither,no,78721,Austin,TX,not veteran,Registered,4,9,1.8
+1692,1,instagram,female,24,black,no,yes,no,neither,yes,43213,Columbus,OH,not veteran,Registered,1,9,0.2
+1693,1,snapchat,female,38,black,no,yes,no,neither,no,22485,King George,VA,not veteran,Registered,9,9,2.7
+1694,1,facebook,female,22,mixed,yes,yes,no,neither,no,64801,Joplin,MO,not veteran,Registered,1,1,4.0
+1697,1,wordOfMouth,male,25,black,no,yes,no,attended,no,76112,Fort Worth,TX,not veteran,Registered,9,9,2.1
+1699,1,facebook,female,22,black,no,yes,no,attended,no,35956,Boaz,AL,not veteran,Registered,9,9,3.6
+1701,1,referred,male,50,black,no,yes,no,neither,no,77433,Cypress,TX,not veteran,Registered,9,9,4.0
+1703,1,snapchat,female,23,white,no,yes,no,neither,no,62930,Eldorado,IL,not veteran,Registered,1,1,4.0
+1704,1,myEmployer,female,19,white,yes,yes,no,neither,yes,76645,Hillsboro,TX,not veteran,Registered,0,9,0.0
+1705,1,other,female,28,white,no,yes,no,unknown,no,85119,Apache Junction,AZ,not veteran,Registered,9,9,4.0
+1707,1,myEmployer,female,35,white,yes,yes,no,neither,yes,90304,Inglewood,CA,not veteran,Registered,9,9,3.7
+1712,1,youtube,female,63,mixed,yes,yes,no,neither,yes,42211,Cadiz,KY,not veteran,Registered,5,9,0.6
+12,4,wordOfMouth,male,20,mixed,yes,yes,no,attended,no,01970,Salem,MA,not veteran,Withdrawn,17,33,1.8
+32,1,linkedin,no-binary,26,white,yes,yes,no,attended,yes,47171,New Salisbury,IN,not veteran,Withdrawn,9,9,4.0
+37,1,facebook,female,30,white,no,yes,no,neither,yes,40447,Mckee,KY,veteran,Withdrawn,0,9,
+41,1,newsArticle,female,40,black,no,yes,no,attended,yes,30238,Jonesboro,GA,not veteran,Withdrawn,0,9,
+45,4,internetSearch,female,25,white,no,yes,no,attended,no,46582,Warsaw,IN,not veteran,Withdrawn,21,33,3.0
+47,3,instagram,male,22,white,yes,yes,no,attended,no,06405,Branford,CT,not veteran,Withdrawn,9,29,1.6
+88,2,youtube,male,38,black,no,no,yes,neither,no,46203,Indianapolis,IN,not veteran,Withdrawn,9,21,4.0
+92,3,instagram,male,23,white,no,yes,no,attended,no,85142,Queen Creek,AZ,not veteran,Withdrawn,31,31,3.9
+108,3,facebook,female,30,black,no,no,yes,attended,yes,39501,Gulfport,MS,not veteran,Withdrawn,25,37,2.7
+110,2,dontknow,female,29,white,no,yes,no,attended,yes,43420,Fremont,OH,not veteran,Withdrawn,0,9,0.0
+112,2,referred,female,25,white,no,yes,no,neither,yes,34951,Fort Pierce,FL,not veteran,Withdrawn,0,9,0.0
+114,2,other,female,21,mixed,no,yes,no,attended,yes,71822,Ashdown,AR,not veteran,Withdrawn,4,13,1.3
+121,4,facebook,female,21,mixed,no,yes,no,attended,no,29340,Gaffney,SC,not veteran,Withdrawn,8,13,1.3
+138,2,facebook,male,28,americanIndian,no,no,yes,attended,yes,43206,Columbus,OH,not veteran,Withdrawn,9,15,2.3
+149,4,instagram,female,27,black,no,yes,no,neither,yes,30039,Snellville,GA,not veteran,Withdrawn,25,29,3.2
+150,2,facebook,female,41,black,no,yes,no,attended,no,98118,Seattle,WA,not veteran,Withdrawn,0,9,0.0
+151,4,facebook,female,25,black,no,yes,no,attended,yes,37087,Lebanon,TN,not veteran,Withdrawn,4,13,1.3
+178,3,instagram,male,37,black,no,yes,no,attended,yes,34748,Leesburg,FL,not veteran,Withdrawn,21,33,3.4
+192,3,tiktok,no-binary,21,white,no,yes,no,neither,no,63336,Clarksville,MO,not veteran,Withdrawn,9,21,1.9
+217,3,facebook,female,22,white,no,no,yes,attended,no,70506,Lafayette,LA,veteran,Withdrawn,17,29,2.5
+231,2,tiktok,male,25,black,no,yes,no,neither,no,29472,Ridgeville,SC,not veteran,Withdrawn,1,11,0.3
+235,3,tiktok,female,27,nativeHawaiian,no,yes,no,neither,yes,85018,Phoenix,AZ,not veteran,Withdrawn,9,18,1.5
+238,2,facebook,female,27,white,no,yes,no,attended,no,37412,Chattanooga,TN,not veteran,Withdrawn,9,21,2.7
+252,2,facebook,female,29,black,no,yes,no,attended,no,29488,Walterboro,SC,not veteran,Withdrawn,9,9,4.0
+256,2,wordOfMouth,male,33,black,no,yes,no,neither,no,30236,Jonesboro,GA,not veteran,Withdrawn,1,9,0.1
+259,2,instagram,male,25,black,no,yes,no,neither,no,48224,Detroit,MI,not veteran,Withdrawn,5,13,1.4
+262,2,instagram,female,24,black,no,yes,no,neither,no,75070,Mckinney,TX,not veteran,Withdrawn,5,9,1.1
+266,2,instagram,female,19,black,no,yes,no,attended,no,32818,Orlando,FL,not veteran,Withdrawn,4,13,1.3
+267,3,instagram,female,55,black,no,yes,no,attended,no,33064,Pompano Beach,FL,not veteran,Withdrawn,14,22,3.3
+284,1,facebook,male,25,black,no,yes,no,neither,yes,38114,Memphis,TN,not veteran,Withdrawn,0,8,
+289,3,facebook,female,26,black,no,yes,no,attended,yes,31405,Savannah,GA,not veteran,Withdrawn,13,22,1.9
+291,2,facebook,female,23,black,no,yes,no,attended,no,70501,Lafayette,LA,not veteran,Withdrawn,1,9,0.4
+292,5,facebook,female,25,black,no,yes,no,neither,no,23224,Richmond,VA,not veteran,Withdrawn,13,22,1.0
+294,2,facebook,female,29,black,no,yes,no,neither,no,08302,Bridgeton,NJ,not veteran,Withdrawn,5,15,1.6
+298,2,snapchat,female,29,white,no,yes,no,neither,yes,34449,Inglis,FL,not veteran,Withdrawn,0,9,0.0
+338,4,facebook,female,22,white,no,yes,no,attended,no,74020,Cleveland,OK,veteran,Withdrawn,30,42,3.4
+351,3,facebook,no-binary,28,mixed,no,yes,no,attended,no,64133,Kansas City,MO,not veteran,Withdrawn,5,9,0.6
+361,3,instagram,male,25,white,no,yes,no,attended,no,44601,Alliance,OH,not veteran,Withdrawn,13,26,2.0
+363,2,facebook,female,20,mixed,yes,yes,no,attended,no,75160,Terrell,TX,not veteran,Withdrawn,5,14,2.8
+380,11,dontknow,female,29,black,no,yes,no,attended,yes,20151,Chantilly,VA,not veteran,Withdrawn,17,35,0.0
+388,2,facebook,female,23,white,no,yes,no,attended,yes,45662,Portsmouth,OH,not veteran,Withdrawn,0,9,0.0
+393,2,referred,female,36,white,no,yes,no,attended,no,77340,Huntsville,TX,not veteran,Withdrawn,5,15,1.0
+401,9,dontknow,male,22,white,no,yes,no,attended,no,43035,Lewis Center,OH,not veteran,Withdrawn,84,92,3.1
+408,1,linkedin,male,28,mixed,no,yes,no,attended,no,44128,Cleveland,OH,not veteran,Withdrawn,0,1,
+410,2,wordOfMouth,female,34,white,no,yes,no,attended,no,29372,Pacolet,SC,not veteran,Withdrawn,9,21,4.0
+413,1,tiktok,female,31,white,no,yes,no,attended,no,83683,Nampa,ID,not veteran,Withdrawn,0,9,
+416,1,facebook,female,27,white,no,yes,no,neither,yes,33563,Plant City,FL,not veteran,Withdrawn,0,4,
+424,1,instagram,male,27,white,no,yes,no,attended,no,40065,Shelbyville,KY,not veteran,Withdrawn,0,9,
+435,2,facebook,female,29,black,no,yes,no,attended,yes,36330,Enterprise,AL,not veteran,Withdrawn,9,21,4.0
+436,1,facebook,female,22,mixed,no,yes,no,attended,yes,63138,Saint Louis,MO,not veteran,Withdrawn,17,21,
+441,3,facebook,no-binary,27,americanIndian,no,yes,no,attended,yes,70508,Lafayette,LA,not veteran,Withdrawn,9,21,3.4
+443,3,facebook,female,34,black,no,yes,no,neither,no,44106,Cleveland,OH,not veteran,Withdrawn,21,31,3.0
+446,3,facebook,female,43,americanIndian,no,yes,no,attended,yes,67502,Hutchinson,KS,not veteran,Withdrawn,21,33,3.2
+447,2,youtube,female,37,white,no,yes,no,neither,no,35806,Huntsville,AL,not veteran,Withdrawn,9,21,4.0
+457,2,facebook,female,24,white,yes,yes,no,neither,no,45631,Galipolis,OH,not veteran,Withdrawn,8,9,0.9
+476,2,internetSearch,female,30,black,no,yes,no,neither,yes,30012,Lithia Springs,GA,not veteran,Withdrawn,9,21,3.1
+477,3,dontknow,female,23,white,yes,yes,no,neither,no,87031,Los Lunas,NM,not veteran,Withdrawn,0,9,
+494,5,dontknow,male,25,black,no,yes,no,neither,no,61018,Dakota,IL,not veteran,Withdrawn,21,33,4.0
+497,9,dontknow,female,26,americanIndian,no,yes,no,attended,yes,74017,Claremore,OK,not veteran,Withdrawn,43,64,2.0
+502,1,tiktok,female,19,black,no,yes,no,neither,yes,18612,Dallas,PA,not veteran,Withdrawn,0,9,
+515,2,facebook,male,24,black,no,yes,no,attended,yes,71730,El Dorado,AR,not veteran,Withdrawn,17,29,1.4
+518,4,facebook,female,23,white,yes,yes,no,attended,no,06260,Putnam,CT,not veteran,Withdrawn,13,31,2.4
+521,2,instagram,female,28,black,no,no,yes,attended,no,01040,Holyoke,MA,not veteran,Withdrawn,5,14,1.1
+531,2,newsArticle,male,29,white,yes,yes,no,neither,yes,93304,Bakersfield,CA,not veteran,Withdrawn,9,21,2.7
+533,2,wordOfMouth,female,38,black,no,yes,no,attended,no,48214,Detroit,MI,not veteran,Withdrawn,4,9,1.3
+539,3,instagram,female,21,white,yes,yes,no,attended,yes,77064,Houston,TX,not veteran,Withdrawn,9,22,2.0
+540,2,snapchat,female,28,black,no,yes,no,attended,no,64106,Kansas City,MO,not veteran,Withdrawn,0,9,0.0
+546,4,facebook,female,23,white,no,yes,no,attended,yes,17745,Lock Haven,PA,not veteran,Withdrawn,33,43,2.5
+557,2,facebook,female,26,black,no,no,yes,attended,yes,35401,Tuscaloosa,AL,not veteran,Withdrawn,4,13,0.9
+562,2,instagram,female,28,black,no,yes,no,neither,no,39402,Hattiesburg,MS,not veteran,Withdrawn,9,15,2.2
+563,2,instagram,female,30,white,no,yes,no,attended,yes,94590,Vallejo,CA,not veteran,Withdrawn,9,21,2.6
+572,2,tiktok,female,21,white,no,yes,no,attended,no,44889,Wakeman,OH,not veteran,Withdrawn,9,21,3.2
+595,2,instagram,female,27,black,no,yes,no,attended,no,70809,Baton Rouge,LA,not veteran,Withdrawn,18,30,3.9
+614,2,instagram,female,28,black,no,yes,no,attended,yes,38118,Memphis,TN,not veteran,Withdrawn,1,13,0.2
+615,4,facebook,female,24,black,no,yes,no,neither,no,46902,Kokomo,IN,not veteran,Withdrawn,17,33,1.7
+627,1,internetSearch,male,25,asian,no,yes,no,graduated,yes,77070,Houston,TX,not veteran,Withdrawn,0,0,
+628,1,instagram,female,44,white,yes,yes,no,neither,no,78242,San Antonio,TX,not veteran,Withdrawn,0,1,
+635,1,newsArticle,female,34,americanIndian,no,yes,no,graduated,yes,96780,Papaaloa,HI,not veteran,Withdrawn,0,8,
+642,1,email,female,22,mixed,yes,yes,no,neither,yes,10456,Bronx,NY,not veteran,Withdrawn,0,9,
+649,1,facebook,female,28,white,no,yes,no,graduated,yes,92308,Apple Valley,CA,not veteran,Withdrawn,0,9,
+655,1,youtube,female,22,black,no,yes,no,unknown,no,71923,Arkadelphia,AR,not veteran,Withdrawn,1,1,4.0
+657,1,snapchat,male,20,white,yes,yes,no,graduated,no,55987,Winona,MN,not veteran,Withdrawn,0,1,
+658,1,facebook,male,32,black,no,yes,no,graduated,no,31792,Thomasville,GA,not veteran,Withdrawn,0,1,
+679,1,facebook,female,24,black,no,yes,no,neither,no,32207,Jacksonville,FL,not veteran,Withdrawn,0,1,
+710,1,snapchat,female,31,mixed,yes,yes,no,graduated,yes,90028,Los Angeles,CA,not veteran,Withdrawn,0,0,
+725,1,facebook,male,26,white,no,yes,no,neither,no,17025,Enola,PA,not veteran,Withdrawn,0,9,
+735,1,wordOfMouth,female,39,black,no,yes,no,unknown,no,55446,Plymouth,MN,not veteran,Withdrawn,0,9,
+746,1,tiktok,female,31,black,no,yes,no,unknown,no,30014,Covington,GA,not veteran,Withdrawn,0,0,
+786,1,instagram,male,27,mixed,no,yes,no,graduated,yes,80817,Fountain,CO,not veteran,Withdrawn,0,9,
+790,1,email,female,28,black,no,yes,no,neither,no,70127,New Orleans,LA,not veteran,Withdrawn,0,1,
+810,1,snapchat,male,25,mixed,yes,yes,no,neither,no,85339,Laveen,AZ,not veteran,Withdrawn,0,9,
+830,1,internetSearch,female,29,black,no,yes,no,attended,yes,48035,Clinton Township,MI,not veteran,Withdrawn,0,0,
+848,1,dontknow,male,34,mixed,no,yes,no,neither,no,77083,Houston,TX,not veteran,Withdrawn,0,9,
+849,1,facebook,female,47,black,no,no,yes,neither,no,29801,Aiken,SC,not veteran,Withdrawn,0,9,
+868,1,facebook,male,35,white,no,yes,no,unknown,yes,72949,Ozark,AR,not veteran,Withdrawn,0,1,
+873,1,youtube,male,18,white,yes,yes,no,neither,no,32765,Oviedo,FL,not veteran,Withdrawn,0,9,
+881,1,tiktok,female,20,black,no,yes,no,graduated,yes,22191,Woodbridge,VA,not veteran,Withdrawn,0,9,
+891,1,youtube,female,34,white,no,yes,no,graduated,yes,98671,Washougal,WA,not veteran,Withdrawn,9,9,4.0
+958,1,wordOfMouth,female,19,white,no,yes,no,neither,no,72032,Conway,AR,not veteran,Withdrawn,0,9,
+970,1,internetSearch,female,18,mixed,yes,yes,no,graduated,no,95821,Sacramento,CA,not veteran,Withdrawn,0,9,
+974,1,tiktok,male,35,black,no,yes,no,neither,no,91752,Mira Loma,CA,not veteran,Withdrawn,0,9,
+975,1,internetSearch,male,25,white,no,yes,no,neither,no,36010,Brundidge,AL,not veteran,Withdrawn,0,9,
+979,1,facebook,male,54,black,no,no,yes,neither,yes,72210,Little Rock,AR,not veteran,Withdrawn,0,1,
+1000,1,instagram,female,20,asian,no,yes,no,attended,yes,92126,San Diego,CA,veteran,Withdrawn,0,9,
+1021,1,instagram,female,19,mixed,no,yes,no,attended,yes,63133,Saint Louis,MO,not veteran,Withdrawn,0,0,
+1024,1,internetSearch,female,28,black,yes,yes,no,neither,yes,08094,Williamstown,NJ,not veteran,Withdrawn,0,9,
+1036,1,internetSearch,female,22,white,yes,yes,no,neither,no,77077,Houston,TX,not veteran,Withdrawn,0,9,
+1042,1,instagram,female,20,mixed,yes,yes,no,graduated,no,85713,Tucson,AZ,not veteran,Withdrawn,0,9,
+1050,1,facebook,female,24,white,no,yes,no,attended,no,17025,Enola,PA,not veteran,Withdrawn,0,9,
+1065,1,wordOfMouth,male,33,americanIndian,no,yes,no,neither,yes,66612,Topeka,KS,not veteran,Withdrawn,0,1,
+1071,1,youtube,female,46,black,no,yes,no,attended,yes,70812,Baton Rouge,LA,not veteran,Withdrawn,0,9,
+1089,2,facebook,female,25,white,no,yes,no,attended,no,41501,Pikeville,KY,not veteran,Withdrawn,9,19,3.6
+1124,1,facebook,female,25,white,no,yes,no,neither,no,76247,Justin,TX,not veteran,Withdrawn,0,9,
+1133,1,tiktok,female,35,americanIndian,no,yes,no,neither,no,19143,Philadelphia,PA,not veteran,Withdrawn,1,1,4.0
+1134,1,facebook,male,26,white,no,yes,no,unknown,yes,81089,Walsenburg,CO,not veteran,Withdrawn,5,5,
+1135,1,tiktok,female,29,black,no,yes,no,neither,no,60628,Chicago,IL,not veteran,Withdrawn,0,9,
+1140,1,facebook,female,34,black,no,yes,no,unknown,yes,32210,Jacksonville,FL,not veteran,Withdrawn,13,13,
+1150,1,youtube,female,23,black,no,yes,no,neither,no,38127,Memphis,TN,not veteran,Withdrawn,9,9,2.0
+1158,1,internetSearch,male,19,black,no,yes,no,neither,no,45211,Cincinnati,OH,not veteran,Withdrawn,0,9,
+1175,1,instagram,female,33,black,no,no,yes,neither,yes,77091,Houston,TX,not veteran,Withdrawn,0,0,
+1190,1,facebook,female,26,black,no,yes,no,neither,no,48205,Detroit,MI,not veteran,Withdrawn,0,9,
+1215,1,facebook,female,19,black,no,yes,no,graduated,no,72301,West Memphis,AR,not veteran,Withdrawn,0,9,
+1224,1,facebook,female,36,black,no,yes,no,neither,yes,74106,Tulsa,OK,not veteran,Withdrawn,0,0,
+1246,1,facebook,male,26,white,no,no,yes,unknown,no,33841,Fort Meade,FL,not veteran,Withdrawn,0,9,
+1248,2,myEmployer,male,22,white,no,yes,no,graduated,yes,08884,Spotswood,NJ,not veteran,Withdrawn,19,19,4.0
+1254,1,instagram,female,29,white,no,yes,no,neither,no,79015,Canyon,TX,not veteran,Withdrawn,5,9,0.8
+1255,1,facebook,female,33,black,no,yes,no,neither,yes,45246,West Chester,OH,not veteran,Withdrawn,0,0,
+1264,1,facebook,female,20,white,no,yes,no,graduated,no,61101,Rockford,IL,not veteran,Withdrawn,0,0,
+1277,1,facebook,female,41,black,no,yes,no,neither,yes,22488,Kinsale,VA,not veteran,Withdrawn,0,1,
+1281,1,facebook,female,19,black,no,yes,no,neither,no,60637,Chicago,IL,not veteran,Withdrawn,0,4,
+1302,1,instagram,male,24,black,no,yes,no,neither,no,55429,Brooklyn Center,MN,not veteran,Withdrawn,0,0,
+1316,1,email,female,25,black,no,no,yes,unknown,no,77035,Houston,TX,not veteran,Withdrawn,0,1,
+1318,10,internetSearch,female,25,black,no,yes,no,neither,yes,60637,Chicago,IL,not veteran,Withdrawn,52,80,1.8
+1328,1,facebook,female,23,white,no,yes,no,graduated,yes,32092,Saint Augustine,FL,not veteran,Withdrawn,9,9,4.0
+1360,1,instagram,male,26,mixed,yes,yes,no,neither,no,11520,Freeport,NY,not veteran,Withdrawn,0,1,
+1372,1,facebook,female,26,white,yes,yes,no,neither,no,78653,Manor,TX,not veteran,Withdrawn,0,9,
+1379,2,facebook,female,19,white,no,yes,no,attended,no,72032,Conway,AR,not veteran,Withdrawn,9,21,4.0
+1393,1,internetSearch,female,23,black,no,yes,no,neither,no,92374,Redlands,CA,not veteran,Withdrawn,0,9,
+1421,1,myEmployer,male,31,black,no,yes,no,neither,no,30341,Atlanta,GA,not veteran,Withdrawn,0,9,
+1426,1,instagram,male,34,black,no,yes,no,attended,yes,30215,Fayetteville,GA,not veteran,Withdrawn,0,9,
+1443,1,tiktok,male,27,mixed,no,yes,no,unknown,no,98373,Puyallup,WA,not veteran,Withdrawn,0,1,
+1446,1,snapchat,female,24,black,no,yes,no,neither,no,30458,Statesboro,GA,not veteran,Withdrawn,9,9,4.0
+1462,1,internetSearch,male,20,white,yes,yes,no,neither,yes,91768,Pomona,CA,veteran,Withdrawn,0,9,
+1463,1,instagram,female,20,black,no,yes,no,neither,yes,36603,Mobile,AL,not veteran,Withdrawn,0,9,
+1490,1,facebook,male,24,white,no,yes,no,graduated,no,76131,Fort Worth,TX,veteran,Withdrawn,0,0,
+1537,1,facebook,female,46,black,no,yes,no,unknown,yes,37115,Madison,TN,not veteran,Withdrawn,0,9,
+1554,1,internetSearch,male,37,white,no,yes,no,attended,yes,98377,Randle,WA,not veteran,Withdrawn,0,0,
+1594,1,tiktok,female,33,black,no,yes,no,neither,no,53206,Milwaukee,WI,not veteran,Withdrawn,0,0,
+1601,1,facebook,female,28,white,no,yes,no,neither,yes,33565,Plant City,FL,not veteran,Withdrawn,1,1,4.0
+1668,1,facebook,male,27,black,no,yes,no,unknown,no,43207,Columbus,OH,not veteran,Withdrawn,0,9,
+1671,1,facebook,female,30,mixed,no,yes,no,graduated,yes,32092,St Augustine,FL,not veteran,Withdrawn,0,0,
+1672,3,dontknow,female,31,black,no,yes,no,unknown,yes,95842,Sacramento,CA,veteran,Withdrawn,5,17,1.4
+1680,1,internetSearch,male,28,black,no,yes,no,neither,no,48240,Redford,MI,not veteran,Withdrawn,0,9,
+1684,1,tiktok,female,19,black,no,yes,no,unknown,no,38671,Southaven,MS,not veteran,Withdrawn,0,9,
+1696,1,other,female,22,black,yes,yes,no,unknown,no,89030,North Las Vegas,NV,not veteran,Withdrawn,0,9,
+1706,1,facebook,female,30,black,no,yes,no,neither,no,23504,Norfolk,VA,not veteran,Withdrawn,0,1,
+1709,1,instagram,female,24,black,no,yes,no,unknown,no,76133,Fort Worth,TX,not veteran,Withdrawn,0,0,
