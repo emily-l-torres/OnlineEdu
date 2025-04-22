@@ -273,7 +273,6 @@ To analyze each section of data, I segmented the data utilizing the following:
 | Suburban/Mid-Sized Cities | 16         | 6.25%          | 6.25%               | 6.25%                  | 81.25%           | 0.00%          |
 | Urban Core             | 135            | 0.74%          | 9.63%               | 11.11%                 | 71.85%           | 6.67%          |
 | **Total**              | **205**        |                 |                    |                         |                |                |
-
 **Avg Regional Percentage** | **2.95%** | **7.15%** | **8.87%** | **75.73%** | **5.31%** |
 
 #### West Region Students Based on Zone & Registration Status
@@ -283,8 +282,7 @@ To analyze each section of data, I segmented the data utilizing the following:
 | Suburban/Mid-Sized Cities | 101         | 1.98%          | 10.89%              | 20.79%                 | 58.42%           | 7.92%          |
 | Urban Core             | 107            | 4.67%          | 11.21%              | 13.09%                 | 62.62%           | 8.41%          |
 | **Total**              | **260**        |                 |                    |                         |                |                |
-
-| **Avg Regional Percentage** | **3.5%** | **8.65%** | **17.06%** | **60.86%** | **9.93%** |
+**Avg Regional Percentage** | **3.5%** | **8.65%** | **17.06%** | **60.86%** | **9.93%** |
 
 #### Northeast and West Regional Zone Registration Status Comparison
 | Region     | Avg % Add/Drop | Avg % Did Not Start | Avg % Provisional Drop | Avg % Registered | Avg % Withdrawn |
